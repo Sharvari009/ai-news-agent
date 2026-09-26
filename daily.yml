@@ -1,0 +1,35 @@
+name: Daily AI news brief
+
+on:
+  schedule:
+    - cron: "15 2 * * *"   # 7:45 AM IST every day (GitHub uses UTC)
+  workflow_dispatch:         # adds a "Run workflow" button for manual runs
+
+permissions:
+  contents: write            # lets the agent save the news file
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install tools
+        run: pip install -r requirements.txt
+
+      - name: Run the agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python agent.py
+
+      - name: Save today's news
+        run: |
+          git config user.name "AI News Agent"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/
+          git diff --cached --quiet || git commit -m "News brief for $(TZ=Asia/Kolkata date +%F)"
+          git push

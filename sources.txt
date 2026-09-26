@@ -1,0 +1,16 @@
+# Trusted news feeds the agent reads every morning (one link per line).
+# Lines starting with # are notes. Add or remove feeds any time.
+# If a feed breaks, the agent skips it and carries on.
+
+# India: startups, funding, tech business
+https://inc42.com/feed/
+https://entrackr.com/feed/
+https://yourstory.com/feed
+https://analyticsindiamag.com/feed/
+https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+
+# Global: AI business, launches, Big Tech
+https://techcrunch.com/category/artificial-intelligence/feed/
+https://venturebeat.com/category/ai/feed/
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+https://www.technologyreview.com/topic/artificial-intelligence/feed
