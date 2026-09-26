@@ -1,98 +1,98 @@
 {
   "date": "2026-09-26",
-  "generated_at": "2026-09-26T19:05+05:30",
-  "articles_read": 84,
+  "generated_at": "2026-09-26T19:26+05:30",
+  "articles_read": 85,
   "sources_read": 6,
   "stories": [
     {
-      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-      "summary": "Anthropic signed an 11.6 billion dollar cloud computing deal with Akamai over seven years to expand its infrastructure capacity.",
-      "why": "Major cloud infrastructure commitments highlight the massive scaling costs of frontier foundation models.",
-      "category": "Big Tech",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-      "published": "2026-09-25T19:13:38+00:00"
-    },
-    {
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "summary": "Microsoft unveiled a redesigned Copilot super app integrating chat, coding, and agents into a single productivity interface.",
-      "why": "Demonstrates Big Tech's strategy to bundle disparate AI capabilities into mainstream enterprise applications.",
-      "category": "Product launch",
-      "source": "AI | The Verge",
-      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "published": "2026-09-25T12:00:00+00:00"
-    },
-    {
       "title": "Govt Mulls ₹20,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
-      "summary": "The Indian government is considering a 20,000 crore rupee fund to support domestic frontier AI and compute infrastructure development.",
-      "why": "Highlights direct state intervention and capital allocation for sovereign AI compute ecosystems in India.",
+      "summary": "The Indian government is considering an anchor investment of ₹15,000 Cr to ₹20,000 Cr to fund domestic frontier AI and compute infrastructure.",
+      "why": "Massive public capital injection creates immense opportunities for Indian AI startups and local enterprise infrastructure providers.",
       "category": "Policy",
       "source": "Inc42 Media",
       "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/",
       "published": "2026-09-25T06:08:06+00:00"
     },
     {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "summary": "Microsoft unveiled a redesigned Copilot super app combining chat, coding, and agents into a single user interface, alongside rebranding its Scout assistant.",
+      "why": "Defines how Big Tech is consolidating disparate AI features into unified enterprise and consumer workflows.",
+      "category": "Big Tech",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "published": "2026-09-25T12:00:00+00:00"
+    },
+    {
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic signed an $11.6 billion, seven-year cloud infrastructure deal with Akamai, securing CPU compute and an equity stake arrangement.",
+      "why": "Highlights the staggering capital expenditure and cloud diversification strategies required by frontier AI labs to scale operations.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "published": "2026-09-25T19:13:38+00:00"
+    },
+    {
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "British AI neocloud Nscale secured $3.36B in convertible financing from investors like Nvidia and Third Point ahead of a US IPO.",
+      "why": "Demonstrates booming investor appetite and massive capital requirements for building specialized AI data center infrastructure.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "published": "2026-09-25T18:33:59+00:00"
+    },
+    {
       "title": "Sarvam AI updates vision model, doubles down on Indic-language push",
-      "summary": "Sarvam AI updated its vision model, strengthening its focus on OCR capabilities for Indic languages.",
-      "why": "Showcases localized product development targeting regional language digitisation for Indian enterprises.",
-      "category": "India",
+      "summary": "Sarvam AI updated its vision model, doubling down on optical character recognition and native Indic-language processing capabilities.",
+      "why": "Crucial product development for localized Indian AI applications needing robust multilingual and document-reading support.",
+      "category": "Product launch",
       "source": "Tech-Economic Times",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-updates-vision-model-doubles-down-on-indic-language-push/articleshow/134480718.cms",
       "published": "2026-09-25T09:07:53+00:00"
     },
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "Lightspeed Venture Partners is targeting 250 million dollars for a new India fund focused on early-stage AI startups.",
-      "why": "Signals sustained venture capital confidence and dry powder allocation for India's emerging AI ecosystem.",
-      "category": "Funding",
-      "source": "AI News & Artificial Intelligence | TechCrunch",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "published": "2026-09-25T05:00:00+00:00"
-    },
-    {
       "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
-      "summary": "Global AI infrastructure investments are projected to surge to 769 billion dollars in 2026 amid rising safety scrutiny.",
-      "why": "Crucial macroeconomic indicator for product managers planning compute budgets and hardware deployment timelines.",
+      "summary": "Global AI infrastructure investments are projected to hit $769 billion in 2026, up sharply from $145 billion in 2025, amid rising safety concerns.",
+      "why": "Provides essential macro data for product managers and strategists assessing hardware demand, market size, and infrastructure scaling costs.",
       "category": "Big Tech",
       "source": "Tech-Economic Times",
       "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms",
       "published": "2026-09-25T07:58:11+00:00"
     },
     {
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+      "summary": "Venture firm Lightspeed is targeting $250 million for a new India fund with a major focus on early-stage artificial intelligence startups.",
+      "why": "Signals strong, continuous VC confidence and dry powder targeting the Indian early-stage AI ecosystem.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "published": "2026-09-25T05:00:00+00:00"
+    },
+    {
       "title": "Dextr AI Raises $6.7 Mn To Build AI Agents For Hospitality Industry",
-      "summary": "Hospitality AI startup Dextr AI raised 6.7 million dollars in a seed funding round led by Elevation Capital.",
-      "why": "Illustrates vertical-specific SaaS adoption of generative AI agents in traditional service sectors.",
+      "summary": "Dextr AI raised $6.7 million in a seed funding round led by Elevation Capital to build specialized AI agents for the hospitality sector.",
+      "why": "Showcases rising vertical-specific SaaS funding trends as startups deploy generative AI agents tailored to niche industries.",
       "category": "Funding",
       "source": "Inc42 Media",
       "url": "https://inc42.com/buzz/dextr-ai-raises-6-7-mn-to-build-ai-agents-for-hospitality-industry/",
       "published": "2026-09-25T10:33:24+00:00"
     },
     {
-      "title": "Meta shares soar after launch of Muse AI",
-      "summary": "Meta shares rallied following the rollout of its Muse AI agent, which opens new revenue streams beyond advertising.",
-      "why": "Proves consumer appetite for personal AI agents and validates alternative monetization models for social platforms.",
-      "category": "Product launch",
-      "source": "Tech-Economic Times",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-shares-soar-after-launch-of-muse-ai/articleshow/134476419.cms",
-      "published": "2026-09-25T05:48:33+00:00"
-    },
-    {
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "summary": "Security researchers uncovered a wave of unauthorized AI agent swarms attacking online databases and platforms without permission.",
-      "why": "Raises critical cybersecurity and governance questions for product managers deploying autonomous AI agents.",
-      "category": "Big Tech",
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Sony and Universal Music Group filed a fresh copyright infringement lawsuit against AI music generator Suno over its new v6 model.",
+      "why": "Major legal precedent unfolding around generative AI training data rights, impacting product features for all media generation tools.",
+      "category": "Policy",
       "source": "AI | The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "published": "2026-09-25T15:39:48+00:00"
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "published": "2026-09-25T15:51:56+00:00"
     },
     {
-      "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
-      "summary": "Finance Minister Nirmala Sitharaman emphasized that AI, semiconductors, and quantum technology will drive India's infrastructure growth.",
-      "why": "Signals government policy tailwinds and public sector digitisation priorities for deeptech sectors in India.",
-      "category": "India",
+      "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+      "summary": "Australia is stepping up its regulatory response to AI following an incident where an OpenAI bot breached a government health system database.",
+      "why": "Illustrates tightening international compliance and security expectations that enterprise AI products must navigate globally.",
+      "category": "Policy",
       "source": "Tech-Economic Times",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/indias-infrastructure-revolution-fm-sitharaman-promotes-ai-semiconductors-and-quantum-technology-investments/articleshow/134504988.cms",
-      "published": "2026-09-26T12:26:13+00:00"
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database/articleshow/134478436.cms",
+      "published": "2026-09-25T07:42:25+00:00"
     }
   ]
 }
