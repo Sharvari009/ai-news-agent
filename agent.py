@@ -2,17 +2,19 @@
 AI Business News Agent
 ----------------------
 Runs once a day. Reads trusted news feeds, asks Gemini to judge and explain
-the most important AI business stories, and saves them for the dashboard.
+the most important AI business stories, links them to related past stories,
+and saves everything for the dashboard.
 
 Where the agent makes its own decisions:
   1. Gemini decides which stories are really about the business of AI.
   2. Gemini merges duplicate stories covered by several sites.
   3. Gemini ranks, categorises, and writes a "why it matters" line.
-  4. If there is too little news, the agent widens its time window and retries.
-  5. If one Gemini model fails, the agent retries and falls back to another.
+  4. Gemini links each story to related stories from past briefs (history).
+  5. If there is too little news, the agent widens its time window and retries.
+  6. If one Gemini model fails, the agent retries and falls back to another.
 
 Links always come from the original feeds (never written by the AI),
-so every story points to a real article.
+so every story and every history item points to a real article.
 """
 
 import html
@@ -31,13 +33,21 @@ from google.genai import types
 IST = timezone(timedelta(hours=5, minutes=30))
 MODELS = ["gemini-flash-latest", "gemini-flash-lite-latest"]  # tried in this order
 NEWS_DIR = Path("news")
-MAX_ARTICLES = 150          # how many articles Gemini reads per run
-STORIES_WANTED = 10         # how many stories appear on the dashboard
+MAX_ARTICLES = 300          # how many articles Gemini reads per run
+STORIES_WANTED = 15         # how many stories appear on the dashboard
+HISTORY_DAYS = 60           # how far back the agent looks for related stories
+MAX_RELATED = 3             # history items shown per story
 CATEGORIES = ["Funding", "Product launch", "Big Tech", "India", "Policy"]
 
 PROMPT = """You are the editor of a daily AI business news brief for MBA students and product managers in India.
 
-Below are {n} recent news articles as JSON. Your job:
+TODAY'S ARTICLES ({n} items, JSON):
+{articles}
+
+PAST STORIES from earlier briefs ({h} items, JSON with "ref", "date", "title"):
+{history}
+
+Your job:
 1. Keep only stories about the BUSINESS of AI: funding and acquisitions, AI product launches, Big Tech AI moves, Indian AI companies and startups, AI regulation and policy. Skip tutorials, opinion pieces, gadget reviews, and non-AI news.
 2. If several articles cover the same story, keep only the best one.
 3. Pick the {k} most important stories, most important first. Include India stories when they exist.
@@ -45,13 +55,11 @@ Below are {n} recent news articles as JSON. Your job:
    - "summary": at most 35 words, plain language
    - "why": at most 20 words on the business or product-management angle
    - "category": exactly one of {cats}
+   - "related": up to {r} "ref" values from PAST STORIES that give useful background to this story (same company, same deal, same product, same regulation, or a clear earlier chapter of the same story). Use [] if nothing is clearly related. Never link a story just because both are about AI.
 
 Return only a JSON array like:
-[{{"id": 12, "summary": "...", "why": "...", "category": "Funding"}}]
-Use only ids that appear in the articles below.
-
-Articles:
-{articles}"""
+[{{"id": 12, "summary": "...", "why": "...", "category": "Funding", "related": ["2026-09-20#3"]}}]
+Use only ids from TODAY'S ARTICLES and refs from PAST STORIES."""
 
 
 def clean(text, limit=300):
@@ -68,7 +76,7 @@ def read_sources():
 def fetch_articles(hours):
     """Read every feed and keep articles published in the last `hours` hours."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours)
-    articles, seen, sources_ok = [], set(), 0
+    articles, seen_links, seen_titles, sources_ok = [], set(), set(), 0
 
     for url in read_sources():
         try:
@@ -76,30 +84,41 @@ def fetch_articles(hours):
             if not feed.entries:
                 raise ValueError(feed.get("bozo_exception", "no articles in feed"))
         except Exception as err:
-            print(f"  x {url}: {err}")
+            print(f"  x {url[:80]}: {err}")
             continue
 
-        source = clean(feed.feed.get("title", url), 60)
+        feed_name = clean(feed.feed.get("title", url), 60)
         count = 0
         for entry in feed.entries:
             link = entry.get("link", "")
             stamp = entry.get("published_parsed") or entry.get("updated_parsed")
-            if not link.startswith("http") or link in seen or not stamp:
+            if not link.startswith("http") or link in seen_links or not stamp:
                 continue
             published = datetime(*stamp[:6], tzinfo=timezone.utc)
             if published < cutoff:
                 continue
-            seen.add(link)
+
+            # Google News items name the real publisher in entry.source.
+            publisher = clean((entry.get("source") or {}).get("title"), 60)
+            title = clean(entry.get("title"), 200)
+            if publisher and title.endswith(" - " + publisher):
+                title = title[: -len(" - " + publisher)]
+            key = re.sub(r"\W+", "", title.lower())
+            if key in seen_titles:          # same headline from another feed
+                continue
+
+            seen_links.add(link)
+            seen_titles.add(key)
             articles.append({
-                "title": clean(entry.get("title"), 200),
+                "title": title,
                 "summary": clean(entry.get("summary")),
-                "source": source,
+                "source": publisher or feed_name,
                 "url": link,
                 "published": published.isoformat(),
             })
             count += 1
         sources_ok += 1
-        print(f"  ok {source}: {count} recent articles")
+        print(f"  ok {feed_name}: {count} recent articles")
 
     # Newest first, cap the total, then number them for Gemini.
     articles.sort(key=lambda a: a["published"], reverse=True)
@@ -107,6 +126,26 @@ def fetch_articles(hours):
     for i, a in enumerate(articles):
         a["id"] = i
     return articles, sources_ok
+
+
+def load_history(today):
+    """Collect stories from past briefs so Gemini can link related ones."""
+    history = {}
+    cutoff = (datetime.strptime(today, "%Y-%m-%d") - timedelta(days=HISTORY_DAYS)).strftime("%Y-%m-%d")
+    for path in sorted(NEWS_DIR.glob("20*.json"), reverse=True):
+        date = path.stem
+        if date >= today or date < cutoff:
+            continue
+        try:
+            digest = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for i, s in enumerate(digest.get("stories", [])):
+            history[f"{date}#{i}"] = {
+                "date": date, "title": s.get("title", ""),
+                "source": s.get("source", ""), "url": s.get("url", ""),
+            }
+    return history
 
 
 def ask_gemini(client, prompt):
@@ -131,8 +170,8 @@ def ask_gemini(client, prompt):
     raise RuntimeError(f"Gemini did not respond: {last_error}")
 
 
-def build_stories(picks, articles):
-    """Match Gemini's picks back to the real articles and keep only valid ones."""
+def build_stories(picks, articles, history):
+    """Match Gemini's picks back to real articles and real past stories."""
     by_id = {a["id"]: a for a in articles}
     stories, used = [], set()
     for pick in picks if isinstance(picks, list) else []:
@@ -143,6 +182,15 @@ def build_stories(picks, articles):
         if article["id"] in used:
             continue
         used.add(article["id"])
+
+        related = []
+        refs = pick.get("related") or []
+        for ref in refs if isinstance(refs, list) else []:
+            past = history.get(str(ref))
+            if past and past["url"] != article["url"] and past not in related:
+                related.append(past)
+        related.sort(key=lambda p: p["date"], reverse=True)
+
         category = pick.get("category")
         stories.append({
             "title": article["title"],
@@ -152,6 +200,7 @@ def build_stories(picks, articles):
             "source": article["source"],
             "url": article["url"],
             "published": article["published"],
+            "related": related[:MAX_RELATED],
         })
     return stories[:STORIES_WANTED]
 
@@ -165,6 +214,10 @@ def main():
     today = datetime.now(IST).strftime("%Y-%m-%d")
     print(f"AI News Agent: run for {today}")
 
+    history = load_history(today)
+    print(f"Loaded {len(history)} past stories for history links")
+    history_for_ai = [{"ref": r, "date": h["date"], "title": h["title"]} for r, h in history.items()]
+
     stories, articles, sources_ok = [], [], 0
     for hours in (36, 72):
         print(f"\nReading news from the last {hours} hours...")
@@ -176,16 +229,20 @@ def main():
 
         prompt = PROMPT.format(
             n=len(articles),
+            h=len(history_for_ai),
             k=STORIES_WANTED,
+            r=MAX_RELATED,
             cats=", ".join(CATEGORIES),
             articles=json.dumps(
                 [{k: a[k] for k in ("id", "title", "summary", "source")} for a in articles],
                 ensure_ascii=False,
             ),
+            history=json.dumps(history_for_ai, ensure_ascii=False),
         )
         picks, model = ask_gemini(client, prompt)
-        stories = build_stories(picks, articles)
-        print(f"{model} selected {len(stories)} stories")
+        stories = build_stories(picks, articles, history)
+        linked = sum(1 for s in stories if s["related"])
+        print(f"{model} selected {len(stories)} stories, {linked} with history")
         if len(stories) >= 5:
             break
         print("Too few strong stories, widening the time window...")

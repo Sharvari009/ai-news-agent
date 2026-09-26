@@ -3,88 +3,118 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Business Brief</title>
-<meta name="description" content="Daily AI business news for India and the world, picked by an AI agent, with links to every original article.">
+<title>The AI Business Brief</title>
+<meta name="description" content="A daily front page of AI business news from India and the world, picked by an AI agent, with links to every original article.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #EAEEF3; --panel: #FFFFFF; --ink: #1B2A41; --muted: #56667C;
-    --line: #D3DAE3; --accent: #3050A8;
-    --funding: #2F6B4F; --launch: #3050A8; --bigtech: #6B3F8C; --india: #B5650D; --policy: #6E6420;
+    --paper: #F3EEE2; --ink: #1D1B18; --muted: #5E584E; --rule: #1D1B18; --hair: #BDB4A2;
+    --link: #1D1B18; --mark: #8A1C1C;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #121A26; --panel: #1B2636; --ink: #E6ECF3; --muted: #9AA8BA;
-      --line: #2B3A4F; --accent: #8FA8F0;
-      --funding: #6FC19A; --launch: #8FA8F0; --bigtech: #C39BE0; --india: #F0A95C; --policy: #CFC46E;
+      --paper: #1E1C19; --ink: #ECE6D8; --muted: #ADA593; --rule: #ECE6D8; --hair: #4A453C;
+      --link: #ECE6D8; --mark: #E08A7A;
     }
   }
   :root[data-theme="dark"] {
-    --bg: #121A26; --panel: #1B2636; --ink: #E6ECF3; --muted: #9AA8BA;
-    --line: #2B3A4F; --accent: #8FA8F0;
-    --funding: #6FC19A; --launch: #8FA8F0; --bigtech: #C39BE0; --india: #F0A95C; --policy: #CFC46E;
+    --paper: #1E1C19; --ink: #ECE6D8; --muted: #ADA593; --rule: #ECE6D8; --hair: #4A453C;
+    --link: #ECE6D8; --mark: #E08A7A;
   }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--ink); font-family: Figtree, system-ui, sans-serif; }
-  .app { min-height: 100vh; display: grid; grid-template-columns: 200px 1fr; }
-  .side { padding: 28px 16px; border-right: 1px solid var(--line); }
-  .side h2 { font-family: 'Bricolage Grotesque', sans-serif; font-size: 15px; margin: 0 0 12px 8px; }
-  .day { display: block; width: 100%; text-align: left; background: none; border: 0; padding: 8px;
-         border-radius: 6px; color: var(--muted); font: inherit; font-size: 14px; cursor: pointer; }
-  .day[aria-current="true"] { background: var(--ink); color: var(--bg); }
-  button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
-  main { padding: 32px clamp(16px, 4vw, 48px); max-width: 780px; }
-  .brand { font-size: 14px; font-weight: 600; color: var(--muted); margin: 0 0 6px; }
-  h1 { font-family: 'Bricolage Grotesque', sans-serif; font-weight: 700;
-       font-size: clamp(30px, 5vw, 46px); line-height: 1.05; margin: 0; }
-  .sub { color: var(--muted); margin: 8px 0 0; font-size: 15px; }
-  .chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 24px 0 8px; }
-  .chip { border: 1px solid var(--line); background: var(--panel); border-radius: 999px; padding: 6px 12px;
-          font: inherit; font-size: 13px; cursor: pointer; color: var(--ink); }
-  .chip[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
-  .story { background: var(--panel); border-left: 4px solid var(--muted); padding: 18px 20px;
-           margin-top: 14px; border-radius: 0 8px 8px 0; }
-  .cat { font-size: 13px; font-weight: 600; }
-  .story h3 { font-family: 'Bricolage Grotesque', sans-serif; font-weight: 500; font-size: 20px;
-              line-height: 1.25; margin: 6px 0 8px; }
-  .story p { margin: 0 0 8px; line-height: 1.55; font-size: 15px; max-width: 68ch; }
-  .why { color: var(--muted); }
-  .link { color: var(--accent); font-weight: 600; font-size: 14px; text-decoration: none; }
-  .link:hover { text-decoration: underline; }
-  .note { background: var(--panel); padding: 20px; border-radius: 8px; margin-top: 24px; line-height: 1.55; }
-  footer { color: var(--muted); font-size: 13px; margin: 40px 0 16px; line-height: 1.5; }
-  @media (max-width: 760px) {
-    .app { grid-template-columns: 1fr; }
-    .side { border-right: 0; border-bottom: 1px solid var(--line); padding: 12px 16px;
-            display: flex; gap: 6px; overflow-x: auto; }
-    .side h2 { display: none; }
-    .day { width: auto; white-space: nowrap; }
+  body { margin: 0; background: var(--paper); color: var(--ink);
+         font-family: 'Source Serif 4', Georgia, serif; font-size: 16px; line-height: 1.6; }
+  .page { max-width: 1180px; margin: 0 auto; padding: 24px 16px 48px; }
+
+  /* Masthead */
+  .top { display: flex; justify-content: space-between; gap: 12px; font-size: 13px; color: var(--muted);
+         font-style: italic; border-bottom: 1px solid var(--hair); padding-bottom: 8px; }
+  .masthead { text-align: center; padding: 18px 0 10px; }
+  .masthead h1 { font-family: 'UnifrakturMaguntia', 'Old English Text MT', serif; font-weight: 400;
+                 font-size: clamp(38px, 8.5vw, 96px); line-height: 1; margin: 0; letter-spacing: 0.01em; }
+  .motto { font-style: italic; color: var(--muted); margin: 8px 0 0; font-size: 14px; }
+  .dateline { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 12px;
+              border-top: 3px double var(--rule); border-bottom: 1px solid var(--rule);
+              padding: 6px 0; font-size: 14px; }
+  .dateline .edition { justify-self: start; }
+  .dateline #date { justify-self: center; font-weight: 600; text-align: center; }
+  .dateline label { justify-self: end; display: flex; gap: 6px; align-items: center; }
+  select { font: inherit; font-size: 14px; background: var(--paper); color: var(--ink);
+           border: 1px solid var(--hair); padding: 2px 6px; }
+
+  /* Sections */
+  .sections { display: flex; flex-wrap: wrap; justify-content: center; gap: 4px 0;
+              border-bottom: 1px solid var(--hair); padding: 6px 0; margin-bottom: 20px; }
+  .sections button { font: inherit; font-size: 15px; background: none; border: 0; color: var(--ink);
+                     padding: 2px 14px; cursor: pointer; border-left: 1px solid var(--hair); }
+  .sections button:first-child { border-left: 0; }
+  .sections button[aria-pressed="true"] { font-weight: 600; text-decoration: underline;
+                                          text-decoration-color: var(--mark); text-underline-offset: 5px; text-decoration-thickness: 2px; }
+  button:focus-visible, a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px solid var(--mark); outline-offset: 2px; }
+
+  /* Stories */
+  .section-name { font-style: italic; color: var(--mark); font-size: 14px; }
+  .story h2, .lead h2 { font-family: 'Playfair Display', Georgia, serif; font-weight: 700; margin: 2px 0 8px; }
+  .story h2 { font-size: 22px; line-height: 1.2; }
+  .story p { margin: 0 0 8px; }
+  .why { font-style: italic; color: var(--muted); }
+  .why strong { font-style: normal; color: var(--ink); font-weight: 600; }
+  .more { font-size: 15px; }
+  .more a { color: var(--link); text-decoration: underline; text-decoration-color: var(--hair); text-underline-offset: 3px; }
+  .more a:hover { text-decoration-color: var(--ink); }
+
+  .lead { border-bottom: 3px double var(--rule); padding-bottom: 20px; margin-bottom: 20px; }
+  .lead h2 { font-weight: 900; font-size: clamp(30px, 5vw, 52px); line-height: 1.08; max-width: 22ch; }
+  .lead .body { columns: 2 280px; column-gap: 32px; column-rule: 1px solid var(--hair); font-size: 17px; }
+  .lead .body > p:first-child::first-letter { font-family: 'Playfair Display', serif; font-weight: 900;
+                                               float: left; font-size: 3.4em; line-height: 0.85; padding: 6px 8px 0 0; }
+
+  .columns { columns: 3 260px; column-gap: 32px; column-rule: 1px solid var(--hair); }
+  .columns .story { break-inside: avoid; padding-bottom: 16px; margin-bottom: 16px; border-bottom: 1px solid var(--hair); }
+
+  /* History */
+  .history { margin-top: 6px; font-size: 15px; }
+  .history summary { cursor: pointer; font-style: italic; color: var(--muted); list-style: none; }
+  .history summary::-webkit-details-marker { display: none; }
+  .history summary::before { content: "+ "; }
+  .history[open] summary::before { content: "− "; }
+  .history ol { list-style: none; margin: 8px 0 0; padding: 0 0 0 12px; border-left: 2px solid var(--hair); }
+  .history li { margin-bottom: 8px; line-height: 1.4; }
+  .history time { display: block; font-size: 13px; color: var(--muted); }
+  .history li a { color: var(--link); }
+
+  .note { border: 1px solid var(--hair); padding: 20px; font-style: italic; max-width: 60ch; margin: 24px auto; text-align: center; }
+  footer { border-top: 3px double var(--rule); margin-top: 24px; padding-top: 10px; font-size: 13px;
+           color: var(--muted); font-style: italic; text-align: center; }
+
+  @media (max-width: 640px) {
+    .top span:last-child { display: none; }
+    .dateline { grid-template-columns: 1fr; text-align: center; gap: 4px; }
+    .dateline .edition, .dateline label { justify-self: center; }
   }
 </style>
 </head>
 <body>
-<div class="app">
-  <nav class="side" aria-label="Past days">
-    <h2>Archive</h2>
-    <div id="days"></div>
-  </nav>
-  <main>
-    <p class="brand">AI Business Brief</p>
-    <h1 id="date">Loading…</h1>
-    <p class="sub" id="sub"></p>
-    <div class="chips" id="chips" role="group" aria-label="Filter by category"></div>
-    <div id="stories"></div>
-    <footer>Stories are picked and summarised by an AI agent every morning from trusted news sites. Summaries can contain mistakes, so check the original article before quoting it.</footer>
-  </main>
+<div class="page">
+  <div class="top"><span>India and global edition</span><span>Picked and summarised by an AI agent every morning</span></div>
+  <header class="masthead">
+    <h1>The AI Business Brief</h1>
+    <p class="motto">All the AI business news that matters, with the story behind it</p>
+  </header>
+  <div class="dateline">
+    <span class="edition" id="edition"></span>
+    <span id="date">Loading…</span>
+    <label>Past editions <select id="days" aria-label="Choose an edition"></select></label>
+  </div>
+  <nav class="sections" id="sections" aria-label="Sections"></nav>
+  <main id="stories"></main>
+  <footer id="footer">Summaries are written by AI and can contain mistakes. Check the original article before quoting it.</footer>
 </div>
 
 <script>
-const COLORS = {
-  "Funding": "var(--funding)", "Product launch": "var(--launch)", "Big Tech": "var(--bigtech)",
-  "India": "var(--india)", "Policy": "var(--policy)"
-};
+const SECTIONS = ["Funding", "Product launch", "Big Tech", "India", "Policy"];
 const $ = (id) => document.getElementById(id);
 let dates = [], current = null, filter = "All";
 
@@ -94,7 +124,7 @@ const safeUrl = (u) => /^https?:\/\//.test(u || "") ? u : "#";
 const longDate = (d) => new Date(d + "T00:00:00").toLocaleDateString("en-IN",
   { weekday: "long", day: "numeric", month: "long", year: "numeric" });
 const shortDate = (d) => new Date(d + "T00:00:00").toLocaleDateString("en-IN",
-  { weekday: "short", day: "numeric", month: "short" });
+  { day: "numeric", month: "short", year: "numeric" });
 
 async function getJSON(path) {
   const res = await fetch(path + "?v=" + Date.now());
@@ -102,53 +132,67 @@ async function getJSON(path) {
   return res.json();
 }
 
-function renderDays() {
-  $("days").innerHTML = dates.map((d, i) =>
-    `<button class="day" aria-current="${d === current?.date}" data-date="${d}">${i === 0 ? "Latest" : shortDate(d)}</button>`
-  ).join("");
-  document.querySelectorAll(".day").forEach((b) => b.onclick = () => openDay(b.dataset.date));
+function historyBlock(related) {
+  if (!Array.isArray(related) || !related.length) return "";
+  const items = related.map((r) => `
+    <li><time datetime="${esc(r.date)}">${esc(shortDate(r.date))}${r.source ? ", " + esc(r.source) : ""}</time>
+    <a href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer">${esc(r.title)}</a></li>`).join("");
+  return `<details class="history"><summary>Earlier coverage (${related.length})</summary><ol>${items}</ol></details>`;
 }
 
-function renderStories() {
-  const stories = current.stories || [];
-  const cats = ["All", ...Object.keys(COLORS).filter((c) => stories.some((s) => s.category === c))];
-  $("chips").innerHTML = cats.map((c) =>
-    `<button class="chip" aria-pressed="${c === filter}" data-cat="${esc(c)}">${esc(c)}</button>`).join("");
-  document.querySelectorAll(".chip").forEach((b) => b.onclick = () => { filter = b.dataset.cat; renderStories(); });
-
-  const shown = filter === "All" ? stories : stories.filter((s) => s.category === filter);
-  $("stories").innerHTML = shown.map((s) => `
-    <article class="story" style="border-color:${COLORS[s.category] || "var(--muted)"}">
-      <span class="cat" style="color:${COLORS[s.category] || "var(--muted)"}">${esc(s.category)}</span>
-      <h3>${esc(s.title)}</h3>
+function storyHTML(s, isLead) {
+  const tag = isLead ? "section" : "article";
+  return `
+  <${tag} class="${isLead ? "lead" : "story"}">
+    <span class="section-name">${esc(s.category)}</span>
+    <h2>${esc(s.title)}</h2>
+    <div class="body">
       <p>${esc(s.summary)}</p>
       ${s.why ? `<p class="why"><strong>Why it matters:</strong> ${esc(s.why)}</p>` : ""}
-      <a class="link" href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">Read the full story on ${esc(s.source || "the source")}</a>
-    </article>`).join("");
+      <p class="more"><a href="${esc(safeUrl(s.url))}" target="_blank" rel="noopener noreferrer">Continue reading at ${esc(s.source || "the source")}</a></p>
+      ${historyBlock(s.related)}
+    </div>
+  </${tag}>`;
+}
+
+function render() {
+  const stories = current.stories || [];
+  const present = SECTIONS.filter((c) => stories.some((s) => s.category === c));
+  $("sections").innerHTML = ["All", ...present].map((c) =>
+    `<button aria-pressed="${c === filter}" data-cat="${esc(c)}">${c === "All" ? "Front page" : esc(c)}</button>`).join("");
+  document.querySelectorAll("#sections button").forEach((b) => b.onclick = () => { filter = b.dataset.cat; render(); });
+
+  const shown = filter === "All" ? stories : stories.filter((s) => s.category === filter);
+  if (!shown.length) { $("stories").innerHTML = `<p class="note">No stories in this section today.</p>`; return; }
+  const [lead, ...rest] = shown;
+  $("stories").innerHTML = storyHTML(lead, true) +
+    (rest.length ? `<div class="columns">${rest.map((s) => storyHTML(s, false)).join("")}</div>` : "");
 }
 
 async function openDay(date) {
   try {
     current = await getJSON(`news/${date}.json`);
     filter = "All";
+    const no = dates.length - dates.indexOf(date);
+    $("edition").textContent = `Edition no. ${no}`;
     $("date").textContent = longDate(current.date);
-    $("sub").textContent = `${current.stories.length} stories, chosen from ${current.articles_read} articles across ${current.sources_read} news sites`;
-    renderDays();
-    renderStories();
+    $("days").value = date;
+    $("footer").textContent = `${current.stories.length} stories chosen from ${current.articles_read} articles across ${current.sources_read} news sources. Summaries are written by AI and can contain mistakes, so check the original article before quoting it.`;
+    render();
   } catch {
-    $("stories").innerHTML = `<div class="note">This day's brief couldn't be loaded. Pick another day from the archive.</div>`;
+    $("stories").innerHTML = `<p class="note">This edition couldn't be loaded. Choose another from Past editions.</p>`;
   }
 }
 
 (async () => {
-  try {
-    dates = await getJSON("news/index.json");
-  } catch { dates = []; }
+  try { dates = await getJSON("news/index.json"); } catch { dates = []; }
   if (!dates.length) {
-    $("date").textContent = "No brief yet";
-    $("stories").innerHTML = `<div class="note">The first brief appears after the agent runs. On GitHub, open the <strong>Actions</strong> tab, choose <strong>Daily AI news brief</strong>, and select <strong>Run workflow</strong>. Refresh this page about two minutes later.</div>`;
+    $("date").textContent = "First edition coming soon";
+    $("stories").innerHTML = `<p class="note">The first edition appears after the agent runs. On GitHub, open the Actions tab, choose Daily AI news brief, and select Run workflow. Refresh this page about two minutes later.</p>`;
     return;
   }
+  $("days").innerHTML = dates.map((d, i) => `<option value="${d}">${i === 0 ? "Latest: " : ""}${shortDate(d)}</option>`).join("");
+  $("days").onchange = (e) => openDay(e.target.value);
   openDay(dates[0]);
 })();
 </script>
