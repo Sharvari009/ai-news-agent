@@ -1,0 +1,25 @@
+# News feeds the agent reads every morning (one link per line).
+# Lines starting with # are notes. Add or remove feeds any time.
+# If a feed breaks, the agent skips it and carries on.
+
+# India: startups, funding, tech business
+https://inc42.com/feed/
+https://entrackr.com/feed/
+https://yourstory.com/feed
+https://analyticsindiamag.com/feed/
+https://economictimes.indiatimes.com/tech/rssfeeds/13357270.cms
+
+# Global: AI business, launches, Big Tech
+https://techcrunch.com/category/artificial-intelligence/feed/
+https://venturebeat.com/category/ai/feed/
+https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+https://www.technologyreview.com/topic/artificial-intelligence/feed
+
+# Google News searches: collect stories from hundreds of publications
+# (Mint, Moneycontrol, Business Standard, Reuters and more).
+# "when:2d" means "published in the last 2 days".
+https://news.google.com/rss/search?q=AI+startup+funding+India+when:2d&hl=en-IN&gl=IN&ceid=IN:en
+https://news.google.com/rss/search?q=%22artificial+intelligence%22+India+business+when:2d&hl=en-IN&gl=IN&ceid=IN:en
+https://news.google.com/rss/search?q=AI+funding+OR+acquisition+OR+raises+when:2d&hl=en-US&gl=US&ceid=US:en
+https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+%22Google+Gemini%22+OR+%22Microsoft+AI%22+OR+Meta+AI+when:2d&hl=en-US&gl=US&ceid=US:en
+https://news.google.com/rss/search?q=AI+regulation+OR+policy+when:2d&hl=en-IN&gl=IN&ceid=IN:en
