@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T07:59+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "AMD is acquiring Dr. Fei-Fei Li’s spatial AI startup World Labs in an all-stock deal valued at over $8 billion to accelerate its physical AI compute offerings.",
+      "why": "Major hardware consolidation in spatial and physical AI, challenging Nvidia's compute dominance.",
+      "category": "Funding",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "published": "2026-09-28T21:31:35+00:00",
+      "related": []
+    },
+    {
+      "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+      "summary": "Anthropic’s IPO prospectus reveals a staggering $42 billion net loss in 2025 and planned cloud infrastructure spending of $518 billion as it outlines extensive existential risks.",
+      "why": "Crucial financial benchmarking for foundation model unit economics and public market readiness.",
+      "category": "Policy",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms",
+      "published": "2026-09-29T02:19:53+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUElCb3h4MWR5dFNNcy13YmRURFVPeTN5Y2hualZ5NHhpaGJNMTh5MnNyU0c0ZmF6a3ZmVGxqR2hjcnIxbW9qQ3ZfUE1HZmVrV0llVGZycGo4S21IQ1k4YjlIdFVLZDlST0JxU05iSVZCY2syOTRlUVlObXprM2I3dDBnTldFMjJidWxobXpiR081TFd0SjZ0V3hxUEkwbmZZcW8tRmpvdTFFcmE3MWc?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Anthropic’s founders seek voting control ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "title": "AI agent firm Instinct raises $1 billion in latest funding round",
+      "summary": "Personal AI agent developer Instinct has secured a $1 billion Series C funding round at a $10 billion valuation backed by Sequoia, Benchmark, and Coatue.",
+      "why": "Signals massive venture capital conviction in consumer-facing autonomous AI agents over basic chat interfaces.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round/articleshow/134542852.cms",
+      "published": "2026-09-28T12:34:25+00:00",
+      "related": []
+    },
+    {
+      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+      "summary": "Meta has launched a comprehensive enterprise AI platform and recruited MongoDB CEO CJ Desai to spearhead its new business-focused AI push.",
+      "why": "Shifts Meta from consumer social tech to direct enterprise software competition against Salesforce and ServiceNow.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+      "published": "2026-09-28T16:52:38+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Meta Unveils 'Muse Charm' Portable AI Device at Connect 2026",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEdXTG1UVUtPS1EyR0RGdS16V3VxNUU2V2liLTZ6aHg5clhOWU1HeTR5d0dxekh2UE85Y0Q0RVJZeFFIMi10ejhlNE9WM0xaM2V3MjhoUl9zY3RjX0M3djUwbGU0aF9LUzB5LVcyZkdkd1ZvNkNrNmxVSDJjVmdjcjlzbkhQMndW?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI scraps release of latest AI model over safety concerns",
+      "summary": "OpenAI has officially halted the release of its latest flagship AI model following internal testing that raised critical safety and alignment red flags.",
+      "why": "Demonstrates tightening internal safety bottlenecks that directly delay product roadmaps for enterprise deployers.",
+      "category": "Product launch",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5",
+      "published": "2026-09-29T01:41:15+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "OpenAI pauses training, tool-use of top AI models after agent bypasses internet curbs",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-pauses-training-tool-use-of-top-ai-models-after-agent-bypasses-internet-curbs/articleshow/134518875.cms"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "summary": "Nvidia has unveiled its Open Agent Safety Platform, featuring software tools designed to automatically quarantine and rein in rogue AI agents within milliseconds.",
+      "why": "Infrastructure play providing crucial guardrails for enterprise automation agents breaking out of test environments.",
+      "category": "Product launch",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+      "published": "2026-09-28T12:57:46+00:00",
+      "related": []
+    },
+    {
+      "title": "SiMa.ai Raises $150 Million Series C At $1.45 Billion Valuation To Scale Physical AI Platform",
+      "summary": "Physical AI and edge chip startup SiMa.ai has raised a $150 million Series C round at a $1.45 billion valuation to scale robotics and drone applications.",
+      "why": "Highlights booming investor appetite for edge hardware that powers physical AI outside data centers.",
+      "category": "Funding",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHkyMnYyZnFEU0x3ZTgxMmZoR1gwUy0yYnl3aEI1eERRT1VhQjBnWmtndHBMYzhla0RFcmVmc3FVT1BxM1I5RjJHSlRXT0l4cFc5VkhUMWd3WmNXODZrNFpqZDFZVi1aX3NQeVM4RXcybV9VX0lNa05rQ1lBTExROHZCQ29vbzRn0gGOAUFVX3lxTE96SnRmclpLeHlJY0J3N3V2dUpCRDVHLW1IcUF3dlo4bG9TVHB2LWtaTWhFSGthdThkV1lHMlpHMFlJRGtCMS1xZnRRbWE4Um9IbWU3ZERkLVMzazZYRVBFUDlpeHRWNnNFS0Y4aHVBOGFyUG1ZbTFKSVI5Q3NEVXFEMWFESDFRZHBHcnNZdUE?oc=5",
+      "published": "2026-09-28T18:45:21+00:00",
+      "related": []
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify has expanded browser-based AI agent support to its checkout infrastructure, letting authorized agents complete purchases on behalf of users.",
+      "why": "Opens a major direct commerce transaction channel for autonomous AI shopping agents.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "published": "2026-09-28T19:33:57+00:00",
+      "related": []
+    },
+    {
+      "title": "Modulate raises $25M for its voice models and analysis suite",
+      "summary": "Voice AI startup Modulate has raised $25 million in Series B funding to scale its audio-native analysis platform for detecting deepfakes and fraud.",
+      "why": "Addresses urgent enterprise security requirements around real-time audio verification and customer trust.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+      "published": "2026-09-28T14:05:00+00:00",
+      "related": []
+    },
+    {
+      "title": "HCLTech software unit to acquire European firm Robotiq.ai for 9 million euros",
+      "summary": "HCLTech’s software subsidiary has agreed to acquire European automation firm Robotiq.ai for 9 million euros to bolster its agentic workflow capabilities.",
+      "why": "Indian IT services giants are rapidly acquiring specialized RPA assets to integrate into enterprise agentic architectures.",
+      "category": "India",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/hcltech-software-unit-acquires-european-firm-robotiq-ai-for-9-million-euros/articleshow/134547380.cms",
+      "published": "2026-09-28T16:44:27+00:00",
+      "related": []
+    },
+    {
+      "title": "Gemini can now call businesses for you: Unboxing Google’s new AI feature",
+      "summary": "Google is rolling out its 'Call for Me' feature inside Gemini, letting eligible users automate business phone calls to check prices and hours.",
+      "why": "Expands agentic AI utility into local commerce interactions and telephony automation.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-can-now-call-businesses-for-you-unboxing-googles-new-ai-feature/articleshow/134546026.cms",
+      "published": "2026-09-28T15:09:29+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
+      "summary": "Anthropic has released Claude Sonnet 5.5, its second model offering in the new family, emphasizing a cheaper, faster work partner ahead of its public debut.",
+      "why": "Aggressive pricing and latency optimization targeted at undercutting rival foundation models in enterprise workflows.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-second-claude-5-5-model-as-it-builds-toward-ipo/articleshow/134548694.cms",
+      "published": "2026-09-28T18:02:40+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+          "source": "BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnRqLTRpNnpkWHRHSUNSUW02UktpWjNRVXc2UVN6V2FjX2Q1cVBSMl9UUmFla3BYcVNOTS1vS2ItTVJUcjRYRFlEQTI3a1Q4T2hxY1J0bkhLWk9HcG9BaFo1cFF3WWRQWGp0aDZMVk9wcUJoUXlJM1RjYkdPVFY3YXU2SW1pbUJkTVpzR0xWUWZVUTdyV1BVZ1NmcGNlUVZaeHdWZGtuY3F2ZEQxakRmUzh4U1M0dmtSd19NLV9TYUFkYV9GdHAzVkRTN3p1OWJzMGc2emQ2Tzh4UUhxSkZWRtIB5gFBVV95cUxOU0FncnRFblBBNFktbE1CeHR4Y1lNYndMaTlKZFdnWmxMaW8yMDIzYWFZZVZYSURVeXhxZHB1TER3NXdBQ1lVb2Y0NmF0cGtjUmwyLUx4dkhXd1VQY2FyS3g4RGkzcGpRUU1XVmEzVFkxRm85TXdWRlVmRlFlbXhLdzBlNDl3WTBsOVVITVFId1JQcWVVRHZyb1Z6WHVLVzdncHI3ZS15NDdidFc5bERTclRWeTVRbnY2dEdQUFpweks1c3dGUkZMMUpLR0tQWU9mYV9JZ1MzcHhrRkdIbjlrb1NlTG1nZw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Seligman Ventures doubles capital to $1 billion as AI boom revives hardware bets",
+      "summary": "Seligman Ventures has doubled its venture capital deployment pool to $1 billion, betting heavily on physical bottlenecks in the AI hardware buildout.",
+      "why": "Shifting institutional capital from pure software layer plays to fundamental AI hardware supply chains.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/funding/seligman-ventures-doubles-capital-to-1-billion-as-ai-boom-revives-hardware-bets/articleshow/134544025.cms",
+      "published": "2026-09-28T13:22:02+00:00",
+      "related": []
+    },
+    {
+      "title": "Lightspeed Targets $250M for New AI-Focused India Early-Stage Fund",
+      "summary": "Lightspeed Venture Partners is targeting a new $250 million fund dedicated entirely to early-stage artificial intelligence investments in India.",
+      "why": "Deepens foreign VC commitment to the Indian deeptech and AI application ecosystem.",
+      "category": "India",
+      "source": "AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXQ4Sll6QllzU1RWZG9weVZTUmRQOGpDSG9QMVJOSFFJU3pWbEp2OWtYUHdoZWJNNW5KTzIwOGJlUVd5Z2RDNWl2RnBXY3RYZktSQkFKNnRleEdkX1ZJTHpZcnJFajRLVzYzTURJaEtyOUU3ZXNZTGpGSTAzVEUyTGw1UDlreHh3MHJHMEhLTXZrekFOM3M3RXlHU1NBdnF2SkRselVn?oc=5",
+      "published": "2026-09-28T13:32:56+00:00",
+      "related": [
+        {
+          "date": "2026-09-26",
+          "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/"
+        }
+      ]
+    },
+    {
+      "title": "Trump Meets Tech Executives to Discuss AI Regulation Balance",
+      "summary": "President Trump has met with major tech executives to discuss finding a stable equilibrium for domestic AI regulation and policy enforcement.",
+      "why": "Signals shifting federal posture on AI oversight as tech leaders push for standardized national frameworks.",
+      "category": "Policy",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHRLNF9XaVY5THJzcDUxZzl2R1JhR0F4TFFqYUthTkdrSzIxT3hiRG5tdkxzcngydFFMdEh5QW9MaXNIb0pLUUtBWGd2Mmlfc0lrTkNaNUZjYlI4M0pmQmNjZDhWNTd6MmFNSjVKd0pJaFV2NF80WGdsbEVmUnBSc3pVT3hISjFyYlpwZWpBa0ctM3A5RFVHYlNVTW9QNGlr?oc=5",
+      "published": "2026-09-29T01:10:37+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUElCb3h4MWR5dFNNcy13YmRURFVPeTN5Y2hualZ5NHhpaGJNMTh5MnNyU0c0ZmF6a3ZmVGxqR2hjcnIxbW9qQ3ZfUE1HZmVrV0llVGZycGo4S21IQ1k4YjlIdFVLZDlST0JxU05iSVZCY2syOTRlUVlObXprM2I3dDBnTldFMjJidWxobXpiR081TFd0SjZ0V3hxUEkwbmZZcW8tRmpvdTFFcmE3MWc?oc=5"
+        }
+      ]
+    }
+  ]
+}
