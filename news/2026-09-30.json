@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T08:00+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "summary": "OpenAI announced 'dots', its new always-on personal AI agent designed to compete directly with Meta's Muse, following safety-related delays on core models.",
+      "why": "Highlights the escalating commercial battle between Big Tech giants in consumer AI agents.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "published": "2026-09-29T17:15:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "OpenAI scraps release of latest AI model over safety concerns",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+      "summary": "Anthropic's newly revealed IPO documentation indicates massive scaling costs with over $40 billion in losses, highlighting heavy infrastructure commitments.",
+      "why": "Provides critical financial visibility into the unit economics of frontier AI model builders ahead of public listings.",
+      "category": "Funding",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZU1lRnpwckFTb1poMGtMOHdYTXUwYUFaT0p4ZVYtazU4S296UW9QNHN5ako0QlFNVFdBc0NRaGxTeGlQMGlYSlNlck1WOWl3ZWJ3RkZadTZCOWMyM1dOR2I4TS11RHNBNkRj?oc=5",
+      "published": "2026-09-30T00:12:49+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Anthropic’s founders seek voting control ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+      "summary": "OpenAI is reportedly in talks to raise a $30 billion funding round at a staggering $1.4 trillion valuation ahead of its planned 2027 public debut.",
+      "why": "Sets a new benchmark for private market capital requirements and valuations in the generative AI sector.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms",
+      "published": "2026-09-29T18:05:03+00:00",
+      "related": []
+    },
+    {
+      "title": "'Almost like a constitution': Trump & tech giants sign ‘morally binding' AI pact on safety measures",
+      "summary": "US President Trump and major tech executives signed a voluntary, 'morally binding' agreement backing self-regulation and data center expansion over strict government rules.",
+      "why": "Signals a pro-growth regulatory environment for enterprise AI strategy and infrastructure investments in the US.",
+      "category": "Policy",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2RPNHhQMWp5dHZyQ253ak82ZElPVnhqT0dPUEswVjFwTXQ5aGFLbERUYnBlV3kxekFMYnFtM3hMVG1TSGtpOW40QktJckhIV2k2RUZJbGVwRDJPYnViQXlpT1ZkQkJqdjkzTUU0MGh6VmhTLTNrZnh4LUtHWlh2cWZ0d3BoV0E1LXVLSnBWMGtfeDFxMDRpX19jRmNuN2FIcVRPTmNnbEdxMjBySC0wTno4dnhocXB6Njlwak9POUNVdHptcmlUc0FYVHVCU3lTQ3I5QUFoVkFMTF9kbFFoUHpiMjRlZXRaVlJ2RVVpLTNfUkF6NVRQVkJVTzMzM3AyMEY4SdIBigJBVV95cUxNTF9mQ3VBUFZEYThORllsaWdUbGx2WnJyTEJtVm45R2c1b3FDWnJWTlhELW82STJDVldHMXEydm5PUkt6TVY5LXVWZXphVGhkNG1BRmlDdV9LcjJIWXQtWHFldmVjR1pYSkdUR0NlVnZzekhpdU1hYi10SFVvNnZ0bGJocDQwUDlRNmNCUk5FaDBYTi1jOWRHTFRHX3pmTktxSGk5ekZpZW5CdXJtY2ItVzJuMGU1UHFYX2pQUmpsTXFLZFAteXYxZkp6aW82Ynd4a3hpOWJpc3huN0UtU1ozVEhvQ3N5TWJROVFvS0lJODNPMUhiSDNJYXdTenE5ODlPTHJPYlBjUGduQQ?oc=5",
+      "published": "2026-09-29T22:24:07+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Trump Meets Tech Executives to Discuss AI Regulation Balance",
+          "source": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHRLNF9XaVY5THJzcDUxZzl2R1JhR0F4TFFqYUthTkdrSzIxT3hiRG5tdkxzcngydFFMdEh5QW9MaXNIb0pLUUtBWGd2Mmlfc0lrTkNaNUZjYlI4M0pmQmNjZDhWNTd6MmFNSjVKd0pJaFV2NF80WGdsbEVmUnBSc3pVT3hISjFyYlpwZWpBa0ctM3A5RFVHYlNVTW9QNGlr?oc=5"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Trump Invites Anthropic CEO Dario Amodei to Dinner as AI Safety Debate Rages, Says US Can't Slow Down: 'W",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUElCb3h4MWR5dFNNcy13YmRURFVPeTN5Y2hualZ5NHhpaGJNMTh5MnNyU0c0ZmF6a3ZmVGxqR2hjcnIxbW9qQ3ZfUE1HZmVrV0llVGZycGo4S21IQ1k4YjlIdFVLZDlST0JxU05iSVZCY2syOTRlUVlObXprM2I3dDBnTldFMjJidWxobXpiR081TFd0SjZ0V3hxUEkwbmZZcW8tRmpvdTFFcmE3MWc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+      "summary": "Vertical AI automation platform EliseAI raised $350 million in a round led by Andreessen Horowitz and Bessemer, doubling its valuation to $4 billion.",
+      "why": "Demonstrates strong investor appetite for verticalized enterprise software applications over generic chat tools.",
+      "category": "Funding",
+      "source": "finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWctOWFSYlpMZ3kyTGk1bjZfZzl1X1hUOFZfeUIwTzlGLS0xay1tRkI0dXE2TEkxUU9iV1VsaTUzaTlMNEM5N3VTX2JMNEJSN1pIa0c0czRnTk41US1DeGw1bUpDbno2MDhOSl9iQmUzX3UtSUlKSk5nWEd6Y0FEN2p5QXdtNlJaZHNxVlNyMXB2SXFXM0FxSlo2UQ?oc=5",
+      "published": "2026-09-29T21:51:36+00:00",
+      "related": []
+    },
+    {
+      "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
+      "summary": "AI-driven edtech startup Arivihan secured $10.2 million in its Series A funding round to scale its automated tutoring platform.",
+      "why": "Showcases ongoing venture capital interest in specialized AI education applications within emerging markets.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/",
+      "published": "2026-09-30T00:30:17+00:00",
+      "related": []
+    },
+    {
+      "title": "AI agents are fighting over your shopping cart: Meta’s Muse blocked by Amazon and Walmart",
+      "summary": "E-commerce majors Amazon and Walmart have blocked Meta’s Muse AI shopping agent from accessing their platforms over cart and data security concerns.",
+      "why": "Exposes platform friction and friction points as agentic AI begins transacting directly on behalf of users.",
+      "category": "Big Tech",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2c5MVIxcTRLS25nNVdnNGVIcDhORmhFVDZaZHlGd0pmWjQ4MTNPcDBiLUh1RUFnbzhvMlRRTDk3UDR2Z0QtbDU0UXVFMzVaYWVnX0k4RWtzNE5DTms0RzZSd09PcXhGOTJvaHdQcFBxSEliNGY1V2Jtd01ITlRpQUQwLWdSb3RINmNBWWl1ejBaWVNXalQ3LVllMmxqZkFmTUs1R1NUb29OVGc?oc=5",
+      "published": "2026-09-29T16:00:41+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+        }
+      ]
+    },
+    {
+      "title": "India's tech sector faces 53-60% talent gap in GenAI, cloud: Report",
+      "summary": "A new TeamLease report reveals that India's tech sector is facing a severe 53% to 60% talent gap in generative AI and cloud skills.",
+      "why": "Highlights a major structural bottleneck for Indian enterprises and IT services scaling up AI capabilities.",
+      "category": "India",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-sector-faces-53-60-talent-gap-in-genai-cloud-report/articleshow/134569583.cms",
+      "published": "2026-09-29T15:04:05+00:00",
+      "related": []
+    },
+    {
+      "title": "US-based Reco raises $55 million to monitor AI agents, with strategic investment from AT&T",
+      "summary": "Security startup Reco raised $55 million with backing from AT&T to monitor and protect enterprise AI agents against autonomous risks.",
+      "why": "Illustrates the rise of a new cybersecurity sub-sector addressing agentic vulnerabilities and shadow AI.",
+      "category": "Funding",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBySUptangyZ3lrYXNBRXRXSnVreVBEelh2WXdnN18ybXlwYnFVeUs4aFRnNThFYkFSMjdHX0xiZEhlVjB2VDNwcnZYZVdxOF9xWkdualJfZVBKVUluZm5yVVdqN0MwbnE5Zy13TS1OVGhQNVF2VXc?oc=5",
+      "published": "2026-09-29T14:55:00+00:00",
+      "related": []
+    },
+    {
+      "title": "The real prize in AMD’s $8 billion World Labs acquisition isn’t what you’d think",
+      "summary": "AMD's $8 billion acquisition of World Labs positions the chipmaker more aggressively against Nvidia in physical and spatial AI hardware.",
+      "why": "Reflects hardware giants consolidating advanced AI software and spatial intelligence capabilities.",
+      "category": "Big Tech",
+      "source": "marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ05zQmRDaTZEMUtqM1NrUjQxNnJCQ3V6dzB3QkZPQ2dvTWptZ3pBdWxoQUEzZk1XcHlSRkd6RHBVNjVaV3JFbi1NaElIRFE5RDhuSG9rZmF2RzU4b0dPTkFWaDVzZmkxYjJSd21DcERZZTY1OUxHMUJMWmRabFZjd3FEd3owUFluT21MV1BkNFZ5X0RkLWpORTN6dC1QUVdIay1qQjVOOTNWTnBxMzZtbDNZa1FTTUp0RkVr?oc=5",
+      "published": "2026-09-29T21:52:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
+        }
+      ]
+    },
+    {
+      "title": "IIM Kozhikode partners with Walmart Global Tech to nurture Indian deeptech startups",
+      "summary": "IIM Kozhikode's incubator partnered with Walmart Global Tech to launch DEEP LEAP, backing 50 early-stage deeptech startups.",
+      "why": "Strengthens the institutional and corporate venture framework for Indian deeptech and AI entrepreneurship.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/09/iim-kozhikode-partners-walmart-global-tech-indian-deeptech-startups",
+      "published": "2026-09-29T12:49:34+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "IIT Madras-backed deeptech fund raises Rs 450 crore in first close, invests Rs 55 crore in four startups",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOajZhSXE2NUZfMzhIQWVjeFNKQkVya1p3UjdnUHZLZTZaYmE5NVdxaTBRWG1VV1hOdXpwVkZ3SXIydWFfdlNLRllIQ2VZMDV3V0Fzd0xPOG9ET1c5RFl0bWVxTTViVGM1SWIybzh3VlJZYUhlM29ScFRjeDNHYlphTFR4UkdwUldfN2RueGJiVHdsWGFrRzJQRDctTzJLaHBxM1duUFdmSWF3RU9mb1d6dE82WDdPWTVXSHFhZ3REM2VkLVY4Q2ZuWFZGbzlHUmM0QTliMmFKcDVNbmMwQ3NYeGZaNS1hMmNIUGliT3ZnMkVVQzhqZC1NVHY2TDlMVGZXVUFoQVhIMWVpd0HSAYQCQVVfeXFMUC1ZSDM3bXRCS0dHZjZhV2JMQ29XNVl3QW1RLVZ1QXA5WDh5UTBPVnhBcXVoak4yZlotYmt3OHBkZm1yWWQxOFFPa0VtRmtuRUk5c3YzNWFub2QzbzJTRHM5eUFPczlMcUp1czFzYWxhWVY0TWJsWDdEc2tGLWVoYmRzbWNSLUdZU0FFa1Nxd3ZITlFjdzNlQ2RDVm5pcDhBZEVHOXNxR2dKWHlVcnZzejR3dVhhbkUxblVYLUdWZVd0elA1Q1VRLW9wZkc1Qm4zQU1ON25idF9tUFRhX3RKZnItOEhrZU5GdWhmSXVscEMxREgyVHFCZ3VNZ1Ftc2Rsa3d3TlM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI chip startup SiMa.ai raises $150M at $1.45B valuation",
+      "summary": "Edge AI chip startup SiMa.ai raised $150 million at a $1.45 billion valuation to accelerate its physical AI hardware deployments.",
+      "why": "Proves continued investor demand for specialized edge processing chips optimized for physical and industrial AI.",
+      "category": "Funding",
+      "source": "finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1heWluZ0dYZU02STQzaVc2RmczZFpWM2Z3bFNyV1MyeG5OSXJCYnRSNllteXMteVJzdXRvbnFGRGk2YWEwcmhiSXhiaGdOZFE2eWJFQVlvNC1HdHhJQVpmSW1MbjdUT01aSmtMenVhQUtFMVY3MWc?oc=5",
+      "published": "2026-09-29T18:05:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "SiMa.ai Raises $150 Million Series C At $1.45 Billion Valuation To Scale Physical AI Platform",
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHkyMnYyZnFEU0x3ZTgxMmZoR1gwUy0yYnl3aEI1eERRT1VhQjBnWmtndHBMYzhla0RFcmVmc3FVT1BxM1I5RjJHSlRXT0l4cFc5VkhUMWd3WmNXODZrNFpqZDFZVi1aX3NQeVM4RXcybV9VX0lNa05rQ1lBTExROHZCQ29vbzRn0gGOAUFVX3lxTE96SnRmclpLeHlJY0J3N3V2dUpCRDVHLW1IcUF3dlo4bG9TVHB2LWtaTWhFSGthdThkV1lHMlpHMFlJRGtCMS1xZnRRbWE4Um9IbWU3ZERkLVMzazZYRVBFUDlpeHRWNnNFS0Y4aHVBOGFyUG1ZbTFKSVI5Q3NEVXFEMWFESDFRZHBHcnNZdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Visa joins growing alarm over AI-powered risks",
+      "summary": "Visa has open-sourced part of its AI-powered cybersecurity defense infrastructure after vulnerabilities were exposed during recent AI testing.",
+      "why": "Demonstrates how legacy financial institutions are hardening payment networks against escalating AI-driven cyber threats.",
+      "category": "Big Tech",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/visa-joins-growing-alarm-over-ai-powered-risks/articleshow/134569852.cms",
+      "published": "2026-09-29T15:22:08+00:00",
+      "related": []
+    },
+    {
+      "title": "Meta’s Muse AI sent a YouTuber’s address to a stranger",
+      "summary": "Reports surfaced that Meta's Muse AI agent mistakenly shared a user's home address and arranged pickups, sparking fresh privacy scrutiny.",
+      "why": "Emphasizes the operational and reputational product risks associated with autonomous consumer-facing agent deployments.",
+      "category": "Big Tech",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "published": "2026-09-29T14:08:21+00:00",
+      "related": [
+        {
+          "date": "2026-09-27",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        }
+      ]
+    },
+    {
+      "title": "General Intuition raises $220M at $6.2B valuation to train AI on gameplay",
+      "summary": "General Intuition raised $220 million at a $6.2 billion valuation to train advanced AI models on gameplay data.",
+      "why": "Underscores massive capital inflows into alternative synthetic training environments for next-generation intelligence.",
+      "category": "Funding",
+      "source": "Dealroom.co",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXV5ckRlaXZZemFqWjFNTUlwNGtYTXpmVTcwcXZkVXVIZ0J3VHQ0UWN0bGZiUzR1VGc3bzJncHdmV09YaVJiX2ZlU2g5amtxMW1GdjFBUUJaaWp0NVlVNTZtQzQyX0h4Sk9EMW50UTlSY3ZJbGxEc0FhcWo5cGNHY0tzR2l2SmtuT0c5eTM2eUNlQ2l4WUxEVjBTRTFpYVl6a0xNOTJwSGc?oc=5",
+      "published": "2026-09-29T16:28:47+00:00",
+      "related": []
+    }
+  ]
+}
