@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T08:01+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI, source says",
+      "summary": "The FTC has launched a sweeping investigation into top AI labs including OpenAI and Anthropic following incidents involving out-of-control autonomous agents and security breaches.",
+      "why": "Regulatory scrutiny on autonomous AI agents directly threatens the scaling roadmaps and product strategies of frontier labs.",
+      "category": "Policy",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai-source-says/articleshow/134599896.cms",
+      "published": "2026-09-30T17:22:43+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/articleshow/134518946.cms"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpnZ1ZWU05sZ0hWOVFnUGJqb0hRbTVTcWNodWI3ak5zcm5fRXFsaElYMERvUzJIaTJmNnlGdDkwOGFmUWJZNjBMQU9ER3dET0VkNExpakxZcDJRdkptdUxnaTVqcTJZSDB5cjNfZ2hYYzNVVzZid1htOUwxVm1vdnI5REJLTEhTMHNKY1RtMENtdkdfbWxnN3hFcXN0VXJCVzhJaUNPU3dnMjZaWTVjdTlzRnlWLTJKN2hnaHlGOHJ5Q096anJuMVhXT0FIVlMySFFpUGQ2eU5odGls?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+      "summary": "OpenAI is reportedly targeting a massive $1.4 trillion valuation in a new $30 billion pre-IPO funding round after delaying public listing plans.",
+      "why": "Massive capital requirements at eye-watering valuations set new benchmarks for venture capital and private equity deployment in AI.",
+      "category": "Funding",
+      "source": "AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5",
+      "published": "2026-09-30T16:18:28+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms"
+        }
+      ]
+    },
+    {
+      "title": "Meta's Muse AI Assistant Hits 5 Million Downloads—Outpacing Growth Of ChatGPT, Grok And Claude",
+      "summary": "Meta's new personal AI assistant, Muse, has surpassed 5 million downloads, outpacing the early growth trajectories of ChatGPT, Claude, and Grok.",
+      "why": "Consumer AI adoption is shifting toward deeply integrated personal agents that manage everyday digital tasks and workflows.",
+      "category": "Product launch",
+      "source": "Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGdfN3pzbXZSN0luTlNycHl2eHA2Y3BRVFkxZ01kaEhSdDRIUm1yLThzMVRBTjdvV2lhZU9IdzM3N3pVZXVPbHVrcTJNLTFETE5QWnpKcWJTaHhxc0cxVm51NlFweFlpMG1PLW5IRzRfTU9MS0RXLWN6WlBsUlg5OWYzejVlUjFyR1liQ1FXYXROMVhnR3FBNjN6eDhhVllMWVRVa1lMcW5hemVuNGdub0JtbUpQa0FBZ2poOHBZRERWT1dFNWsyS0N5MXpYRWFUaVl6OVJQbFRxS3lMblFz?oc=5",
+      "published": "2026-09-30T16:19:10+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        }
+      ]
+    },
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released Gemini 4 Argon, marketing its most powerful enterprise model yet as a specialized workhorse for coding, finance, and cybersecurity defense.",
+      "why": "Model providers are tailoring frontier capabilities for high-value enterprise workflows to capture B2B software budgets.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "published": "2026-09-30T23:43:07+00:00",
+      "related": []
+    },
+    {
+      "title": "Trump Signs AI Self-Regulation Pact With Big Tech CEOs",
+      "summary": "President Trump and Big Tech CEOs have signed a voluntary 'morally binding' self-regulation accord on frontier AI safety and development standards.",
+      "why": "Voluntary industry compacts redefine compliance frameworks, affecting how PMs approach product safety without rigid federal mandates.",
+      "category": "Policy",
+      "source": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVN5VHhBeldTMEFRMG5Jc1FzTlVVR0ZQemcxb2hXTDFMdVZmakpoSXBDU290OXAyZHNxcnpSM3NBbTVOWnFfRjlzTVdNZVY1MjVkYjdpcEJRazZ3UHFDODdDTDI0RXo2ZC1KWGFjREFuWHRwU2lQUGxvZ1Y5d0x1bURZYm01T2dPZzBpV3lqRjRqRXpjaS1IZEpXVW0?oc=5",
+      "published": "2026-10-01T01:00:05+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "'Almost like a constitution': Trump & tech giants sign ‘morally binding' AI pact on safety measures",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2RPNHhQMWp5dHZyQ253ak82ZElPVnhqT0dPUEswVjFwTXQ5aGFLbERUYnBlV3kxekFMYnFtM3hMVG1TSGtpOW40QktJckhIV2k2RUZJbGVwRDJPYnViQXlpT1ZkQkJqdjkzTUU0MGh6VmhTLTNrZnh4LUtHWlh2cWZ0d3BoV0E1LXVLSnBWMGtfeDFxMDRpX19jRmNuN2FIcVRPTmNnbEdxMjBySC0wTno4dnhocXB6Njlwak9POUNVdHptcmlUc0FYVHVCU3lTQ3I5QUFoVkFMTF9kbFFoUHpiMjRlZXRaVlJ2RVVpLTNfUkF6NVRQVkJVTzMzM3AyMEY4SdIBigJBVV95cUxNTF9mQ3VBUFZEYThORllsaWdUbGx2WnJyTEJtVm45R2c1b3FDWnJWTlhELW82STJDVldHMXEydm5PUkt6TVY5LXVWZXphVGhkNG1BRmlDdV9LcjJIWXQtWHFldmVjR1pYSkdUR0NlVnZzekhpdU1hYi10SFVvNnZ0bGJocDQwUDlRNmNCUk5FaDBYTi1jOWRHTFRHX3pmTktxSGk5ekZpZW5CdXJtY2ItVzJuMGU1UHFYX2pQUmpsTXFLZFAteXYxZkp6aW82Ynd4a3hpOWJpc3huN0UtU1ozVEhvQ3N5TWJROVFvS0lJODNPMUhiSDNJYXdTenE5ODlPTHJPYlBjUGduQQ?oc=5"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Trump Meets Tech Executives to Discuss AI Regulation Balance",
+          "source": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHRLNF9XaVY5THJzcDUxZzl2R1JhR0F4TFFqYUthTkdrSzIxT3hiRG5tdkxzcngydFFMdEh5QW9MaXNIb0pLUUtBWGd2Mmlfc0lrTkNaNUZjYlI4M0pmQmNjZDhWNTd6MmFNSjVKd0pJaFV2NF80WGdsbEVmUnBSc3pVT3hISjFyYlpwZWpBa0ctM3A5RFVHYlNVTW9QNGlr?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
+      "summary": "AI voice generation startup ElevenLabs completed a $300 million employee tender offer, doubling its private valuation to $22 billion.",
+      "why": "Surging enterprise and consumer demand for voice agents is driving secondary liquidity and massive valuation bumps in generative audio.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134599046.cms",
+      "published": "2026-09-30T16:35:05+00:00",
+      "related": []
+    },
+    {
+      "title": "Drones, Chips, AI: India Proposes $25-Billion Pool For Deep Tech Startups",
+      "summary": "The Indian government has proposed a $25-billion pool to fund deep tech startups focusing on AI, semiconductors, and drones.",
+      "why": "Substantial state-backed capital provides local Indian founders with the runway required to compete in compute-heavy foundational tech.",
+      "category": "India",
+      "source": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlFqQS1iSjVNYl9hMFdTbmR0VjdBUzR5TnluVGE3OU90SExUdkxCdzdLZVFQczZ2V0RmdGZ4QUc1ZlVJZHJnaDNneWNzTlJaVnp0Sy1qcmlxTjkxTUhLSnlFV19tMWxaWmlPVGMzbWxTakZ6OWNKUTZaNDlPRmJ0V0p5a3p5ZlJMa0FuLUNHZTRQS0FnWVVFaFpHYllmUGdOcGhxaFNoVWdOVlZva0ZJ?oc=5",
+      "published": "2026-09-30T18:32:45+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "AI, semiconductors, quantum computing to drive next phase of India’s infrastructure: FM Sitharaman",
+          "source": "tennews.in",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONTQ2Q2pCSllMUU9tNXROWjlJeVY5ekJvdlh1TFJmS2lOVTVJbGxEY0tDZUYxdTVEc1ctSEstanBiR0RPaUl0RHE5ajN4dlhMSmhXTzl6N2RLTWszTzNiZjdwNXltSlZ6RDFkMHd1LXoxT2JjUVJlMkdzb3Zzbml5bWgxM1dKdXFXdGt1d3dOSzJPaFE2bzJzMW16OUFCYzZXMUw2b0g0YW5lRXhFckg5TnkwQzc?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Govt Mulls ₹20,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
+          "source": "Inc42 Media",
+          "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/"
+        }
+      ]
+    },
+    {
+      "title": "GMI Cloud Raises $668 Million To Expand Global AI Infrastructure",
+      "summary": "GMI Cloud has raised $668 million in a massive funding round to expand its global AI infrastructure and data center capacity.",
+      "why": "Infrastructure providers are racing to secure sufficient compute and power capacity to meet insatiable enterprise demand for training and inference.",
+      "category": "Funding",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEk4QnNRU1FGSTNSWDdsbU5jU0ZiWUNWTUFMZWVkWlZkZ3FiT3h5QmI2SW5FaFg5LVduT2Rza1BTS0NPN2tERkhKbVBnY2h6M1hOVWJVZHJTNWQ3NTRMVGJHV3dGSWhrNGgyekRIMUgyRG9JMDlYQVZfQ3J2N1NNbWViSDlNR0dTR0Yw0gGQAUFVX3lxTFBvYy1PYW5xLWc0aUVHUWpuOUEtckdqRWtheENnRkNIWEt6Q0pSTERDNjlXOGZIVlBkb3F6MmhLLXc1cWdzT2x4U2VPd0x2UXFKTy1kR0tsVDUtUFNIVkpCMGJVcU9qMC1lMGpCYjhoRGpmNVBQRFlMZGJiQUpXYlhmeU5lckpOUjZYMjZ2OGF2UQ?oc=5",
+      "published": "2026-09-30T19:17:01+00:00",
+      "related": []
+    },
+    {
+      "title": "AI edtech startup Arivihan raises $10 mn from Accel, Prosus",
+      "summary": "AI edtech startup Arivihan has raised $10 million in a funding round led by Accel and Prosus to scale its personalized tutoring platform.",
+      "why": "Venture investors continue to back AI-first edtech models targeting personalized learning at scale in emerging markets.",
+      "category": "India",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPN1ZhZ1p1elpTRld2X0p3UF9HNk5fNDY0RExKTFFCT214Rm5PZk1VWlRHOURBTlNZS3NNSjdsczc5SVhuSmlVZ1B6OWNsN2czaXZ4RDNnWmlkdl9vWVQ3SEI0UjkwdlpyRDNDRk1xSEY4eUNTbnU1bldJcmtKUFV2NFIxUE9vSkJzaEFFOGcwSUpGVE85TUc4Q1NHYlA1ZEt3cTI3bzEtZWc1ZTAtTTZPT2dZSDZGX3V6OTZCLS1YZFdrTUFzN1FiaDA1LWc5TVduMWpaWWZVLVJNNGvSAeABQVVfeXFMUFJva2ZuWldlN3lTUlpVQm1iUjhzc213OGZ0SVNGRHNLcDRmRy01OTJXbTJfM1VvbzZ6MXQ2ZVI3dWx1WnZQZVE4WU5pSThfQnpRRTNES0JZUVRFYlY1dks2NkRBVlZMWGJxS0VJMlVhU1hnVlZlZFRfaVpmalIyS0xmUG14Sm5BMThaaHdKeE5IQ1phWGphSmhYS1JmbTFKb1lMZlVqVWNlUm1IOXcwR0N1dHpqTlZudVFVX3RPTVBvaFFBenluTi1LWGEya0xKTG5uOXRNYXVyM19raUZibG0?oc=5",
+      "published": "2026-09-30T11:14:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "Arivihan Nets $10.2 Mn To Scale Its AI Tutoring Platform",
+          "source": "Inc42 Media",
+          "url": "https://inc42.com/buzz/arivihan-nets-10-2-mn-to-scale-its-ai-tutoring-platform/"
+        }
+      ]
+    },
+    {
+      "title": "AI changes the GCC playbook in India: Up to 30,000 roles could be eliminated",
+      "summary": "A new report warns that accelerated AI adoption in India's Global Capability Centers (GCCs) could eliminate up to 30,000 traditional roles.",
+      "why": "Automation pressures are forcing Indian IT and BPM firms to aggressively reskill talent and restructure delivery playbooks.",
+      "category": "India",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUJQQmZjeEx4RDFQSFFaeTllMmVJTlljc05DaXlKYUVxQ0xTcXZiVTkyTU1zN2lObi1JNU9KSUtBdTdhU1VlOENmQkh1Z2Jjc1l5SmZNRllWaVlXOFgyVm5JRzJRblBza1ZoNThVbzROX1huMHVKVjVDc29YZ184Q1paUlkwakxjTEhVQWh0dWs2SFJFTi1kZk9DN1ltZnJ5TC1aNDJ2QVZtbDU2YkhsYWdFREotdFBlRFdZOWF0bG5RYlE3SFAzdTR2X3JOX0Q3N0U0R2FYWWdFcUJUWWNiMdIB4AFBVV95cUxNQUJQQmZjeEx4RDFQSFFaeTllMmVJTlljc05DaXlKYUVxQ0xTcXZiVTkyTU1zN2lObi1JNU9KSUtBdTdhU1VlOENmQkh1Z2Jjc1l5SmZNRllWaVlXOFgyVm5JRzJRblBza1ZoNThVbzROX1huMHVKVjVDc29YZ184Q1paUlkwakxjTEhVQWh0dWs2SFJFTi1kZk9DN1ltZnJ5TC1aNDJ2QVZtbDU2YkhsYWdFREotdFBlRFdZOWF0bG5RYlE3SFAzdTR2X3JOX0Q3N0U0R2FYWWdFcUJUWWNiMQ?oc=5",
+      "published": "2026-09-30T10:56:04+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "India's tech sector faces 53-60% talent gap in GenAI, cloud: Report",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/indias-tech-sector-faces-53-60-talent-gap-in-genai-cloud-report/articleshow/134569583.cms"
+        }
+      ]
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering has secured a $750 million valuation in a new funding round backed by Valor, Atreides, and Sequoia to bring AI agents to hardware design.",
+      "why": "Applying autonomous agents to complex physical engineering workflows opens new high-margin enterprise verticals.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "published": "2026-09-30T21:07:40+00:00",
+      "related": []
+    },
+    {
+      "title": "CScale raises $145 million for AI networking, with backing from Nvidia and Intel",
+      "summary": "CScale has emerged from stealth with a $145 million Series C round, backed by Nvidia and Intel, to develop optical interconnects for AI infrastructure.",
+      "why": "Overcoming networking bottlenecks inside data centers remains a core investment thesis for hardware-focused semiconductor giants.",
+      "category": "Funding",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw?oc=5",
+      "published": "2026-09-30T21:05:07+00:00",
+      "related": []
+    },
+    {
+      "title": "MongoDB CEO CJ Desai quits after ten months to build Meta's enterprise AI unit",
+      "summary": "MongoDB CEO CJ Desai has stepped down after ten months to join Meta and lead its new enterprise AI division.",
+      "why": "Top-tier executive talent is shifting toward major platform players racing to monetize enterprise-grade AI capabilities.",
+      "category": "Big Tech",
+      "source": "Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalhnd1Mxdk1kbThZVGdweEljRlVqM3BIUmgyQXY0UktwdGNOUzZTNUx6YWQtQ3M4ZjhXRGtLT1FIbWUtWTNFOXVBWWpMc0ZqdkNyME5wZXd3LTJnNFhxRGcxWXBtWTNKWFpMVkpobl9BcjI1cVByaThHeUFwSFczQm96THZhVEF3Mm5BeHJfTUhQc1VEM2NmZlY4STNJQnJhQXpqaFZjQWU?oc=5",
+      "published": "2026-09-30T23:07:24+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/"
+        }
+      ]
+    },
+    {
+      "title": "France's Sekoia rolls out AI cybersecurity platform to its clients",
+      "summary": "French cybersecurity firm Sekoia has rolled out its 'Elevate' AI agentic platform to its clients following an early access program.",
+      "why": "Cybersecurity defense is rapidly operationalizing autonomous agentic tools to keep pace with AI-driven attack vectors.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/frances-sekoia-rolls-out-ai-cybersecurity-platform-to-its-clients/articleshow/134593763.cms",
+      "published": "2026-09-30T12:10:52+00:00",
+      "related": []
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google has reportedly launched a pilot program to pay around 100 publishers for their content utilized in AI-powered search features.",
+      "why": "Addressing copyright and traffic loss concerns, Google is experimenting with revenue-sharing models to secure publisher data pipelines.",
+      "category": "Big Tech",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "published": "2026-09-30T14:51:49+00:00",
+      "related": []
+    }
+  ]
+}
