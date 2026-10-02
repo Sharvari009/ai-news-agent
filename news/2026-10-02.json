@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T08:00+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+      "summary": "Broadcom has agreed to lend Anthropic up to $42 billion to lease its specialized chips, underlining massive capital expenditure requirements in the foundational model race.",
+      "why": "Highlights the extreme infrastructure financing models emerging as chipmakers back major AI labs.",
+      "category": "Funding",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5",
+      "published": "2026-10-01T21:50:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZU1lRnpwckFTb1poMGtMOHdYTXUwYUFaT0p4ZVYtazU4S296UW9QNHN5ako0QlFNVFdBc0NRaGxTeGlQMGlYSlNlck1WOWl3ZWJ3RkZadTZCOWMyM1dOR2I4TS11RHNBNkRj?oc=5"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+        }
+      ]
+    },
+    {
+      "title": "SoftBank completes final phase of $30 billion investment in OpenAI",
+      "summary": "SoftBank has completed its final phase of a $30 billion investment in OpenAI, solidifying its position as a primary financial backer of the ChatGPT maker.",
+      "why": "Demonstrates the unprecedented scale of late-stage private funding required to maintain frontier AI training.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/softbank-completes-final-phase-of-30-billion-investment-in-openai/articleshow/134626238.cms",
+      "published": "2026-10-01T19:01:46+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms"
+        }
+      ]
+    },
+    {
+      "title": "Google unveils long-awaited Gemini 4",
+      "summary": "Google has officially unveiled Gemini 4, its next-generation AI model, targeting enterprise workflows as the market shifts decisively toward autonomous AI agents.",
+      "why": "Key product milestone in the ongoing enterprise software race among hyperscalers.",
+      "category": "Product launch",
+      "source": "axios.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5",
+      "published": "2026-10-01T19:31:14+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "summary": "OpenAI introduced 'Dots,' a real-deal AI agent powered by GPT-6 Astra at DevDay, directly challenging Meta's Muse platform in the consumer agent space.",
+      "why": "Intensifies platform competition in agentic AI and challenges monetization models for consumer apps.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "published": "2026-10-01T14:36:50+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "Meta's Muse AI Assistant Hits 5 Million Downloads—Outpacing Growth Of ChatGPT, Grok And Claude",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGdfN3pzbXZSN0luTlNycHl2eHA2Y3BRVFkxZ01kaEhSdDRIUm1yLThzMVRBTjdvV2lhZU9IdzM3N3pVZXVPbHVrcTJNLTFETE5QWnpKcWJTaHhxc0cxVm51NlFweFlpMG1PLW5IRzRfTU9MS0RXLWN6WlBsUlg5OWYzejVlUjFyR1liQ1FXYXROMVhnR3FBNjN6eDhhVllMWVRVa1lMcW5hemVuNGdub0JtbUpQa0FBZ2poOHBZRERWT1dFNWsyS0N5MXpYRWFUaVl6OVJQbFRxS3lMblFz?oc=5"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+        }
+      ]
+    },
+    {
+      "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks | Business Information & News | FE",
+      "summary": "The California Attorney General has issued a formal subpoena to OpenAI regarding cybersecurity risks and recent incidents involving rogue AI agents.",
+      "why": "Signals a rising wave of state-level regulatory scrutiny over frontier AI safety and autonomous operations.",
+      "category": "Policy",
+      "source": "Westlaw Today",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3R1ekx4OFBVU2VCa3cwVGlxWmVvSndTVW42UEtldUptMFVRUHpYYi1ZLUw4a3AyWHlzYmhyZndEeVRnZFZPbE03aVJvZllzTWdGcUtfOHgwMTd3VGhNZkdDSDBzNUx2dW12UnQ5ZnFDS0FsYXNTT2dlbF9YSHllNG1TVE1kQVptRWZ4dHBQaTlSaThGNHBjcWFUbzhNR1pqM3NFbFdqZFBqMEtVeFFra20xWGFLc0RFSVZINm9La2o2ZHVFcTg5UzBjRUppSmItSVF6bHBCaVM2R1VW?oc=5",
+      "published": "2026-10-02T00:28:33+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "FTC opens probe into AI giants including Anthropic and OpenAI, source says",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai-source-says/articleshow/134599896.cms"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents",
+          "source": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSmpnZ1ZWU05sZ0hWOVFnUGJqb0hRbTVTcWNodWI3ak5zcm5fRXFsaElYMERvUzJIaTJmNnlGdDkwOGFmUWJZNjBMQU9ER3dET0VkNExpakxZcDJRdkptdUxnaTVqcTJZSDB5cjNfZ2hYYzNVVzZid1htOUwxVm1vdnI5REJLTEhTMHNKY1RtMENtdkdfbWxnN3hFcXN0VXJCVzhJaUNPU3dnMjZaWTVjdTlzRnlWLTJKN2hnaHlGOHJ5Q096anJuMVhXT0FIVlMySFFpUGQ2eU5odGls?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "INTERPOL says AI is increasing the speed and scale of cyber threats. Here’s what companies should watch",
+      "summary": "INTERPOL warns that AI is dramatically accelerating the speed and scale of global cyber threats, pushing enterprises to overhaul security protocols.",
+      "why": "Mandates product managers to build robust security guardrails against automated cyber threats.",
+      "category": "Policy",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbDR2c0tkVlFzVEhhMjNMZThGcG05bkF1OXlLcmhxRW5xRllBVVZNRE9yTXVzSnZKVFlOQ3VrZ1lUMmxsWmFHSktlN1QxOW5DYXJ4RE9zMmp1VVRpQ1cwaFU5TFJvQ2dhVXpHOE85SE1ITm85VjVHVE9jdk5nbmtpd2FyTVgySVpSenBiLdIBjAFBVV95cUxQbDR2c0tkVlFzVEhhMjNMZThGcG05bkF1OXlLcmhxRW5xRllBVVZNRE9yTXVzSnZKVFlOQ3VrZ1lUMmxsWmFHSktlN1QxOW5DYXJ4RE9zMmp1VVRpQ1cwaFU5TFJvQ2dhVXpHOE85SE1ITm85VjVHVE9jdk5nbmtpd2FyTVgySVpSenBiLQ?oc=5",
+      "published": "2026-10-01T23:53:51+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "Visa joins growing alarm over AI-powered risks",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/visa-joins-growing-alarm-over-ai-powered-risks/articleshow/134569852.cms"
+        }
+      ]
+    },
+    {
+      "title": "Meta Brings Ray-Ban Meta Gen 3 and Muse to India",
+      "summary": "Meta has officially brought its Ray-Ban Meta Gen 3 glasses and Muse AI integration to the Indian market, signaling an aggressive push into wearable hardware.",
+      "why": "Brings next-gen hardware and voice agents directly into India's expanding consumer tech landscape.",
+      "category": "India",
+      "source": "WeRSM",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01Q1JJV1Z6cGl1cnpBT2dhS3FIaDVSOE5pWVZMaWxQYUdVOGtLV2pkcEduMS1ab0lnRDZYSFota2FENWxKOVVPSlRrU21OZG1MSzRSSnZFQ2NOVkx2dzJ2dHpRRjhtd2lCV2tKcjQ5ZElKdjZEOVV3?oc=5",
+      "published": "2026-10-01T23:15:57+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "Meta Unveils 'Muse Charm' Portable AI Device at Connect 2026",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbEdXTG1UVUtPS1EyR0RGdS16V3VxNUU2V2liLTZ6aHg5clhOWU1HeTR5d0dxekh2UE85Y0Q0RVJZeFFIMi10ejhlNE9WM0xaM2V3MjhoUl9zY3RjX0M3djUwbGU0aF9LUzB5LVcyZkdkd1ZvNkNrNmxVSDJjVmdjcjlzbkhQMndW?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "ADNOC-Backed AIQ Targets India Oil and Gas Market in Push Beyond Home Market",
+      "summary": "UAE-backed AIQ has expanded its footprint beyond home markets by targeting the Indian oil and gas sector with a large-scale enterprise deployment.",
+      "why": "Illustrates cross-border B2B enterprise AI adoption in traditional industrial sectors in India.",
+      "category": "India",
+      "source": "Tekedia",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEkxcTRWVW5LRDR6UngySFh3NktZb1VVMUZKdnNZck43SktPaV85cDd6dUNUakUxdDk3VFNHVGJCWG1YZHJpdnJrWl92RTFYNmR2RWNvbDBaMFNOUHhPT082M1lNOEJoaGJxbHdNeGNkMkp3R080anNmSHNacXYzVmNLVTBjTTJQUGdldE5BdXBURXdWS2dNSHgycTY5OHZPMnlv?oc=5",
+      "published": "2026-10-01T10:32:07+00:00",
+      "related": []
+    },
+    {
+      "title": "Mandia's Armadin Raises $255.5M for AI Security Agent Swarms",
+      "summary": "AI security startup Armadin has raised $255.5 million in a new funding round, pushing its valuation past $2.5 billion amid rising enterprise security demands.",
+      "why": "Reflects massive venture capital allocation toward specialized security layers for autonomous AI agents.",
+      "category": "Funding",
+      "source": "The Tech Buzz",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR004X3RVUzY2aGxyRlZDVXN6aVZoTEhxVE5xQktZWGlJNVVhNUdUVzYwUjc2eG1wZXVuUUkzWmYxWUJ6djJRZ1d0VG9MbTB5TjRVQmVkWVd6WU5IUDZnWHFqendaM3RPa3RpZjJ4blFQYkhMZVRpOU95NkprZ3paVGxVNUF5bVZFUXpycVhVeXFsbUxHNTJF?oc=5",
+      "published": "2026-10-01T22:06:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI And Synopsys Partner To Develop GPT-Synopsys For AI-Native Chip Design",
+      "summary": "OpenAI and Synopsys have partnered to develop GPT-Synopsys, an AI-native solution aimed at automating and accelerating semiconductor chip design.",
+      "why": "Shows how foundation models are moving upstream into hardware engineering and silicon design workflows.",
+      "category": "Big Tech",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmRKQzRGLUFJS0JCeVpPSjlZeExpY2lVSnc2dlVHMlVSUnB3WlVFSnRGZXpYYTVJNS1sQnZBdDBabmhuT2hKLUVyNFZuMUdDbC05UHpsbmluZFlQV0hnNjIyNjBYVE9mYVVYOGNTSEk2b1FLTlNuZGEzR1lWcWd3TElJNFZIMDlFRnUwS2ZCdll0NGNTb1lFNUtDUDB1UdIBowFBVV95cUxOaUFiLURjZXVPTDczSGFOR0dSMUJsRlExSERvU25kcmh1UDlfdzJYSi1PZzZtX2xYS2t3TktPNWQwRFhKNTh2VEFCWmpYZC1LQzMtVmFRdlBWbTNET0cwYUVXcFJLUV85MWpVOTN2bDkxRjJOd3VteG9XR1BhZ2lBeHhLcmhuQ0Y0NjZ0T3BSZC1oYWN5ZnNNVTNKaWsyczNlM19J?oc=5",
+      "published": "2026-10-01T20:39:40+00:00",
+      "related": []
+    },
+    {
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "summary": "Shopify launched Canvas, a site builder enabling merchants to create and modify online stores entirely through natural conversation with its AI agent Sidekick.",
+      "why": "A major UX shift toward conversational commerce and zero-UI online storefront creation.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "published": "2026-10-01T16:44:35+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+        }
+      ]
+    },
+    {
+      "title": "Aignosis Raises Rs 4 Crore to Expand AI-Assisted Autism Screening Across India",
+      "summary": "Aignosis has raised Rs 4 crore in a seed round to expand its AI-assisted autism screening tools across healthcare facilities in India.",
+      "why": "Highlights localized deeptech innovation solving critical healthcare diagnostic gaps in India.",
+      "category": "India",
+      "source": "Indian Startup Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ196TUJOUUZ1RlFsWnVnY19ZSTcyQUI3UUxCa1NZUUstMmQxc3ROQ3l6RDltbjZqbUdsNkR1dG1Mb1NYMDlrdlg3ZXNSQ2pzdVVLb1c3dGpxSUZsRDhwUTZxQXJiUGlSMF9FT25ScjRQN1hNNXVONm55SG1qOUZ3YmY2MXpZdktyMndfTWlxRDhVcG5ZZWpPOGJ2Z3h1V3VjWkduOHVQN0dhVTcyaExYNXBUX3ZMaks3WExIWEQ3UTZQYm8?oc=5",
+      "published": "2026-10-01T14:26:07+00:00",
+      "related": []
+    },
+    {
+      "title": "AI cybersecurity startup Armadin valued at over $2.5 billion after new funding round",
+      "summary": "Cybersecurity startup Armadin secured over $2.5 billion valuation following its latest financing round to combat automated cyber threats.",
+      "why": "Demonstrates the exorbitant valuations commanded by foundational AI security infrastructure plays.",
+      "category": "Funding",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaVpfMnBHQ0xnQXhxazcyYXFsTUw5TFJieFh6d3VpNkRBa3dhM3h3a3FkbVI5QkhJMW5tMHZ5SXJQRXNBWEtHa3ExVGNZQWZUa19YYTFiRDNmNnZTMFkwSFNJd0pNTDFPaE90UF9VZmRtb0h1bFM0bUpHZGdaNWstcUNQbkY5aVczTTBnd3J3cUp1NUdsR0lySzBQRlRRUmFjcmFnSXJSbDV3dEZUeHdxSWotdUhkLU5VUUVCQWxRV2hjanJMLVkyOFhnY3ZWZ3lETFdIN1lUM2haTkRKODRPUkVlbXRIMU9tQWZzVFFFM3pVbGc2SWp4SV9R0gH_AUFVX3lxTE1jMFFRQUZOTXdzUF9PUWkwajZCb2JaczFaUUZ4SWw2RzRocVBfY25Rb3dzbDFnUlV2aFkwNXdSSmVuYzUtN1VicmR2S3hyb0ZhcUpoWlRtblUwT0xMalBPTUN3ajlEUGxoeEFDMTk5MlAwWFZqZlBfa2FRRDZfWVhhdEY3SjJQZVNobUFGd0JZMm4xeENfRmY2VUZPYzJyaVNnWTNhdlkzMzJpRFFNR2J5cWI0M1Z1ejZVLWFBWTlLX05hTEFHejZkMXoxSEdtd3BwOURUZ09acjllOWU5Mmc0RzZVWHEyZ0g0NjFIYVl5NkZtczU2QlpBQ2JqaXpoaw?oc=5",
+      "published": "2026-10-01T11:21:32+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/09/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue"
+        }
+      ]
+    },
+    {
+      "title": "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
+      "summary": "The Pentagon has established 'Autowarcom' (Autonomous Warfare Command) to accelerate the integration of artificial intelligence and drone systems into defense operations.",
+      "why": "Underscores massive public sector budget allocations toward autonomous defense systems.",
+      "category": "Policy",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities/articleshow/134618284.cms",
+      "published": "2026-10-01T12:01:45+00:00",
+      "related": []
+    },
+    {
+      "title": "Google’s new Guided Vision feature can help you read the fine print",
+      "summary": "Google is launching Guided Vision inside Gemini Live, allowing users to use their smartphone camera for real-time audio descriptions of their physical surroundings.",
+      "why": "Expands multimodal AI capabilities into practical accessibility use cases for mobile consumers.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "published": "2026-10-01T19:47:51+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Gemini can now call businesses for you: Unboxing Google’s new AI feature",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/gemini-can-now-call-businesses-for-you-unboxing-googles-new-ai-feature/articleshow/134546026.cms"
+        }
+      ]
+    }
+  ]
+}
