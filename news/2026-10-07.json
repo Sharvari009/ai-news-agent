@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T08:05+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "Karnataka govt signs MoU with ElevenLabs for Voice AI services",
+      "summary": "The Karnataka government has signed an MoU with ElevenLabs to deploy voice AI safety frameworks, assist citizens with speaking disabilities, and integrate voice tech into government services.",
+      "why": "Opens public sector distribution channels for ElevenLabs in India's top tech hub.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/karnataka-govt-signs-mou-with-elevenlabs-for-voice-ai-services",
+      "published": "2026-10-06T14:36:27+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134599046.cms"
+        }
+      ]
+    },
+    {
+      "title": "Meta, Walmart, Stripe launch open standard for AI agents",
+      "summary": "Meta, Walmart, and Stripe have launched an open standard for AI personal agents to streamline agentic commerce and tame integration chaos across online platforms.",
+      "why": "Establishes foundational API commerce protocols for PMs building transactional AI agent integrations.",
+      "category": "Big Tech",
+      "source": "Quartz",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoSWlHRnBkU0xVZGRVLXpKZm9GWHdzS3M3VmlZRWIwY0c1RV80eU9NODdldElIeGROc2VlTjdSUUpCZkliZFlEeHc3dXNYcE1VaE5idlhCT2ZDMWg3ZWluNjFoLTRWUFZIRXF0VmFZWnhVd3NNcHFwcTVUZlZ2Zw?oc=5",
+      "published": "2026-10-06T20:02:38+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "AI agents are fighting over your shopping cart: Meta’s Muse blocked by Amazon and Walmart",
+          "source": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ2c5MVIxcTRLS25nNVdnNGVIcDhORmhFVDZaZHlGd0pmWjQ4MTNPcDBiLUh1RUFnbzhvMlRRTDk3UDR2Z0QtbDU0UXVFMzVaYWVnX0k4RWtzNE5DTms0RzZSd09PcXhGOTJvaHdQcFBxSEliNGY1V2Jtd01ITlRpQUQwLWdSb3RINmNBWWl1ejBaWVNXalQ3LVllMmxqZkFmTUs1R1NUb29OVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Razorpay Partners with OpenAI to Help Indian Businesses Advertise on ChatGPT",
+      "summary": "Razorpay has partnered with OpenAI to enable Indian businesses to advertise and manage customer discovery directly through ChatGPT ads.",
+      "why": "Bridges conversational AI discovery platforms with Indian merchant checkout flows.",
+      "category": "India",
+      "source": "tennews.in",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWi1tc1VOMGV3MHN6NEUtRTJfTjhZYnJ3eFZvQlZDblVtUDVpRXFyWUFNWWstN2VOc2RwYTZSdXVyeFlUNHBfcXJxUk1JaEl3Zy1JZENFbUpGR05xMUFJelBpQk1jVnRGYjRfckh6ZFBka3h6U3AtYVNQVDlXX1gyWXZidFVDVEJ6X1kzNUFkY0xmbFNKTFhqSWhDd3E?oc=5",
+      "published": "2026-10-06T11:37:17+00:00",
+      "related": [
+        {
+          "date": "2026-10-06",
+          "title": "Razorpay Partners With OpenAI To Help Indian Brands Advertise On ChatGPT",
+          "source": "Inc42 Media",
+          "url": "https://inc42.com/buzz/razorpay-partners-with-openai-to-help-indian-brands-advertise-on-chatgpt/"
+        }
+      ]
+    },
+    {
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed AI infrastructure startup Lambda is raising up to $4 billion at a $14.5 billion valuation ahead of a planned 2027 IPO.",
+      "why": "Reflects massive capital expenditure demands and GPU cluster scaling strategies for neocloud providers.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "published": "2026-10-06T20:00:30+00:00",
+      "related": [
+        {
+          "date": "2026-09-26",
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        }
+      ]
+    },
+    {
+      "title": "DeepSeek targets $12 billion funding round as it builds for potential 2027 IPO",
+      "summary": "DeepSeek is targeting a $12 billion funding round as the Chinese AI lab builds financial muscle for a potential 2027 IPO.",
+      "why": "Intensifies global capital competition and valuation benchmarks between US and Chinese frontier model labs.",
+      "category": "Funding",
+      "source": "The American Bazaar",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORERFSVNoNVhjYldXM2NNMWRSOHZVdWlBUkFzb29KcjQzUXZ3TGlFQi1POFEzUjEzMVlFR1kyMHJId3k0NU1VVmZaNEdaMXdoQVNBYWdRdlMyN3lpTHA3cEdGSkF4dmFIaEJkRTVEZnBnUjRqdHNGcHdxQ09OdDhJZUJhM1RSVUtfNHdFeDFjQkVqcnlOTE9leWlnRnBUVV9IOUxBejhoSm9LOXlORlpxc3I0ZC1wei1MM0VjbDZaMA?oc=5",
+      "published": "2026-10-06T16:37:53+00:00",
+      "related": [
+        {
+          "date": "2026-10-06",
+          "title": "AI cloud startup Verda raises $189m in Series B funding round",
+          "source": "Data Center Dynamics",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmhMVXZJSXFmRXF0Nm9SY1h5SEdMSms4N2hHMmtFM2tIT1p2S0I5M2RqVnE2SWliZVFCSmdtQlZNSE5HdkhIeml0OElmeVp5X09nem9lNk8yMWNuM3MyaHBCTU5jNEg2cDVuOTBRVkZWOUZTLWlYaUtiMW50cGlQNWlvWDUxY0JuYm5TbHMxR2gyLXJUMDdDZ1N2eHNLTWVkWUVKbWhpWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI Seeks $30 Billion as Rush to Raise AI Money Quickens",
+      "summary": "OpenAI is seeking to raise $30 billion in a new pre-IPO funding round as capital requirements for frontier model development surge.",
+      "why": "Highlights the astronomical capital burn and valuation dynamics of dominant AI foundation layer players.",
+      "category": "Funding",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjEwV054cG1rbl9UeHgyN1JSYzdvSmhZTWprdUlNMmZVNTNFSEViRDNqamUwdUtleXpHOS1BUUtITWlIeGp3b0FFQmhMakpCMUVubGp4UUlCOHZLWlcyYlpESTZhNGxxUjJLcDlhZDJ0NWgyRE44VDF3S0FYbVU4d1pCQmF0WWhSSV9IdGg5MTREUjE2Q2FlbnN2R0JRY29uU0ZpS2RQQjliRFlqeGNxUEVKSHU1QQ?oc=5",
+      "published": "2026-10-06T23:03:21+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms"
+        }
+      ]
+    },
+    {
+      "title": "Sarvam AI appoints Ex-Google Cloud India MD Sreedharan as president",
+      "summary": "Sarvam AI has appointed former Google Cloud India MD Sreedharan as its new president to scale its enterprise operations.",
+      "why": "Strengthens executive leadership for homegrown Indian foundational AI infrastructure deployment.",
+      "category": "India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUJlcE5GalEwc3RyYXB0cGN3NzBDY3Nia3gwRWFpYW90cDhPQ0FMcW03RlRVTHR0SUpweTRRb0pxZ0MzY1JvSnNneHpOeldxYnRtTzN3SV9ZaXJVSmRJYUZsU25IUkxpcmxSb2NqakZhRWNqM2tKRlpxM0M5QXdCRmtxVHNTd1VnVUFhS1dEdFRaWWNmVkZKQmFRUzByekZ6RjdIS0I2Rk1tWnd4YVBkb2xmUmV5ZkhCazRsLXpIUGpITjhVMEQxSXU0Q2ZVT2c4aDlkajFvaWQzUkJsejM4YmlQSGQ3T1lT0gHuAUFVX3lxTE9tXy1mXzJsM2ZLNHNkUXN6MnhZQTlvZVAzWDFKNjRfNXRuZWtqZ1pQNVdIcFZ1VDQtY2tfNFpwb3J0OGdnRFZqY2V6LVQycEJQVW0waldWVHZUNUtUQTBZWlJQTzJqLXpJX21TN0FEWkpjb3RLV25IRnhzZ2JVcHFKTWF4cXN3dURicGRqN2I4ODN4NzMxY3IySWlaeHdfUTF3MTN0cUZ0OHBWY1VJeEZLWjJxbWcwLUNLRy1IaEc3Y0hmY2Fnd2dBem9QU3J3YnIwN2ozN1R6VUo5b19wMl9QNHJ5enhFUVJFUDBoaWc?oc=5",
+      "published": "2026-10-06T19:30:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-27",
+          "title": "From AI models to agents: Sarvam’s Kumar, Emergent’s Jha map India’s next five years",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZ9IB5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZw?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Sarvam AI updates vision model, doubles down on Indic-language push",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-updates-vision-model-doubles-down-on-indic-language-push/articleshow/134480718.cms"
+        }
+      ]
+    },
+    {
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a 1-trillion-parameter multimodal model designed to challenge American and Chinese market leaders.",
+      "why": "Provides European enterprise buyers with an alternative open-weight frontier model option.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "published": "2026-10-06T14:33:16+00:00",
+      "related": []
+    },
+    {
+      "title": "SAP to acquire workforce data firm TechWolf",
+      "summary": "SAP is acquiring workforce data firm TechWolf to gain deeper visibility into enterprise skills as companies reorganize around AI adoption.",
+      "why": "Integrates internal workforce capability mapping directly into enterprise HR software suites.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sap-to-acquire-workforce-data-firm-techwolf/articleshow/134742311.cms",
+      "published": "2026-10-06T13:43:24+00:00",
+      "related": []
+    },
+    {
+      "title": "Software startup Vinci raises $250 million at a $1.5 billion valuation",
+      "summary": "AI chip simulation startup Vinci has raised $250 million in a Series B round at a $1.5 billion valuation, entering hardware EDA markets.",
+      "why": "Accelerates software simulation toolchains for next-generation silicon design and semiconductor workloads.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/funding/software-startup-vinci-raises-250-million-at-a-1-5-billion-valuation/articleshow/134739689.cms",
+      "published": "2026-10-06T11:55:46+00:00",
+      "related": []
+    },
+    {
+      "title": "Exclusive: Legal back-office rollup Teddy AI raises $60M",
+      "summary": "Legal back-office automation rollup Teddy AI has secured $60 million in fresh venture funding to expand its vertical AI agents.",
+      "why": "Demonstrates strong investor appetite for verticalized, workflow-specific legal automation tools.",
+      "category": "Funding",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0ZQZ0JpcEZsM0RXZTdtSzBhTlBGcGpTb0REaExnRU44ZWZ3ZVUyMGtiaVFzU0xTUUJ2bk82eTBrQ1VqYnY3UXdOU0RYa2pfT1VrY2xEV0I5R3dLV0duQ2E1aWlfLWU2ZzBWdVVsS3ltd3YzYjZNcVdPdExINHpSSHo1aDZRLThyVEJ1bkJwdHl1TkxV?oc=5",
+      "published": "2026-10-06T20:56:24+00:00",
+      "related": []
+    },
+    {
+      "title": "Trump Names Former SEC Chair Jay Clayton to Lead AI 'Super Intelligence' Effort",
+      "summary": "US President Trump has named former SEC Chair Jay Clayton to lead a new White House task force focused on AI 'super intelligence'.",
+      "why": "Signals shifting federal oversight and regulatory centralization under financial sector leadership.",
+      "category": "Policy",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JNWVEMGFacENJaERQLTdkQTJVa2tqemctbURrNUJ0WV9haHp5WnR6Slpvb3ExUDU5Yk5nRk5tdXhsMmV6UjhJMENETjhmTFZKazg5ZFNrZDZ4TVdFXzZRakdsSlNWQlJPNm1XeG5KRGdlRkVLM3c?oc=5",
+      "published": "2026-10-06T18:05:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-06",
+          "title": "'Super Intelligence Force': Trump unveils new task force led by DNI Jay Clayton to oversee AI policy",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUEtFTVlOSWFFTDB3Zmk2V2R5cUR5NzhrUXhuaEh6ZkxZWHRzUl81TFlFd2ZIOG5SQ2lHdzczVVFHZUxVU2pHV1ZxMHZUYWt0QTF4bFhvQ0dHTW5KT0JUQ1ZkTHp4UHhsamJDT2xLMDRYWFdfLXlfNFBueTNTWGpLc2NpZTlvQ0ZDbVVHbGVid0FoZDd0Ny0wb04yQUdYbjl2UWNNck1kdlhLdU5oTnNuc1FYdW14aUNFMkdVSllRT0V2azh3dnlCTVFhVEFwVTVmb04xMjZjc0lHTWEycDVGTEVobmZ3XzFTbzl5SlNRTFJtVDdTZGlNUEZoSGItbndodnZ2MFZZVUFjc0HSAZACQVVfeXFMTnZPQkpLRm9hcDB2ei1RQ1BuNHFzbVVrNk43akpoU1ExVXpON3JkMlB2bzczSzM3SDlUcWxMMlh3VnNqNnhCNEhlMUhZS3dDcHVxMFM5LVN3cGE1dExwanhGVURPQms0N21nbDNHaXZ6dmhzazRMYlNzZk51SkVjUy1URFhIeGNaczhSTzN4bG1mMVVUdjc5TXRvWDBaVVZ1ME5MTjU5akE2dVktUkJ5Tk1rVzg5aEtfclBjY0dVei0wS3JjV2ViZ09LZ25BSmVLOXpjb2lTVmtLNW5GMlVxUEgxTHM2UHBlbHBkWFFRbndNeDM4RUl1ZW0yT090ZVg4cDcwcmxVZ0hNal90a1N1Z2s?oc=5"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "Trump forms 'Super Intelligence Force' to cement US dominance in next-gen AI",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/trump-forms-super-intelligence-force-to-cement-us-dominance-in-next-gen-ai/articleshow/134676199.cms"
+        },
+        {
+          "date": "2026-10-05",
+          "title": "Trump names DNI chief Jay Clayton as AI czar to lead new White House task force: Report",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU1NxYzRXemN5anAyNEw2eUxwS2ozYy0tZnB3RnBsRXl0bWcwdDNuRUlqVENiNU5LeFJncnZWWUpwdUFPbGU4WTlwQjJtSDFlWnpxT3RBYzdTT19NV1lhVGpkZHBpa3cyc1J1cXY3ZDRmcTR6bjRHQzNzRXpYY0FCN1hldS14aU16enpHM2JEN1ZSSnN3bHdYZy1pX2Z5VDAzdzZqV2RDZlVJZXdtTmx6Y0hVY296dHlTeHF3bHYwUTVCbkxUR2NudGlKcUU4X3MtbGpER3pvVGNhX3VLVmFEcmUwcHFNX2owUmZ6MmlaLWZPMDJzRjN4NXhFSm5KS1nSAYQCQVVfeXFMT2tMUk1TMTdBVTkzNGxGRE1xc0R2WXBmYm1ubUNOSEFsMDZyUDcxZlpqX0pYeFJubGxsYTM4anpHNTRxRXNJajc5cTJBRnU2QVpTQklhU1pnLVRIMWpJUzNRbkZabTlkR1d5c1lrVi01OHBoTGZfSGNLU0t2bER2c0dmUFVOV3NQVGhFMmZnNXMyclk0NW8xRGxDczU0OUZlSHFwd21LbGlYR1JZd1B2NkhfTlNoekcybmhNdVpoMm5vT3h4eXhkaFcxMWxXeFhNZ1hVYWhRWElpQkI1dlVXS0plSkhPUUNmYlY4Sl8tbHRzd050RXdtLVdTRGdtaGtlX2hrVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "ElevenLabs targets voice AI service in 22 Indian languages, says CEO",
+      "summary": "ElevenLabs CEO announced plans to roll out voice AI services supporting all 22 scheduled Indian languages.",
+      "why": "Unlocks multi-lingual voice agent capabilities across India's diverse regional consumer markets.",
+      "category": "India",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM3pKRFNJZnpoWElCX2NtODJfZnpIYWJtRUgzSUZhalpXUlNCdzFaTkJ1TzN2YWlsVzFhWHpCZ1RrS3FvdjZ0QjYwcmxFdEZneDZ0WTJ0YlpMS3NoSEFxT19RT2ZqYURxYzFzZmZsU09tbmZyY0g0ZGh6RGhHRGZ3ZXYzWWl2M2ZkNWhEdGpJTG1fZE9UZ2VxMS0taXR1S2EtaHJ4NmNLcUtibkZBbFh0Y05kcnI4NUoxS2dzcHUxNlVOc2RhVVFqMDJ5ZDVKeklrMXFtX29tWk1WRFJBeVlFRVZOV2JhYm9obUhpSklxTks3SEHSAfgBQVVfeXFMTXZoajM4Q19xM3FnUTQxNmxOYXc5Z21TdGhCNlR1TEFKUGM5UlVZN0FvNzVUZEFqWFdsWWJLZlRUVGttTG5tOE0zX3UtR2ZBVks2SEtqWTd5T0JIU3hPRXNid3ZwWjdySTR0bGU4Y2hXblVmOXVfSzRBQnFoeGJlbWQxNlVqWVJiTjdJMkh5ZEstSW5GS3pMUE5jczNDQ3dXVXVSYXhVNG9uVHRWQUZqS2VvOW1GOWxfenBBUGNfSXB4LUM5VUp4aE9QYmxZOFB3eGh4VUlkWFJzOE56Sm90bE04eXhFMEl5VHZSX3lYTmYzS1U2dkdWUWU?oc=5",
+      "published": "2026-10-06T16:16:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "ElevenLabs' valuation doubles to $22 billion on surging AI voice-agent demand",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/elevenlabs-valuation-doubles-to-22-billion-on-surging-ai-voice-agent-demand/articleshow/134599046.cms"
+        }
+      ]
+    },
+    {
+      "title": "Sam Altman Breaks With Anthropic on AI Regulation, Says World Must Accept ‘Some Bad Things’ as AI Benefits Outweigh Harms",
+      "summary": "OpenAI CEO Sam Altman publicly broke with Anthropic on AI regulation, arguing the world must accept certain risks because AI benefits outweigh potential harms.",
+      "why": "Highlights a major ideological split among foundation lab executives regarding compliance and risk tolerance.",
+      "category": "Policy",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVzRGb3pDZ3c3RDJMdE1VTmNiUUd5V200MVoxazRhaXlhZVpaMDItZ2EzeVBrS2NpRmNId242bEVSOHlPak9CY1Qybk9ENEowSVRDUTJDMTRrUkdDQVk3TURhLVRmalFNcXNZeW5FREtmSVBvZDFPYTctQUVSRXFqa3F1T3FWdmJ0b19seGZEYk9iUEs3?oc=5",
+      "published": "2026-10-07T00:30:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-03",
+          "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "summary": "Google is phasing out free access to its standard Gemini Flash and Pro models, limiting free users to Flash Lite starting October 9.",
+      "why": "Forces consumer monetization shifts and redefines freemium tier utility limits for AI assistants.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "published": "2026-10-06T13:19:01+00:00",
+      "related": [
+        {
+          "date": "2026-10-02",
+          "title": "Google unveils long-awaited Gemini 4",
+          "source": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5"
+        }
+      ]
+    }
+  ]
+}
