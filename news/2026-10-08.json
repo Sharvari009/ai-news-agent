@@ -1,0 +1,237 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T08:01+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+      "summary": "Anthropic launched Claude Haiku 5.5, slashing small-model API costs by 75% compared to Haiku 4.5, targeting high-volume enterprise tasks like customer support and coding ahead of its planned IPO.",
+      "why": "Aggressive pricing pressures rivals like OpenAI and lowers unit economics for product teams deploying high-frequency agents.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms",
+      "published": "2026-10-07T19:03:07+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "Sam Altman Breaks With Anthropic on AI Regulation, Says World Must Accept ‘Some Bad Things’ as AI Benefits Outweigh Harms",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVzRGb3pDZ3c3RDJMdE1VTmNiUUd5V200MVoxazRhaXlhZVpaMDItZ2EzeVBrS2NpRmNId242bEVSOHlPak9CY1Qybk9ENEowSVRDUTJDMTRrUkdDQVk3TURhLVRmalFNcXNZeW5FREtmSVBvZDFPYTctQUVSRXFqa3F1T3FWdmJ0b19seGZEYk9iUEs3?oc=5"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-rolls-out-second-claude-5-5-model-as-it-builds-toward-ipo/articleshow/134548694.cms"
+        }
+      ]
+    },
+    {
+      "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+      "summary": "OpenAI rolled out Intelligent UI for ChatGPT alongside GPT-6, enhancing responses with interactive visual elements such as dynamic diagrams, charts, and clickable buttons.",
+      "why": "Transforms chat into interactive software interfaces, bridging the gap between text prompts and rich web app experiences.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "published": "2026-10-07T19:10:42+00:00",
+      "related": [
+        {
+          "date": "2026-10-02",
+          "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor"
+        }
+      ]
+    },
+    {
+      "title": "US government, Google join Zuckerberg-backed Biohub in $1.8 billion push for AI biology data",
+      "summary": "The US government, Meta, and Google DeepMind committed $300 million to Biohub's $1.8 billion initiative to generate open biology datasets and train AI to build virtual cell models.",
+      "why": "Big Tech is betting heavily on open scientific data pools to fuel the next wave of AI-driven biopharma discovery.",
+      "category": "Big Tech",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/us-government-google-join-zuckerberg-backed-biohub-in-1-8-billion-push-for-ai-biology-data/articleshow/134770321.cms",
+      "published": "2026-10-07T16:21:19+00:00",
+      "related": []
+    },
+    {
+      "title": "Paytm's Vijay Shekhar Sharma wants India to build its own AI models, ready to fund the builders",
+      "summary": "Paytm founder Vijay Shekhar Sharma pledged ₹1 crore to ₹2 crore checks to fund Indian builders developing domestic foundation models and sovereign AI infrastructure.",
+      "why": "Provides catalytic early-stage capital for sovereign Indian AI initiatives competing with dominant Western foundation models.",
+      "category": "India",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/paytms-vijay-shekhar-sharma-wants-india-to-build-its-own-ai-models-ready-to-fund-the-builders/articleshow/134768479.cms",
+      "published": "2026-10-07T14:25:14+00:00",
+      "related": []
+    },
+    {
+      "title": "Microsoft brings more AI to PCs as it challenges Apple",
+      "summary": "Microsoft launched new Nvidia-powered AI PCs and introduced Execution Containers, a security framework supported by OpenAI and Anthropic to sandbox autonomous agents on Windows.",
+      "why": "Solves critical enterprise security concerns around rogue agents modifying operating systems or accessing unauthorized sensitive files.",
+      "category": "Big Tech",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/microsoft-brings-more-ai-to-pcs-as-it-challenges-apple/articleshow/134773844.cms",
+      "published": "2026-10-07T19:05:41+00:00",
+      "related": [
+        {
+          "date": "2026-10-03",
+          "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Microsoft overhauls Copilot to take on AI rivals like Anthropic",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXdZSjdFMHZlUldQMk5QUTNqNVZVaUN1QUFJRGdMYTdRR1pOZHR6bUxnRkdNY09BV3pLZmVLbElzZFhPSnFCTGpab3lPbTJhM0tnYnhwNklJYl8tVWc5bVdXck9sVWF5bTV5OVhFUUo4cjdJTkFhZk1MMnI0cHptNUp1YXFhMUJfWFZfTzlLRDFzaVY5NHZXNjBsXzF3c3pTcUNGNE5PNVdxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic expands Claude startups program in India, offers up to $7,000 in credits to local businesses",
+      "summary": "Anthropic expanded its Claude for Startups program to India, offering local founders up to $7,000 in API credits and technical resources to build on Claude.",
+      "why": "Accelerates ecosystem lock-in among Indian SaaS builders as competition heats up against OpenAI and Google.",
+      "category": "India",
+      "source": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdm54ZE1XenFyNWVMZVJIcEVCWHg3b0xDVU01X3VuWFc5RzB6YzMxa29WMFljZ1pPRlRIS21LUU5zT0Fxa1VrM2tlcUNOaGp0R3ppUGNPUHE4Mk5aME85UHRiU2ExQXBpaHNoWFhjLVdJM1FkNTJBMTE5LWVucVMxUS1sZjJWaHBoSUxGclV5UzYxeE0yd3JlOGllMFRuejlnRnVCUGhYYUxqNmFxTy02VnRjWmRiR21qVUJiZ1RMYmJFbV9qQVRJVEs2dVRCaC1RcW8zSC1vYlZtN3Z00gHiAUFVX3lxTE1GSUVRNDJ0d1FlODVrbzhxbUJWc00wUjVHVW5jRkJCbnhaQmxoeEUyWTFnZjRYXzZ1d1pTbXItdkJCMHJ2UWVhWjNRbDlWVGxsdjBfQTQ2NkpMbnd6bGtMRFpXSFYxZkpqTDNRb2dmZ1RPc3BjbnZxSmdjazNvRkd4VHo3N1hSc1ZCdmRvTEFvREdLQ2hQQ0MtSDBCaUpLSXZpeXJ5ckZZM3NBMllMZ1pxN0pvZGVZdkdDUVlBS21CWHhqdm5OODFzYWtrdUJPaGE0UkhZdXVyOFY4bkJoalFoRlE?oc=5",
+      "published": "2026-10-07T13:13:56+00:00",
+      "related": []
+    },
+    {
+      "title": "Meta, Sierra pitch Personal Agent Protocol to govern how personal AI agents deal with business",
+      "summary": "Meta and Sierra introduced the Personal Agent Protocol, establishing a shared open standard to govern how consumer AI agents securely transact with corporate enterprise systems.",
+      "why": "Standardizes bot-to-business commerce and API integrations, preventing fragmented proprietary lock-in across agentic ecosystems.",
+      "category": "Big Tech",
+      "source": "Constellation Research",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcGFpSVM3RW9QSGQ0N2tjR3I1VV93Z08wc0dFV2NOZTY1b1ZpTlVzcjFCU1VUQVE5dENadEctclFtUk9ud1ZfSWhJSGV0Q3JrVFFfQ0wzdHBZSnk3SDFIZGl5QVNkcU13eGVHMEY1d3FNUG5PX0s1UnROTmExY2tSd01ZQXFSaE5WQVhLRnhWTUloYkJvVHI2d2p1WWxlRlN4X1NyMVJ0Y3NBTVRqM01PaUc2OFhJTDNWWVRfZHdhaUVsSHdObDZwa3Nn?oc=5",
+      "published": "2026-10-07T10:44:34+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "Meta, Walmart, Stripe launch open standard for AI agents",
+          "source": "Quartz",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBoSWlHRnBkU0xVZGRVLXpKZm9GWHdzS3M3VmlZRWIwY0c1RV80eU9NODdldElIeGROc2VlTjdSUUpCZkliZFlEeHc3dXNYcE1VaE5idlhCT2ZDMWg3ZWluNjFoLTRWUFZIRXF0VmFZWnhVd3NNcHFwcTVUZlZ2Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Snorkel AI Raises $350 Million to Help Push the Frontier: NYSE Content Update",
+      "summary": "Snorkel AI raised $350 million to expand its programmatic data-labeling and alignment platform, helping enterprise customers fine-tune frontier AI models at scale.",
+      "why": "Confirms that high-quality, programmatic data pipeline infrastructure remains one of enterprise AI’s most valuable bottlenecks.",
+      "category": "Funding",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ2lCa0RmUTZTd181YWxMLXdNdzR3Z0hFcE5nSk5BU2xZWkNYOTFRYlZodzU0MzdZVlBCa0ttQmh2cEJralJBbGhhaC0xT0ZJVng4RVJpRkxvckFZT2NDSmhRRmVEYjdGRkFEZUVWZDNGMXFfSEpGUXE5bnpieGItcUxGdEdURlhJam9aVDFGVDVsQjg5VmRaZnRaZUNuSUpkTi13WlZ4ZzNVaDRwQzNBdlhjM0VmM0NDZVlqTlhsdG1ZNjFsMGpfX09GWQ?oc=5",
+      "published": "2026-10-07T12:55:00+00:00",
+      "related": []
+    },
+    {
+      "title": "Desible.ai Raises ₹32 Cr To Build AI Operating Layer For BFSI",
+      "summary": "Indian voice AI startup Desible.ai secured ₹32 crore in seed funding led by Prime Venture Partners to develop an agentic voice layer for banking and financial services.",
+      "why": "Validates growing institutional capital for verticalized, Indic-language voice agents tailored to heavily regulated financial workflows.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/desible-ai-raises-%e2%82%b932-cr-to-build-ai-operating-layer-for-bfsi/",
+      "published": "2026-10-07T09:00:33+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "Karnataka govt signs MoU with ElevenLabs for Voice AI services",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/10/karnataka-govt-signs-mou-with-elevenlabs-for-voice-ai-services"
+        }
+      ]
+    },
+    {
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "Nous Research raised $90 million at a $1.5 billion valuation to launch commercial enterprise AI agents built on its open-source Hermes model line.",
+      "why": "Demonstrates that top open-source AI developer collectives can successfully monetize and command unicorn valuations in enterprise tooling.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "published": "2026-10-07T20:48:45+00:00",
+      "related": []
+    },
+    {
+      "title": "Ledgebrook raises $200M to scale AI underwriting for hard-to-place risks",
+      "summary": "Insurtech platform Ledgebrook raised $200 million to expand its AI-native underwriting platform tailored for complex, hard-to-place specialty commercial insurance risks.",
+      "why": "Highlights substantial venture appetite for vertical AI agents taking over intricate, highly manual underwriting processes.",
+      "category": "Funding",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1Q2UEd1REMwb2w5MTltT0o0c25sRGpuVDhYdVpFU3N2aXVfOUJEdy1rOTlnRll3UnN6NkhfTUtOdjdjaWhfNTM0a2FyV1JaNnVpY3FoTldYN3RKYV92bUMxMFgwMTVXTndDenJ5RWFpNDNyZHEycDQ2bzBKWGMwXzdQTjdBblZRNThfWDhpMGxvUUY0RXM1N1Bpa21faFBCd2RBZEF2dHM?oc=5",
+      "published": "2026-10-07T12:32:22+00:00",
+      "related": []
+    },
+    {
+      "title": "Stuut raises $52.5M from Insight Partners and a16z to let AI agents chase enterprises' unpaid invoices",
+      "summary": "Enterprise finance platform Stuut raised $52.5 million in Series B funding from Insight Partners and a16z to expand AI agents that automate debt collection and invoice processing.",
+      "why": "Proves strong enterprise demand for specialized agentic workflows that deliver direct, measurable improvements in cash-flow operations.",
+      "category": "Funding",
+      "source": "Tech Funding News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnVKb1MwTnFZTkRBeFdmTFQ1cHYyR1dkdkhZeXdaRXNwYlFVbUlnQmFBeDlzVTdiTF9qdEZ4UGMzUngybno3Q3kzdGxaN29kVUV2YWhELXBMTTE3dUVROUJRRHpjSGZub2lNdjBaNHBCMmFrUUItV2FmLVpJcWhSdmllMVZHQkN2WHZ2cVZHSkNvQmo2R2Z4UUdVTUt2ZUM1T3dBYVJ5dmZrcjkydDFMejlEUXUwT3NiQ2dZaGpjcUVvb3FHVG81OA?oc=5",
+      "published": "2026-10-07T12:09:08+00:00",
+      "related": []
+    },
+    {
+      "title": "Credfix, an AI-first platform empowering financially distressed borrowers, raises Rs 16.1 crore in funding",
+      "summary": "Credfix raised ₹16.1 crore in seed funding led by Tanglin Venture Partners to expand its AI-driven platform for distressed retail borrower debt resolution.",
+      "why": "Addresses a critical retail banking bottleneck in India through automated, empathetic, and compliant loan recovery tools.",
+      "category": "India",
+      "source": "Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbGNxbk9uQkM0ZHZ0UDZUU1ZlUWxyTWl0OXViQmdsekZPS2trR1VGbDI5b2RtR3hPb2lteWxVSk9ISGNUVjFkNURPZVlNbTlWeVY2WFFjdmZ3LW9uMGJKcDBXUGM4VUN6OWZLVXdfS2ZQVXhDeXRBTk9FdEJnN3JPQVo4eDJmeHEwRVRxUVBiMUdueTZuSjdfNE1CSnhpSmcwdmotajZIbExkUDdYRXp6WlFQVnJqMDZ3Zlo3dExla0Y1d2l0TXlCTWpZUlhaUnIzT09vQW94U3ZSd1FwQ3QwQzNjUk_SAeQBQVVfeXFMUGxjcW5PbkJDNGR2dFA2VFNWZVFsck1pdDl1YkJnbHpGT0tra0dVRmwyOW9kbUd4T29pbXlsVUpPSEhjVFYxZDVET2VZTW05VnlWNlhRY3Zmdy1vbjBiSnAwV1BjOFVDejlmS1V3X0tmUFV4Q3l0QU5PRXRCZzdyT0FaOHgyZnhxMEVUcVFQYjFHbnk2bko3XzRNQkp4aUpnMHZqLWo2SGxMZFA3WEV6elpRUFZyajA2d2ZaN3RMZWtGNXdpdE15Qk1qWVJYWlJyM09Pb0FveFN2UndRcEN0MEMzY1JP?oc=5",
+      "published": "2026-10-07T12:36:13+00:00",
+      "related": []
+    },
+    {
+      "title": "Australia wants to regulate AI like banks and airlines",
+      "summary": "Australia announced plans to regulate artificial intelligence under stringent compliance and liability standards modeled after safety mandates for banking and commercial aviation.",
+      "why": "Signals global regulatory tightening toward proactive, risk-based accountability for high-stakes enterprise and foundation model deployments.",
+      "category": "Policy",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDdtT0pEMkdfZG02THVQNUVWWG5BV2F4SW42ZUZoSXcxb3NyYVk1NjlQWHQ2eU1EM2gzRUNHZ040eFVRZG1GdWpwdzZfUFRPZUFUY1E3Tmd1UUJBbzBpUld2di1QTGwwN29ISThaS3h4cWVvcEdHZmRySU95cFV0RW5Sd29fZkpNdHNzbTM5eUNBYUxVVXg0NF8wNTVnSXFWTWZvaQ?oc=5",
+      "published": "2026-10-08T02:20:22+00:00",
+      "related": [
+        {
+          "date": "2026-09-28",
+          "title": "OpenAI, Anthropic CEOs called to appear at Australian AI probe",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/openai-anthropic-ceos-called-to-appear-at-australian-ai-probe/articleshow/134518946.cms"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Australia steps up response to AI after OpenAI bot breaches health system database",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/australia-steps-up-response-to-ai-after-openai-bot-breaches-health-system-database/articleshow/134478436.cms"
+        }
+      ]
+    },
+    {
+      "title": "Meta's Muse Could Generate $27 Billion a Year, Citi Says as AI Agent Usage Surges",
+      "summary": "Citi estimated that Meta's Muse assistant could generate $27 billion in annual revenue by 2030, driven by rapid consumer agent adoption and automated ad monetization.",
+      "why": "Illustrates the massive financial upside if consumer-facing AI agents evolve into primary transactional search and commerce interfaces.",
+      "category": "Big Tech",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ2Q2R19MRTZtMVJDdmVJVGhMWVdJVlM1RTNrRWdNV3h0WEk1a3BiQkNKNXZTdlBOdEp6Nl96V0s5YmZsdVpxclEyY0ZGZlQ1ZkRTR19uWVZNU2NINXlMbTY0N2FyZm1ONFk2YUlZQjJHUjlaTGVQZUZLWXFvSWRIN2RoTzBUZmdmb2NrZlVPS0ZhclBYLXd3?oc=5",
+      "published": "2026-10-07T13:51:14+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "Meta's Muse AI Assistant Hits 5 Million Downloads—Outpacing Growth Of ChatGPT, Grok And Claude",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGdfN3pzbXZSN0luTlNycHl2eHA2Y3BRVFkxZ01kaEhSdDRIUm1yLThzMVRBTjdvV2lhZU9IdzM3N3pVZXVPbHVrcTJNLTFETE5QWnpKcWJTaHhxc0cxVm51NlFweFlpMG1PLW5IRzRfTU9MS0RXLWN6WlBsUlg5OWYzejVlUjFyR1liQ1FXYXROMVhnR3FBNjN6eDhhVllMWVRVa1lMcW5hemVuNGdub0JtbUpQa0FBZ2poOHBZRERWT1dFNWsyS0N5MXpYRWFUaVl6OVJQbFRxS3lMblFz?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/"
+        }
+      ]
+    }
+  ]
+}
