@@ -1,0 +1,287 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T08:04+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google unifies fragmented AI tools into a single Gemini workplace agent, enabling businesses to plan, execute tasks across apps, and delegate work to subagents with individual workplace identities.",
+      "why": "Crucial shift from chat interfaces to autonomous, cross-app enterprise agents competing directly with Microsoft and Meta.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "published": "2026-10-08T18:18:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-02",
+          "title": "Google unveils long-awaited Gemini 4",
+          "source": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+        }
+      ]
+    },
+    {
+      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+      "summary": "AI agent startup Manus has raised over $500 million at a $4 billion valuation following the collapse of Meta's planned $2 billion acquisition due to Chinese regulatory hurdles.",
+      "why": "Highlights massive venture valuations for agentic AI and cross-border regulatory risks in Big Tech acquisitions.",
+      "category": "Funding",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb3J0aFR5SXlFV09UT0d6VFJRc3NxLUU5UUpLSkJKaGJleV9DYzJDblhMcW9EYkxvSXpXNTdjZWFob1AxZ3phY0R4REZWYW9qNng5TXpCSUJHZHV2eGUtejRBQWxmWC1VVms0RGFJQlBWbmp5dmNlcDhkQUpZY1FJUlBpU0lGU2lfOFZJWmlfd3dISHVnSEE?oc=5",
+      "published": "2026-10-08T21:46:03+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "AI agent firm Instinct raises $1 billion in latest funding round",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-agent-firm-instinct-raises-1-billion-in-latest-funding-round/articleshow/134542852.cms"
+        }
+      ]
+    },
+    {
+      "title": "US govt to bar Microsoft, Indian IT companies from green card programme",
+      "summary": "The US government has suspended permanent residency green card applications for major IT firms including Microsoft, TCS, Infosys, and HCLTech, citing alleged process abuses.",
+      "why": "Major operational and talent-mobility hurdle for Indian IT services firms heavily reliant on US visa pathways.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/us-govt-to-suspend-micrsoft-indian-it-companies-from-green-card-programme",
+      "published": "2026-10-08T16:31:58+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "AI changes the GCC playbook in India: Up to 30,000 roles could be eliminated",
+          "source": "Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQUJQQmZjeEx4RDFQSFFaeTllMmVJTlljc05DaXlKYUVxQ0xTcXZiVTkyTU1zN2lObi1JNU9KSUtBdTdhU1VlOENmQkh1Z2Jjc1l5SmZNRllWaVlXOFgyVm5JRzJRblBza1ZoNThVbzROX1huMHVKVjVDc29YZ184Q1paUlkwakxjTEhVQWh0dWs2SFJFTi1kZk9DN1ltZnJ5TC1aNDJ2QVZtbDU2YkhsYWdFREotdFBlRFdZOWF0bG5RYlE3SFAzdTR2X3JOX0Q3N0U0R2FYWWdFcUJUWWNiMdIB4AFBVV95cUxNQUJQQmZjeEx4RDFQSFFaeTllMmVJTlljc05DaXlKYUVxQ0xTcXZiVTkyTU1zN2lObi1JNU9KSUtBdTdhU1VlOENmQkh1Z2Jjc1l5SmZNRllWaVlXOFgyVm5JRzJRblBza1ZoNThVbzROX1huMHVKVjVDc29YZ184Q1paUlkwakxjTEhVQWh0dWs2SFJFTi1kZk9DN1ltZnJ5TC1aNDJ2QVZtbDU2YkhsYWdFREotdFBlRFdZOWF0bG5RYlE3SFAzdTR2X3JOX0Q3N0U0R2FYWWdFcUJUWWNiMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI stocks crumble on report that OpenAI’s annualized revenue is much lower than believed",
+      "summary": "AI stocks tumbled following reports that OpenAI's annualized revenue run rate is significantly lower than previously estimated, raising investor concerns over heavy infrastructure spending.",
+      "why": "Signals a market reality check on generative AI commercialization timelines and unsustainable burn rates.",
+      "category": "Big Tech",
+      "source": "SiliconANGLE",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbjZWZ0pfZ0xhZGpHNTRabDBuczZ5eVA1d0NwS3FveHBzTUJBWmtVVGI5SFhibzN6a3RvcXNaQnFKaW5vVGk3ZmF6dXlfNURwUVZ2VVM2ZHU2aDlyd3FvRzFTVFhVMFhvTzNCN2lnMmc4Qmp6MGQ5cFdCd005eEtZcGpJcWVPdEd4YWdBZUxBbnpYb21td3VwWkpBdm1fOFFSWFdzQlZaSmF4Nkp5amxMN01BdWY5MlhRTEdzZDVuZzN0UERSSXpuTzlFWS1KZVQ5?oc=5",
+      "published": "2026-10-09T00:44:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZU1lRnpwckFTb1poMGtMOHdYTXUwYUFaT0p4ZVYtazU4S296UW9QNHN5ako0QlFNVFdBc0NRaGxTeGlQMGlYSlNlck1WOWl3ZWJ3RkZadTZCOWMyM1dOR2I4TS11RHNBNkRj?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AI regulation framework in a month, safety and deepfakes key focus: Ashwini Vaishnaw",
+      "summary": "India's Ministry of Electronics and Information Technology (MeitY) will release an AI regulation consultation paper within a month, with a core focus on safety, deepfakes, and industry accountability.",
+      "why": "Signals impending regulatory compliance frameworks for tech platforms operating in the Indian market.",
+      "category": "Policy",
+      "source": "The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZVVOYXNhSmF6eG5UQkdmbEpWNHFQdTV4YXp6NUxWNGlmd0NfZEtpNjJ0NVZvQWFmQ1pCWURiNFI0THRhNGNXN2lvUHNwRjNvbkNkQUFzWXdOd1R4Rmx3dTZnbDFzZVpVZXFrSVdTNnNJaHQ3LUtQUGF0YUY1UFdoRnRHWDlnOTZqS3FNbGF4VUVlSzdIMVZ2amZDa2lVdHBqWlFkc2Fxc3U0N1BfSEx6THdHMWJfSWJ6UFBuaXkwQW43M1d0SGZrUHNyMWY2d9IB2wFBVV95cUxOTGpwMzBfNlpPOHBOUUhFY3N0cHd4dGc2cy0zT0tZTFJIZkRQSXVTbWpsUEw2MUNoNUVSZGZ5cHJTbVA5ZVhkVVd4c1BhaXF3dDV0U0dhYXZ6ZHI4djdJZGplRGJqN2hfaXdTOG9STlJLMEx2ZmtfSEFHalMtMjBVNGNjQjd5cVJxRDZZWFQzdXRBQ0NmMklfejBuemlycW5QWTdCXzFTSzRZOGY1Z2dEZWNySG1mZDFSVVduTmVtWnhKSC11WEZULUFnbzdndi0xMnYzYUFOOHF0NEk?oc=5",
+      "published": "2026-10-08T14:31:54+00:00",
+      "related": [
+        {
+          "date": "2026-10-05",
+          "title": "India needs its own AI safety framework, not a copy of US pact: Industry experts",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/10/india-needs-own-ai-safety-framework-not-copy-us-pact-industry-experts"
+        }
+      ]
+    },
+    {
+      "title": "Nous Research Raises $90M at $1.5B for AI Agents [2026]",
+      "summary": "Nous Research has raised $90 million in a Series B round at a $1.5 billion valuation to scale its Hermes enterprise AI agents.",
+      "why": "Demonstrates strong investor appetite for open-weights and enterprise-focused agent architectures.",
+      "category": "Funding",
+      "source": "https://tech-insider.org/",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wbEU5blVQTmNWenJKS1pPMGVRcGNFUkJMSHBLeUFkSnZsdl9ITHk1dl9KcVpqRV91VENfRUh1WFZoTDR2bDBWNzFsdTJEUUNuR2l6U1p5N0phbG1vZmlhdmF2WWlJRVhTY3BVMjJfeXlyaTdsZWdyTlRTbzBvY3c?oc=5",
+      "published": "2026-10-08T19:35:21+00:00",
+      "related": [
+        {
+          "date": "2026-10-08",
+          "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+        }
+      ]
+    },
+    {
+      "title": "AT&T Launches Flagship Collaboration with OpenAI to Transform AI-Powered Legal Services",
+      "summary": "AT&T has announced a flagship partnership with OpenAI to integrate advanced models into its legal services and workflow operations.",
+      "why": "Showcases traditional enterprise verticals embedding generative AI deeply into core operational departments.",
+      "category": "Product launch",
+      "source": "AT&T Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16TFZBOUJSVmF6aG43N005bGhhbEJFclV5bEhZY3lUUnpmVkRYUTlsQXh3S1hJeGRJSEhEcl9yQmtPWlNHdnBjRUFGenZpNWdnM2FpUFhXb2Z6UHR1QkVRMA?oc=5",
+      "published": "2026-10-08T13:00:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-30",
+          "title": "US-based Reco raises $55 million to monitor AI agents, with strategic investment from AT&T",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBySUptangyZ3lrYXNBRXRXSnVreVBEelh2WXdnN18ybXlwYnFVeUs4aFRnNThFYkFSMjdHX0xiZEhlVjB2VDNwcnZYZVdxOF9xWkdualJfZVBKVUluZm5yVVdqN0MwbnE5Zy13TS1OVGhQNVF2VXc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Ledgebrook raises $200 mn to expand AI insurance underwriting led by Allianz X",
+      "summary": "Ledgebrook has secured $200 million in a funding round led by Allianz X to expand its AI-powered insurance underwriting platform.",
+      "why": "InsurTech adoption of AI models is moving into large-scale institutional funding rounds for complex risk assessment.",
+      "category": "Funding",
+      "source": "Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbHNpLU54RXJIaFZmVnF3UHJMQVVVaEktN2pKSXdHYmxsVDRRRUFsVDNkX2VhYVJicGRqRl8taTZJZE9ULTVPRFl3ck1hdVZRS083ZVNUNGF4SF90Wks4YlZienM3akJaZncxMlRWNVB2QnNSb0ZVU2RFTzFxc0llajFKS3cwQk5SM1U1SzF0QQ?oc=5",
+      "published": "2026-10-08T18:49:12+00:00",
+      "related": [
+        {
+          "date": "2026-10-08",
+          "title": "Ledgebrook raises $200M to scale AI underwriting for hard-to-place risks",
+          "source": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1Q2UEd1REMwb2w5MTltT0o0c25sRGpuVDhYdVpFU3N2aXVfOUJEdy1rOTlnRll3UnN6NkhfTUtOdjdjaWhfNTM0a2FyV1JaNnVpY3FoTldYN3RKYV92bUMxMFgwMTVXTndDenJ5RWFpNDNyZHEycDQ2bzBKWGMwXzdQTjdBblZRNThfWDhpMGxvUUY0RXM1N1Bpa21faFBCd2RBZEF2dHM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Arena Raises $200M at $3.1B, Ranks AI Agents on Alignment",
+      "summary": "AI leaderboard startup Arena has raised $200 million at a $3.1 billion valuation, expanding its evaluation metrics to focus on model alignment and reliability.",
+      "why": "Independent benchmarking and alignment verification are becoming high-value monetization layers in the AI stack.",
+      "category": "Funding",
+      "source": "FourWeekMBA",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVGJNLWlTalpBRmcwTi1EUmcyZnBySXdSd0QwU0dNVFg0T2VQS05HbzBrNlVYVkR0VWoyb0FIa2EyVk9MX2QyYnFrUjE5MmJqOTRjR01NeDVETVlhcDNlNUVBNHZwaHg2aUE4azNjZkFaNERZb3ZEUmN4bndtZm5IblFVT1E1dktrRGc?oc=5",
+      "published": "2026-10-08T21:24:14+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+        }
+      ]
+    },
+    {
+      "title": "Sarvam AI, India's sovereign AI unicorn, has appointed Sashikumar Sreedharan, ex-managing director of Google Cloud India, as president and chief business officer (CBO). The appointment comes as the Be",
+      "summary": "Sarvam AI has appointed former Google Cloud India MD Sashikumar Sreedharan as President and Chief Business Officer as it scales its sovereign enterprise AI business.",
+      "why": "Top-tier executive hires indicate India's domestic foundation model players are aggressively ramping up enterprise go-to-market strategies.",
+      "category": "India",
+      "source": "Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IRUg1RHkwZ09nbV9MT1JjdTd5b20waFQyUUlCcHZfRUpFa0ZRaVIwUVFna0dKX3JpbGwwbjRWOU5icC1oYzhkVzBiczY1OHdhVHc?oc=5",
+      "published": "2026-10-08T10:05:54+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "Sarvam AI appoints Ex-Google Cloud India MD Sreedharan as president",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUJlcE5GalEwc3RyYXB0cGN3NzBDY3Nia3gwRWFpYW90cDhPQ0FMcW03RlRVTHR0SUpweTRRb0pxZ0MzY1JvSnNneHpOeldxYnRtTzN3SV9ZaXJVSmRJYUZsU25IUkxpcmxSb2NqakZhRWNqM2tKRlpxM0M5QXdCRmtxVHNTd1VnVUFhS1dEdFRaWWNmVkZKQmFRUzByekZ6RjdIS0I2Rk1tWnd4YVBkb2xmUmV5ZkhCazRsLXpIUGpITjhVMEQxSXU0Q2ZVT2c4aDlkajFvaWQzUkJsejM4YmlQSGQ3T1lT0gHuAUFVX3lxTE9tXy1mXzJsM2ZLNHNkUXN6MnhZQTlvZVAzWDFKNjRfNXRuZWtqZ1pQNVdIcFZ1VDQtY2tfNFpwb3J0OGdnRFZqY2V6LVQycEJQVW0waldWVHZUNUtUQTBZWlJQTzJqLXpJX21TN0FEWkpjb3RLV25IRnhzZ2JVcHFKTWF4cXN3dURicGRqN2I4ODN4NzMxY3IySWlaeHdfUTF3MTN0cUZ0OHBWY1VJeEZLWjJxbWcwLUNLRy1IaEc3Y0hmY2Fnd2dBem9QU3J3YnIwN2ozN1R6VUo5b19wMl9QNHJ5enhFUVJFUDBoaWc?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Sarvam AI updates vision model, doubles down on Indic-language push",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/sarvam-ai-updates-vision-model-doubles-down-on-indic-language-push/articleshow/134480718.cms"
+        }
+      ]
+    },
+    {
+      "title": "Business News | CoreWeave Enters India with 240 MW AdaniConneX Data Center Deal in Navi Mumbai",
+      "summary": "CoreWeave has entered the Indian market through a 240 MW data center partnership with AdaniConneX in Navi Mumbai.",
+      "why": "Highlights massive infrastructure investments to build local GPU capacity and meet India's surging AI compute demand.",
+      "category": "India",
+      "source": "LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONDZPNEQtV0duQXdFQjMtV2NQR3NubVA1UGVBUzc1Y3U4N1BIc25EOEJWdWxCXzluVE5CTHJkeHg0RmZUV213RXBLM05SanczellGajBSVTZhN3oydkticGpHdm9RTS0xaVhQTzZHbnMtbFh5OTJqNWFYT3gybmZrNDh5MUZQeXpEaXJoSEd1X3pvZHlGaTZsbS1zd0RsQlJOcnJKb3FKWFU4dVhrVEtHRXFxby1NN0xzWG95WFdsc2xGS2JqZ3BJSmE5SHFXWnVscjViRlQyYXAzZ9IB3wFBVV95cUxOVDA3R0FzdzBCM3RzMXJmXzJYVDlnX1dYYURubE1HY19zRUdnQUVKZkdfUVF5NXdjVmVyNjRMM3N5dGFkRGVGUzdxNDl1TnIwZ1loUVhhYU9jS193RTRnQ3BfZDlkcVRRa1pZcnRSUDVCdkc1bXVlcWpXVmJsR0dyVWV0eklCZ0pkeHcxU0dwaTBMNFpBSTNxT0pZd2hudzhROVNDSWpJTEEzRk00VWVuU0otSkFpOEhkdllHaWpxb25jaEVnNXU5cVd4dzhNSFFKUTlMM0FDMGVkVjVGcEo4?oc=5",
+      "published": "2026-10-08T10:18:25+00:00",
+      "related": [
+        {
+          "date": "2026-10-01",
+          "title": "GMI Cloud Raises $668 Million To Expand Global AI Infrastructure",
+          "source": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEk4QnNRU1FGSTNSWDdsbU5jU0ZiWUNWTUFMZWVkWlZkZ3FiT3h5QmI2SW5FaFg5LVduT2Rza1BTS0NPN2tERkhKbVBnY2h6M1hOVWJVZHJTNWQ3NTRMVGJHV3dGSWhrNGgyekRIMUgyRG9JMDlYQVZfQ3J2N1NNbWViSDlNR0dTR0Yw0gGQAUFVX3lxTFBvYy1PYW5xLWc0aUVHUWpuOUEtckdqRWtheENnRkNIWEt6Q0pSTERDNjlXOGZIVlBkb3F6MmhLLXc1cWdzT2x4U2VPd0x2UXFKTy1kR0tsVDUtUFNIVkpCMGJVcU9qMC1lMGpCYjhoRGpmNVBQRFlMZGJiQUpXYlhmeU5lckpOUjZYMjZ2OGF2UQ?oc=5"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Hyperscaler cloud revenues projected to top $1 trillion by 2030 amid AI, digital asset convergence: Report",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/hyperscaler-cloud-revenues-projected-to-top-usd-1-trillion-by-2030-amid-ai-digital-asset-convergence-report/articleshow/134519352.cms"
+        }
+      ]
+    },
+    {
+      "title": "Automation Anywhere To Acquire Boost.ai To Expand Conversational And Voice AI Capabilities",
+      "summary": "Automation Anywhere is acquiring Boost.ai to expand its conversational and voice AI enterprise capabilities.",
+      "why": "RPA leaders are consolidating conversational AI assets to offer end-to-end process automation suites.",
+      "category": "Big Tech",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdDNCdkhQU2wwOTh1VFJITmZ2Rm9LQ0hKVTEwTlBvbWtyRkZHRTZTdG9xc3dsSW5rRjdRZGZUQXJISzVsNlpfX0lJTnpXUm1aWE5NZ3FQUWRsMHZiQ09YX2l0NDJENGZMTEhQSUNsSmNxUnBTUW1tSk1oeTV4TG93UWR3Y0dtcmRoaEF4Q3daN2txdzNZMFRqQ2JDREVPODk1VTRmWnNfZXh5YktWMHRF0gG0AUFVX3lxTE1Ham9tejlIUHRINzRtNV9yRzFER2NzdU5XclpnTWF6LUo1WkhxbjNBYnR5VGRsX01tUEtYQWM0ejNSRTNxRS03dEVsZ0NNUEtoTC10a1VJdDZsYTVOMEZsWlJ2ZlFhdVhQc2tkRTJrZFVyTTVCeUVLR1poUzhqQXVWaS1yNmdaQ0ktS3pwc2pReTl0LVZiYldCVDUtNGJBWkYzNUh2bWd4YXY1anl0d2MxXzlGWA?oc=5",
+      "published": "2026-10-08T13:18:42+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "SAP to acquire workforce data firm TechWolf",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/sap-to-acquire-workforce-data-firm-techwolf/articleshow/134742311.cms"
+        }
+      ]
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "summary": "USA Today has filed a lawsuit against OpenAI seeking over $250 million in damages for allegedly using hundreds of thousands of articles without authorization to train its models.",
+      "why": "Copyright litigation continues to pose legal and financial overhead risks for foundational model developers.",
+      "category": "Policy",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "published": "2026-10-08T17:58:33+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "OpenAI scraps release of latest AI model over safety concerns",
+          "source": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSExJX2RibHFyX3QwWDRia0VQYTFZS0tKTEtBRHF4TUlfSWh5Y0RQb1dheHk5X1BqMG9Za0c1R2NiU2lpSjdiWmNTdzE4cW9KX3pwZWV4N0gwSkNOdk5kb1diR1FWWU9RLVhIejlJQmRwcUdqRHF1a3gtdWZaemd5QmN5VXFmM0tnbFJzbjYzaWlSdGRyS082RkppVGxWNmNOTzh1UGdyWFnSAa4BQVVfeXFMTXB1R2UyUXQ4LVNoOVBpVnBUN29uclZvY0h0Z1RteXVuV2JCZEVwTzVKNUN0NkJ3alFZQ1F5M0REUmNZR05yWE1ZV0NsWkxjUVQ3MVd3dk50R3BJTHlwNVlDVnRrMXhlejJDR3lDazFkTm41QW1hb2JTWEpMVXBYOE83ZmJnSXQtT2poeF9FRGhMWGtzVVd1d1cwTHJxTFIwOTNWbTVWRmh0Q3Iwc2JB?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "TCS Q2 results: Profit rises 15% YoY to Rs 13,884 crore; co declares dividend at Rs 12 per share",
+      "summary": "Tata Consultancy Services (TCS) reported a 15% year-on-year rise in consolidated net profit to Rs 13,884 crore for the second quarter.",
+      "why": "Demonstrates robust financial health for India's IT bellwether amid broader global workforce and tech adjustments.",
+      "category": "India",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/tcs-q2-results-profit-rises-15-yoy-to-rs-13884-crore-co-declares-rs-12-dividend/articleshow/134787529.cms",
+      "published": "2026-10-08T10:22:03+00:00",
+      "related": [
+        {
+          "date": "2026-10-03",
+          "title": "TCS to transition Best Buy’s India GCC under multi-year deal",
+          "source": "The Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcGlrZ0stY0o5cVA1RlB5LTBYcjZBeTRWdS11b185OHpOc0lBT0JTQldrMWY4N0NGRkxaNFdXYmMyTTI3c1RWRmVBMzVVam1yMmlqTDBrbjg1Q3UteXRWN3U4SU44MFZJamdDM3o0UFJzcFhhN1B1aENvNGtsenFYM1M3cTBXUDI3NzAzTkVsbkVvand4NXdOcFlHWEw4TzdHOTM1QmlEU0Etd9IBqgFBVV95cUxQcGlrZ0stY0o5cVA1RlB5LTBYcjZBeTRWdS11b185OHpOc0lBT0JTQldrMWY4N0NGRkxaNFdXYmMyTTI3c1RWRmVBMzVVam1yMmlqTDBrbjg1Q3UteXRWN3U4SU44MFZJamdDM3o0UFJzcFhhN1B1aENvNGtsenFYM1M3cTBXUDI3NzAzTkVsbkVvand4NXdOcFlHWEw4TzdHOTM1QmlEU0Etdw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Veir Raises $110M in Series C Funding to Scale Superconducting Power Systems for AI Data Centers",
+      "summary": "VEIR has raised $110 million in Series C funding to scale superconducting power systems designed specifically for high-density AI data centers.",
+      "why": "Addresses the critical energy and infrastructure bottlenecks limiting large-scale AI cluster expansion.",
+      "category": "Funding",
+      "source": "AI Insider",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObW82bHFHWWpYemI4Q3FqUEowdmFzeS1vQ215eGJXUE91R0VqYU42bWZoTmZjR3JIMFpmWDh6VjJ4VlR2RXZvYzdyZS1iRWwxQmJheTJKS3c5bGV2NWUwd1VJUkM5LXFjQkxLZzZkcFdYeVpERUYzN0JDcGZ1cVgwRHdMMWNTOFJMa19HUWg3OTRNR1Z0dVMzR3Vzd2kzaF9Eb1ZKc2pRN0QxQlFYV0dhMV9HSWpfQzlKSG5BQUE3Z1o1WENOWXMyWXhXX2w1QQ?oc=5",
+      "published": "2026-10-08T23:47:18+00:00",
+      "related": [
+        {
+          "date": "2026-09-26",
+          "title": "AI infrastructure investment seen surging to $769 billion in 2026 amid growing safety concerns",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-infrastructure-investment-seen-surging-to-769-billion-in-2026-amid-growing-safety-concerns/articleshow/134479284.cms"
+        }
+      ]
+    }
+  ]
+}
