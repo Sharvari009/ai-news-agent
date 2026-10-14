@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T08:17+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+      "summary": "Google has launched its flagship Gemini 4 Argon model for global developers and businesses, stepping up competition with OpenAI and Anthropic after recent delays.",
+      "why": "Crucial product rollout in the frontier LLM market impacting enterprise AI adoption choices.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses/articleshow/134923362.cms",
+      "published": "2026-10-13T17:08:24+00:00",
+      "related": [
+        {
+          "date": "2026-10-02",
+          "title": "Google unveils long-awaited Gemini 4",
+          "source": "axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zMTN2Y3VVU1JKSnZTcnV1VExtekpnTS1hRy1uSUxhLWxIU2F4bnZkNWJQOEkxaWprb3l6anY5V294RG5KSk5sMUp2a3JQamtiVWhUZDN1YkNlZDli?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
+        }
+      ]
+    },
+    {
+      "title": "Meta launches Muse Wonder, catching OpenAI, Anthropic: How to try it, benchmark results",
+      "summary": "Meta has launched the Muse Wonder model family, directly challenging frontier AI capabilities from OpenAI and Anthropic and driving positive stock momentum.",
+      "why": "Intensifies open versus closed-source competition and validates Meta's heavy infrastructure spending.",
+      "category": "Product launch",
+      "source": "Mashable",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jQWhkclNlSmV2TEZzY19JYW8wQ3pkZVhFNzFLaElxdHh2bFprTGwyYWxIVmtMd2tEMEw3bjVaMFJfQU9xU0lVQ2Q1S2owb185YXFpdElfZzVxTnJ6b1FMSWdZaFJSTFFWb1dTRzBqbjJjcngyb0E?oc=5",
+      "published": "2026-10-13T22:24:12+00:00",
+      "related": [
+        {
+          "date": "2026-10-13",
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Meta's Muse AI Assistant Hits 5 Million Downloads—Outpacing Growth Of ChatGPT, Grok And Claude",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGdfN3pzbXZSN0luTlNycHl2eHA2Y3BRVFkxZ01kaEhSdDRIUm1yLThzMVRBTjdvV2lhZU9IdzM3N3pVZXVPbHVrcTJNLTFETE5QWnpKcWJTaHhxc0cxVm51NlFweFlpMG1PLW5IRzRfTU9MS0RXLWN6WlBsUlg5OWYzejVlUjFyR1liQ1FXYXROMVhnR3FBNjN6eDhhVllMWVRVa1lMcW5hemVuNGdub0JtbUpQa0FBZ2poOHBZRERWT1dFNWsyS0N5MXpYRWFUaVl6OVJQbFRxS3lMblFz?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Sarvam AI in Talks to Raise $300 Mn at $3 Bn Valuation",
+      "summary": "Indian generative AI startup Sarvam AI is in advanced discussions to raise $300 million at a valuation of $3 billion.",
+      "why": "Marks a massive valuation milestone for India's sovereign AI ecosystem as domestic capital scales up.",
+      "category": "India",
+      "source": "TechStory",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yb05BejhJRTRHRFB2eUxIV21KbzJ2eXgxSEl3RktDSGZGT3VlVS1OUDMxUDlCX29xalVWUWNoZ0czR2wwdTc2dDN5SHVJcEtVRU5sZGR0X3VWcWVMcGV5cG0tNTVCWlNrbUVYMGNmMHAwbkFWRk9yeE5POHAtTW8?oc=5",
+      "published": "2026-10-13T16:42:53+00:00",
+      "related": [
+        {
+          "date": "2026-10-13",
+          "title": "AI startup Sarvam in talks for $300 million top-up; valuation may double to $3 billion",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVDJoa25TWDVHMTBzMENRdkxoQ05Md0R6aURhU3hGVkViMi1pM0szUW1jbHcwRUhteUp0Mk02RzZaOXB0Z0RiSklVekd3TUhmejRlM3JvaWRLTTdCZVNjaERueUs1empoUHpQMGNVbkx6RDAxRVppZVBsVWZMWkNiQWxJSDk2elM3b3ZvNXJaOVZKZHlfMk01X191a3VfalN5NWJLdms0anhuTEVnRjRmV0FRUVBqdlpIRzUwelhKUGdYTi1EdGplU1E3NHlycC1qemxrLURJOTF6REU0aWFJTnk4c1Y5cFN4RHpoby1TR3phejlGY05HddIB6gFBVV95cUxQQkhDYXRkSFd1VkxDWFBuc0dfVmtuTTVoNGl6cFRtRnBBUE1WMng0WG9qbUZDMHJwa2lKenVNT09kX1FyTVBVNnJhSFZKOUpIeXJHX2RQZEdMaUgxOXFyV0gybm1RWjhTNmxBMjgwcDZJcTVrOEJXaUN0VkdBeDBqX2ZFVFNNM0ZzbkNlM3paY2FzZ2RfYVU2SGJEekEzdzRzN2dERm5rMTRENFJDUW1jRUdaVDRvN0xYOWpEdm90dlRENzNZOWlxZzBUSUNhVVRuNTg2aldOVzBRQ2UyTXdOdlNxenQ4cUlfSXc?oc=5"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Sarvam AI appoints Ex-Google Cloud India MD Sreedharan as president",
+          "source": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSUJlcE5GalEwc3RyYXB0cGN3NzBDY3Nia3gwRWFpYW90cDhPQ0FMcW03RlRVTHR0SUpweTRRb0pxZ0MzY1JvSnNneHpOeldxYnRtTzN3SV9ZaXJVSmRJYUZsU25IUkxpcmxSb2NqakZhRWNqM2tKRlpxM0M5QXdCRmtxVHNTd1VnVUFhS1dEdFRaWWNmVkZKQmFRUzByekZ6RjdIS0I2Rk1tWnd4YVBkb2xmUmV5ZkhCazRsLXpIUGpITjhVMEQxSXU0Q2ZVT2c4aDlkajFvaWQzUkJsejM4YmlQSGQ3T1lT0gHuAUFVX3lxTE9tXy1mXzJsM2ZLNHNkUXN6MnhZQTlvZVAzWDFKNjRfNXRuZWtqZ1pQNVdIcFZ1VDQtY2tfNFpwb3J0OGdnRFZqY2V6LVQycEJQVW0waldWVHZUNUtUQTBZWlJQTzJqLXpJX21TN0FEWkpjb3RLV25IRnhzZ2JVcHFKTWF4cXN3dURicGRqN2I4ODN4NzMxY3IySWlaeHdfUTF3MTN0cUZ0OHBWY1VJeEZLWjJxbWcwLUNLRy1IaEc3Y0hmY2Fnd2dBem9QU3J3YnIwN2ozN1R6VUo5b19wMl9QNHJ5enhFUVJFUDBoaWc?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Reportedly in Talks to Buy Decart AI for Around $7B",
+      "summary": "Amazon is reportedly in advanced talks to acquire San Francisco-based AI startup Decart for approximately $7 billion.",
+      "why": "Highlights aggressive M&A activity among hyperscalers securing foundational model talent and tech.",
+      "category": "Funding",
+      "source": "TechRepublic",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3hJZ1F0SjB1d0RzS3A3MzA2aWJfTVVEZ0I2SUphM2NHdURXQXh6ODZyM3VtcFp4OEV3bTY1OUpXRHpzbExnRmpVUkJoX0gxbk1oMHlxdjUyOU9SYVcwM2NDcFhzTUtSRmRvM3piSXg3SFRhZkNUR0FNNlBNVDV5aW10bw?oc=5",
+      "published": "2026-10-13T19:21:14+00:00",
+      "related": [
+        {
+          "date": "2026-10-12",
+          "title": "Amazon in Decart acquisition talks valuing AI startup at $7bn",
+          "source": "Financial-News.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbi12QmNaNXpXWFZodFBDT2o1TFdUMFQwOEJncmVHTkQxdWM3aVBSSjVtbGhaRTl3Q1NNZFQ5d3RuWWtkYVAwQWNFcWN3RU1qbVpfV1dXelVCZ0pVRWhhVVFrMFhQQTZicktydlQ3aFZqeFlmMVF6NWF6MjFOaThCd2M5bUF6aUtkM3JienQxb0Q2WXZGVVRoNkRn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+      "summary": "Disney has offered $20 million to acquire the scandal-plagued chatbot technology of Character.AI, which has filed for bankruptcy.",
+      "why": "Illustrates the turbulent consolidation wave hitting early consumer chatbot pioneers.",
+      "category": "Funding",
+      "source": "Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbGNWUjVxaXVTN1JlZllLR1ozRUpnZ2VjQmEtNnJLdmRsZ0hqOXo5WjJZdXV5eW5YTHJUalpVZkZQc3BnbGVSUU5veGlaelJCVDRUV0RDcVNORjFTUU9lREpxQklqT1FTT3ZmYVNLaFJwSFFxc0F2czNwZXgyVmFTYm5HcXhyTkhHdjNBMUNXdGpZZ0FMYUFodlZ2a3RSbm0tYVpxNEEwVWpYWFl0UUE?oc=5",
+      "published": "2026-10-13T18:23:33+00:00",
+      "related": [
+        {
+          "date": "2026-10-03",
+          "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+        }
+      ]
+    },
+    {
+      "title": "[Update] Blume, Speciale Invest & 11 Other AIFs Selected For Deploying ₹7,131 Cr Under RDI Fund",
+      "summary": "The Indian government has selected 19 fund managers, including Blume Ventures and Speciale Invest, to deploy ₹7,131 crore under the RDI Fund.",
+      "why": "Direct public sector backing for domestic deeptech and AI compute infrastructure.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/rdi-fund-announces-first-cohort-of-19-fund-managers-eyes-deploying-%e2%82%b97131-cr-to-strengthen-deeptech-startups/",
+      "published": "2026-10-13T21:07:56+00:00",
+      "related": [
+        {
+          "date": "2026-10-13",
+          "title": "Govt selects 19 fund managers under RDI, committing Rs 7,131 crore",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/startups/rdif-approves-19-fund-managers-with-rs-7131-crore-commitment-to-boost-indias-rd-ecosystem/articleshow/134896665.cms"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Drones, Chips, AI: India Proposes $25-Billion Pool For Deep Tech Startups",
+          "source": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlFqQS1iSjVNYl9hMFdTbmR0VjdBUzR5TnluVGE3OU90SExUdkxCdzdLZVFQczZ2V0RmdGZ4QUc1ZlVJZHJnaDNneWNzTlJaVnp0Sy1qcmlxTjkxTUhLSnlFV19tMWxaWmlPVGMzbWxTakZ6OWNKUTZaNDlPRmJ0V0p5a3p5ZlJMa0FuLUNHZTRQS0FnWVVFaFpHYllmUGdOcGhxaFNoVWdOVlZva0ZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Freshworks To Acquire Torii To Expand AI Spend Governance Offerings",
+      "summary": "SaaS major Freshworks has agreed to acquire Torii to extend its IT and SaaS management offerings with AI spend governance features.",
+      "why": "Strategic B2B consolidation aiming to help enterprises control spiraling software and AI tool budgets.",
+      "category": "Funding",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/freshworks-to-acquire-torii-to-expand-ai-spend-governance-offerings/",
+      "published": "2026-10-13T16:27:21+00:00",
+      "related": []
+    },
+    {
+      "title": "Pluto Security Raises $42 Million to Protect Corporate AI Without Blocking Innovation",
+      "summary": "Pluto Security has emerged from stealth with $42 million in funding to provide corporate security tools protecting enterprise AI systems.",
+      "why": "Addresses surging enterprise demand for perimeter defense against data leaks and unmanaged LLM usage.",
+      "category": "Funding",
+      "source": "PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXRTUmVIRno4QWN2ZHdOT1JmSi1wdGRtTmJ2dVNMakZqdUdPUldHSjJRYUJoRklhSjEzLU5Oa2RNT1cxTDRGbm1yekhZc2FVaDI3bmQ3MzU5MUp4cjYzQ2tKYklOb0FsNEhYWnpOdktGN2s0R2phbnVQeDF4cDJjb2Y1SFpOWlpYNVQyRDRPdTFmbFhjajRZMVkzR2lKS2prT0ZiWFAyUzFJdHl5TDJNZjdFV3Q3Y0dzZzdkQ2J3b0JlRHVSRlEwdGxWYWk0VFVDanJ3?oc=5",
+      "published": "2026-10-14T01:38:37+00:00",
+      "related": [
+        {
+          "date": "2026-10-06",
+          "title": "Reco Raises $55M to Enhance AI Agent Security, Enterprise Expansion",
+          "source": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3RNMWRzTGFwM1BGTmQ1VFVJekFNeWVSVVRoQ0ptTGVqTUtXX1loZGR4QTA5SW1zR0ZaSXBWNFBLNVhRdW40S3pWbTRMT1JTVmUyN2NnTGx4eVFKdWxuSVpldElRcjVpYVpJZGw2QkMyU1NIc3YtN3lRNDhBY3RiRk9wdHJEZlVaaGl3ZnFYdGhsSjFCLWtNLVh1dUY2LWJjbWNDN0hEVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "Shopify is opening its merchant catalog to allow external AI agents to browse and purchase items directly on behalf of shoppers.",
+      "why": "Paves the way for agentic commerce and automated B2C transaction pipelines at scale.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "published": "2026-10-13T19:42:42+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Shopify opens checkout to browser-based AI agents",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
+        }
+      ]
+    },
+    {
+      "title": "HCLTech And Anthropic Form Global Premier Partnership To Scale Governed Agentic AI",
+      "summary": "HCLTech has formed a global premier partnership with Anthropic to scale governed agentic AI solutions for enterprise clients.",
+      "why": "Indian IT service giants are aggressively integrating frontier LLMs into legacy modernization portfolios.",
+      "category": "India",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZFV2UmRkYzNXOGF2LVZVenVWdVBPUS01SWM0UnFHakQySnhFV25uYWhRTE9WTFdYdTJSQ3pOLWhBUXVwNDl5YzUtQmxkdVBkQmlGdUw1M3ZwaS1PLWJ0RnVhakpuejNESFUwQTVJX3NWT0M5RXNRU0tEMmpjTFE1RG9KYlJNRVpVekg0Y2gtWjl5MFpsWGdqNy1RZlAtZmdCaEJUeg?oc=5",
+      "published": "2026-10-13T20:37:59+00:00",
+      "related": [
+        {
+          "date": "2026-10-13",
+          "title": "HCLTech Revenue Misses Estimates as AI Reshapes Indian IT Business Model",
+          "source": "The420.in",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kYjZKY293WDZqSUt3T25VTWVVR0p5aUFDbDlMVzNLZzV2X2Fad19iWnV4ZHpWemwzTk93YzlwQVd2M2VBTjJUOTNvblRhWGE5cDdnS19BZDR6T3dnWTF6UVJCOVZ2QWlCcERfcjdRMnlpMV9mMlFmMzVR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Nilekani-backed Fundamentum AI fund raises Rs 3,000 cr",
+      "summary": "The Nandan Nilekani-backed Fundamentum has raised a dedicated ₹3,000 crore AI fund to back growth-stage technology ventures in India.",
+      "why": "Provides essential growth-stage dry powder for Indian AI firms looking to scale globally.",
+      "category": "India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONDA2ZERsTHQtcUZQNDV1Ti03VnN3V1N5TnpYWnBuQW12SWFWMHpFNElGSVhFZE5XOUxFMFZ2SFFOSzRWSm03N0ZYbHRPcl9kbG1MXzdnbm80VnVDcVBqQlNDTHVlUGNOV0J4VmJ5U0YzU1pYSHN6MHRJQnVzQk1OVXF0NU4zX3V1eGtCbkJRaXVrcGYwQnhCeGNGa1FqWndSTm5FMTY4RTJjaGxkS0xvTG1ubXcxdTFaNUJTOXNWWUdCMHRyMloteHlGWjJzSnd6X0FpR2pn0gHbAUFVX3lxTE1TaXk0Z1pVNTAzS2NKZDFFdWFSNW4wZ3Zad1Z5OWdkRFpJdU9qcVc5U2RJc1RHSER0blFSSE8tWWtrZElwUnF0am9wUmVPa2FrMEpDcXdiZ2ZDYWV4c3pZUGV6OFMwOTZsejBqZG9sZzZCMVdueGhNSWFZcnZPUHRvU0w0UFF6U2JOWmFJRGNhUzUxZWRlX2lMMTlQRFhraGt3UTlJVTRHYkhfVG43VTNtY2xmdjNNVWkxWkNtaVkzZC1mQ25BamdoUXdRdTgwVjRaVmVnWUtkbGcwZw?oc=5",
+      "published": "2026-10-13T12:11:00+00:00",
+      "related": [
+        {
+          "date": "2026-09-29",
+          "title": "Lightspeed Targets $250M for New AI-Focused India Early-Stage Fund",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXQ4Sll6QllzU1RWZG9weVZTUmRQOGpDSG9QMVJOSFFJU3pWbEp2OWtYUHdoZWJNNW5KTzIwOGJlUVd5Z2RDNWl2RnBXY3RYZktSQkFKNnRleEdkX1ZJTHpZcnJFajRLVzYzTURJaEtyOUU3ZXNZTGpGSTAzVEUyTGw1UDlreHh3MHJHMEhLTXZrekFOM3M3RXlHU1NBdnF2SkRselVn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Suki raises $90M series E to build an AI operating system for healthcare",
+      "summary": "Suki has raised a $90 million Series E round to expand its AI operating system and clinical automation agents for healthcare.",
+      "why": "Large vertical-specific AI funding rounds demonstrate robust enterprise willingness to pay for workflow automation.",
+      "category": "Funding",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV1dpa01XUXhQci1ZRHUySEJhUFBZMkpmUGhxOS1qVFRLeE15Nk5jRkMtdy1qenhKTGM0UXlKWGpoUWI2MnUzemRYUkwxaDU3UF81Mk0yNVZBSWlsS3BwVjhndDNrSGU4Z1lUY05HcEdLREREdWNtSThZU3JORTBnZXlYZVo2dzRhWVBxS3JYbW44NjAzSllqLVh2U0pEY3BPdEFRRXVlVFI?oc=5",
+      "published": "2026-10-13T16:59:52+00:00",
+      "related": []
+    },
+    {
+      "title": "[Update] Adani Enterprises, Jabil Sign MoU To Set Up AI-Focused Joint Venture",
+      "summary": "Adani Enterprises and US-based Jabil have signed an MoU to establish an AI-focused joint venture for data centre hardware manufacturing.",
+      "why": "Scales domestic manufacturing capacity for specialized hardware powering India's AI infrastructure boom.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/adani-group-partners-with-jabil-to-build-ai-data-infrastructure/",
+      "published": "2026-10-13T14:30:22+00:00",
+      "related": [
+        {
+          "date": "2026-10-09",
+          "title": "Business News | CoreWeave Enters India with 240 MW AdaniConneX Data Center Deal in Navi Mumbai",
+          "source": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONDZPNEQtV0duQXdFQjMtV2NQR3NubVA1UGVBUzc1Y3U4N1BIc25EOEJWdWxCXzluVE5CTHJkeHg0RmZUV213RXBLM05SanczellGajBSVTZhN3oydkticGpHdm9RTS0xaVhQTzZHbnMtbFh5OTJqNWFYT3gybmZrNDh5MUZQeXpEaXJoSEd1X3pvZHlGaTZsbS1zd0RsQlJOcnJKb3FKWFU4dVhrVEtHRXFxby1NN0xzWG95WFdsc2xGS2JqZ3BJSmE5SHFXWnVscjViRlQyYXAzZ9IB3wFBVV95cUxOVDA3R0FzdzBCM3RzMXJmXzJYVDlnX1dYYURubE1HY19zRUdnQUVKZkdfUVF5NXdjVmVyNjRMM3N5dGFkRGVGUzdxNDl1TnIwZ1loUVhhYU9jS193RTRnQ3BfZDlkcVRRa1pZcnRSUDVCdkc1bXVlcWpXVmJsR0dyVWV0eklCZ0pkeHcxU0dwaTBMNFpBSTNxT0pZd2hudzhROVNDSWpJTEEzRk00VWVuU0otSkFpOEhkdllHaWpxb25jaEVnNXU5cVd4dzhNSFFKUTlMM0FDMGVkVjVGcEo4?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic Asks D.C. Circuit to Rehear Pentagon Supply-Chain Risk Case",
+      "summary": "Anthropic has petitioned the D.C. Circuit Court to rehear its legal challenge against its recent Pentagon supply-chain risk designation.",
+      "why": "Highlights ongoing friction between commercial frontier AI labs and national defense procurement policies.",
+      "category": "Policy",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFV1SnYwMUh0bWd0VmVsOTl5YU5UWDEyQW9VLWdWTndlczlONjFMSUR3SjJNVERGeEtyM0RCdy16RnFrR3lZR3BJSERyN1NEVmR0NVdQLTE4RXJMZnVYT213Y0RNSHk2MTBEWG96bUVqdmhiWTh5ZF9xcEJZamNBMHdrRGJZNW1ZUWp3VFBGcW1EbWs1?oc=5",
+      "published": "2026-10-14T01:45:08+00:00",
+      "related": [
+        {
+          "date": "2026-10-05",
+          "title": "Pentagon gives Anthropic ultimatum on AI technology: Sources",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWmk1c3RRZUVnenpEV3lQRUtudTdTV05mVXo4MWxRVW91UkJCVTB0dmo1dDRfQy13Z2hRSkJ5UXN4NlRscjhaTk5uOEhLcElBckVjd0F4Z0hkUHFYejYwWi1tUjM0Vm9DeE9JdjYxWldSbGVOWjhzcEFTNzMxUDNKNG1ic2VhM2ZDVDVsZE15M0JzNzByUTUzZU1yMEppbWvSAaQBQVVfeXFMUFp0N0lQZWF3MHlhZUlzQXl0Wnp1VWxkMnlHZnh1dUM2RENlSll1QU5MVE9keFNUbzJoczlLT1Z3Z09tdHRyT044MVNwTF90YlNXYkNlVGFsWHdNMmdjSkMxOVNpQ3ZZSTBIWU5KUk5YOXBmcElYdmVHWUhqQXlSX0RWaWdrUV82NmRDN1pYU19GckhjOERTb1FHWkJJalk3ODRDM08?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Federal appeals court rules Pentagon’s blacklist of Anthropic was legal",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RajNPU0VTeE5CeTZlZEtEY2Z0SEw4TmNPdG81bjRpYmVOMnQ1UWhjTHBtOG1jVEc0UFdwaHl0N2d4T0x5cWpPQ3pfS3VsMDB4a3ptSGlXUV82QUJXbEdBdC1jdUx5d3RZQk5iaVF3RGpSbWI5WjhwczdfOVctd2s?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI's AI agent platform is used by twice as many companies as Anthropic's, new VentureBeat survey finds",
+      "summary": "A new VentureBeat survey indicates that OpenAI's enterprise AI agent platform is currently utilized by twice as many companies as Anthropic's.",
+      "why": "Provides valuable market share insights for PMs evaluating enterprise agent deployment platforms.",
+      "category": "Big Tech",
+      "source": "VentureBeat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZlYwdVI2WWI5aFhaN3NoS2llUko2VmIyckttSE1pWW44S0ZDSGlybC1MTFdfUFYyS0VFRXg4SjliU2N6RTBWYVhNSk9MU2dCU3FPRlMtdElyT19fUTlNNjNFRkVYNGlBVENLX0VjREJYNjFSMDF6dHYtVHlkSVZzMC1MeWdIUDBXLUJuSkh5bW80VU9xVy1uQjBVc1J3cjZUMzY2WnNXVzRMTUlYVW5VUUVKSVByOFc0eENsNDJPbE1tUkw2dnZJX09Pdm5sR2dyYTdhQms1OEw?oc=5",
+      "published": "2026-10-13T17:05:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-04",
+          "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
+        }
+      ]
+    }
+  ]
+}
