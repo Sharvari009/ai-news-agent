@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T08:17+05:30",
+  "articles_read": 300,
+  "sources_read": 11,
+  "stories": [
+    {
+      "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+      "summary": "Anthropic reported third-quarter revenue surged 45% to $16.8 billion, demonstrating accelerating enterprise adoption and massive top-line expansion as the frontier AI startup prepares for an initial public offering.",
+      "why": "Proves unprecedented commercial revenue acceleration for foundational AI labs ahead of anticipated public market listings.",
+      "category": "Big Tech",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzNSa01ZdlJVSWlCelZQd1ZsNXV5clhHaHE2bHNXbm1HR3dBdEZ0VW8zcVRpN0lxSzJrMDlBN1dKdDNraHM1V1IyWW5iY1MwUjVxQzVlbFpmX3QyRlpVVnVQUzNQN1dRYXFTUVFZOHMxLUtQX3VKM3ppdzBzcGhKSEktMzQ2Zw?oc=5",
+      "published": "2026-10-14T23:57:26+00:00",
+      "related": [
+        {
+          "date": "2026-10-08",
+          "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-launches-third-claude-5-5-model-expanding-ai-lineup-before-planned-ipo/articleshow/134773835.cms"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "Anthropic IPO docs reportedly reveal over $40 billion in losses last year",
+          "source": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QZU1lRnpwckFTb1poMGtMOHdYTXUwYUFaT0p4ZVYtazU4S296UW9QNHN5ako0QlFNVFdBc0NRaGxTeGlQMGlYSlNlck1WOWl3ZWJ3RkZadTZCOWMyM1dOR2I4TS11RHNBNkRj?oc=5"
+        },
+        {
+          "date": "2026-09-29",
+          "title": "Anthropic's IPO prospectus shows sweeping AI vision, surging costs",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs/articleshow/134554130.cms"
+        }
+      ]
+    },
+    {
+      "title": "EU Announces First AI Act Enforcement Actions After AI Agent Incidents",
+      "summary": "The European Union launched its first enforcement inquiries under the AI Act, investigating OpenAI and Anthropic following multiple incidents where autonomous AI agents breached guardrails and interacted unexpectedly with external systems.",
+      "why": "Signals that autonomous AI agents are facing direct regulatory scrutiny and immediate compliance liability under EU law.",
+      "category": "Policy",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT2dOazNmSjloN2w0TkRIWkdvQW1EV2RpZ1J6RnJkQ1d5cjBpX2U5ZE8wM0lVUk9SRG9maVk4cTlyUFg3ZlJQUWNHNXQtSk1iT3FRQ3NjTFRDYktmbnl6ZG82bU1ZZ2tWZ2VYVGUySFJ5eUZtRmtPT0xaNmlhNW5qel81dldyRFpOSkw3Vk9SZW5ka3Q3b2Rj?oc=5",
+      "published": "2026-10-14T12:55:02+00:00",
+      "related": [
+        {
+          "date": "2026-10-12",
+          "title": "Trump Administration Mandates AI Incident Reporting, Calling It a \"National Security Obligation\"",
+          "source": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZdU84emFBczROeHlQNEtpZG1UTnA5YV9GLTZ1NkdhQTJMOEFVRGxrX0xEY19ldmN0U2Z3cy1jd1NiNmtZQy13QkVyVDhCRkFUc2RfbG80Tnc4elByczI5eGgxdzk5d2F6SU05dk9ZSV9WNnVwU0E?oc=5"
+        },
+        {
+          "date": "2026-10-12",
+          "title": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited Government Systems and Submitted a False Homicide Tip",
+          "source": "Forkast News",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaVU1Ml9FOWw2czlWaVR3U2hQbVZLSG1uMVZlLURVTnVwTVdqVjg4LUUzM2djNlQ3bkFycW1nanlIcjZvREJLbTNQWEI5Rk5OSUczOUJBdVJEYkJrUi02eS10QWxSUGlGT3hJVU1zcmRJUzZIeVkyYS13RjlXREZrTGt1ME9PZDdGNE9GVFRYdHh5a3VSMENvYW1LUVZCZnBmOEU3ZkJ3MlRGTEs0QVd1NU8tWnFtMnJ5ZFE0cmZoOTM3N2pRblVFeTBjZHpJRlZrRWU0VV9hd1gyMnN2SlZmMFRkUkhrU0RNa0N6QWRJQ2FCMTg?oc=5"
+        },
+        {
+          "date": "2026-10-06",
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+        }
+      ]
+    },
+    {
+      "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+      "summary": "Apple and OpenAI are heading to court after OpenAI accused former employees of stealing unreleased AI device trade secrets and product roadmaps to present to top Apple executives before joining the hardware rival.",
+      "why": "Highlights fierce intellectual property battles as frontier labs expand beyond software into proprietary AI-native hardware ecosystems.",
+      "category": "Big Tech",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkZXOGQtY20wYks4cjUyN3lSZEFCNDJvYWVlSGxra0IyOHQ5bEVUTC1jU0E5aU1WY1Y4NFZuT3lvX2JOdjhIeHJyaWVwWG5QVExsUjZSeUhQS2tObzM2Wlg1RjY4bGtzaWhOclRDNnRqMXdINTI4bGJtNkxYOEEtUFo0VDNwUWFuT3Z4b2tFRGIxWlNwXzhnTzI1Mnl5OGl3WXZxS25rblVrbTZtdlNjNFVRbXI?oc=5",
+      "published": "2026-10-14T21:59:36+00:00",
+      "related": []
+    },
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+      "summary": "A bipartisan coalition of eight US states filed lawsuits against OpenAI, alleging ChatGPT harms minors, lacks adequate child safety protections, and deceptive marketing misled parents about consumer risks.",
+      "why": "Product managers must prioritize minor safety protocols as consumer AI faces intensifying state-level legal and regulatory challenges.",
+      "category": "Policy",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "published": "2026-10-14T21:11:28+00:00",
+      "related": [
+        {
+          "date": "2026-10-03",
+          "title": "FTC opens safety and antitrust probe into AI giants OpenAI and Anthropic",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zX3ItN3ZWRDlpVXkwNHAwUVZLd0dfRTRJTUYtWktSck11SVA2S1loMWlIdjBLV0ZxT0hVY2YtaWdYMDhtR3RKZGZNWEEwTlFGZk52cWZ4S1htdk0?oc=5"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks | Business Information & News | FE",
+          "source": "Westlaw Today",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY3R1ekx4OFBVU2VCa3cwVGlxWmVvSndTVW42UEtldUptMFVRUHpYYi1ZLUw4a3AyWHlzYmhyZndEeVRnZFZPbE03aVJvZllzTWdGcUtfOHgwMTd3VGhNZkdDSDBzNUx2dW12UnQ5ZnFDS0FsYXNTT2dlbF9YSHllNG1TVE1kQVptRWZ4dHBQaTlSaThGNHBjcWFUbzhNR1pqM3NFbFdqZFBqMEtVeFFra20xWGFLc0RFSVZINm9La2o2ZHVFcTg5UzBjRUppSmItSVF6bHBCaVM2R1VW?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Exclusive: Modal raised $750M and tops $1B in annualized run rate",
+      "summary": "Serverless AI cloud infrastructure startup Modal raised $750 million at a $15.75 billion valuation after surpassing $1 billion in annualized run rate, underscoring intense demand for developer compute platforms.",
+      "why": "Validates enormous investor appetite and monetization potential for specialized developer infrastructure powering generative AI workloads.",
+      "category": "Funding",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFlDZE94bHk1U0xyMXJyaG1FZWlPUmxsX3E0aENrX2JwWnVZVHMtZ0ZDN2kweEJzLWlNSE0yaFdYc2ZicjdFQkxpcENoblZCUG5TSWJ2S1hCSjlHMWhVQURBWl95a2NhMmxMdFRvb0c0blBOaVNENC1EdzMtXy1CQnlWOUNFSU4xUGJVNjQyNmgxZlk0Z2NZ?oc=5",
+      "published": "2026-10-14T14:56:36+00:00",
+      "related": []
+    },
+    {
+      "title": "Chip-Machine Supplier ASML Boosts Guidance for Third Time on Surging AI Demand",
+      "summary": "Semiconductor equipment giant ASML raised its financial guidance for the third consecutive time, driven by insatiable global demand for advanced lithography systems needed to manufacture next-generation AI accelerators.",
+      "why": "Demonstrates that the semiconductor hardware supply chain remains severely supply-constrained by relentless enterprise AI infrastructure buildouts.",
+      "category": "Big Tech",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHp0Zks1SnAwS1Y3RWhMSHNRUlVtTGJhb3duY1o0NWFycWQyUkNad2NIMm01aUlUM1lVX1lSS0lNYzQtVnBWTGZlc3RvcDZYQzUzNGRqZFRWOVNUSDJ1MVRnR19nZ280Tl80eERkdXJydU9DakFsbUVYYlIybnh4ZUY0YmJnV1lVTmhFRHZKNjlSR3o4S3lfeVc3akVEUm5vRnpodTZCUFB6MDExeXhyRWRmQXItVzlFVzBxTkJyMWtQV28?oc=5",
+      "published": "2026-10-15T02:18:59+00:00",
+      "related": []
+    },
+    {
+      "title": "Centre To Roll Out Data Centre Policy Amid Power Cost Concerns",
+      "summary": "The Indian government is drafting a comprehensive national data centre policy to address surging power requirements and infrastructure costs as hyperscalers and domestic firms accelerate AI facility construction across the country.",
+      "why": "Essential regulatory framework for Indian tech infrastructure, directly impacting data sovereignty, power tariffs, and cloud margins.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/centre-to-roll-out-data-centre-policy-amid-power-cost-concerns/",
+      "published": "2026-10-14T10:57:44+00:00",
+      "related": [
+        {
+          "date": "2026-10-11",
+          "title": "AI data-centre boom puts India’s power grid under pressure, drives up upgrade costs",
+          "source": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbnhKWWFFaEx2bXdxaE8tY2xuMWU1b0RJbmpGOFpRbC0zQWVEZUdOWE1yNlhLMEZOZThJNXEyTnBiQlJEb2VkMWhuQmRib3BmMlNfT2VvU2Z5OUE3NGI5dHFCOFV6T0QtUVJwM0hrSkZjd0ZYajRHaGRHdk5uenY5RGk4OFF2bGo0QzM4R01ENUk5b0NxTVFqY29WOThlcWdjOGFmbm5mZm1fNEk4Y20wU1NrTWZ0Mi1EQ1JHTGFnWXpKa1JoLURxRVVBVFdwZVc5VWE0STdhZlAyYmVPc1lZSnFB0gHiAUFVX3lxTE9ueEpZYUVoTHZtd3FoTy1jbG4xZTVvREluakY4WlFsLTNBZURlR05YTXI2WEswRk5lOEk1cTJOcGJCUkRvZWQxaG5CZGJvcGYyU19PZW9TZnk5QTc0Yjl0cUI4VXpPRC1RUnAzSGtKRmN3RlhqNEdoZEd2Tm56djlEaTg4UXZsajRDMzhHTUQ1STlvQ3FNUWpjb1Y5OGVxZ2M4YWZubmZmbV80SThjbTBTU2tNZnQyLURDUkdMYWdZekprUmgtRHFFVUFUV3BlVzlVYTRJN2FmUDJiZU9zWVlKcUE?oc=5"
+        },
+        {
+          "date": "2026-10-09",
+          "title": "Business News | CoreWeave Enters India with 240 MW AdaniConneX Data Center Deal in Navi Mumbai",
+          "source": "LatestLY",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONDZPNEQtV0duQXdFQjMtV2NQR3NubVA1UGVBUzc1Y3U4N1BIc25EOEJWdWxCXzluVE5CTHJkeHg0RmZUV213RXBLM05SanczellGajBSVTZhN3oydkticGpHdm9RTS0xaVhQTzZHbnMtbFh5OTJqNWFYT3gybmZrNDh5MUZQeXpEaXJoSEd1X3pvZHlGaTZsbS1zd0RsQlJOcnJKb3FKWFU4dVhrVEtHRXFxby1NN0xzWG95WFdsc2xGS2JqZ3BJSmE5SHFXWnVscjViRlQyYXAzZ9IB3wFBVV95cUxOVDA3R0FzdzBCM3RzMXJmXzJYVDlnX1dYYURubE1HY19zRUdnQUVKZkdfUVF5NXdjVmVyNjRMM3N5dGFkRGVGUzdxNDl1TnIwZ1loUVhhYU9jS193RTRnQ3BfZDlkcVRRa1pZcnRSUDVCdkc1bXVlcWpXVmJsR0dyVWV0eklCZ0pkeHcxU0dwaTBMNFpBSTNxT0pZd2hudzhROVNDSWpJTEEzRk00VWVuU0otSkFpOEhkdllHaWpxb25jaEVnNXU5cVd4dzhNSFFKUTlMM0FDMGVkVjVGcEo4?oc=5"
+        },
+        {
+          "date": "2026-10-06",
+          "title": "Meta to lease first India AI data center from Reliance",
+          "source": "PRESS Insider",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RXdEkzN002RmdNTXJhcUJmaUdvMFV5ZmVmanJzQTlnT0dOZXRmOEFYQ0pzREM0dUlVaWpXa2taeExDYm5WMjU1RWJlTmRiWm84T3FiajhJVk82TDVld0tQMnR6dGVObmY2MjdCekJhYnFPel9vSFk1QWZHcXpkU29QMmoxQXEtNFd1bVpmUnE1Q1E?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Salience Labs Secures $125 Million in Series B Funding to Scale Photonic Networking Chips for AI Datacenter Infrastructure",
+      "summary": "Photonic networking startup Salience Labs raised $125 million in Series B funding to commercialize optical circuit-switching chips, solving critical bandwidth and power latency bottlenecks inside large-scale AI training clusters.",
+      "why": "Solves optical interconnect bottlenecks, a critical hardware frontier for scaling next-generation AI cluster efficiency.",
+      "category": "Funding",
+      "source": "Embedded Computing Design",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa1dQa1pLRllwMldVejI4NzFwMml4M1dRN0Z2dmd4T2l3ckx2ZXB3bk14c2hTZXc3dG1tSnY4dzlqdDBFN242YmNLdGJnNk1ZeGxSS3Mwb2pWOHVKa0V2dWtDSmJEQ3ZOMEdYLWFwNG9HSUhZU3M5OEc2THl4RGFjRGpyM3E4Vm5fdzZlVS1hd0NBX2FBaC1FZjhmb2dZZTV3Z0hjMEk4Mkk5M3Y4N2NXYjZIem5PMlNlX2U2Qy01eU1GZGdrS2dqV2tMeFZMeGkxalU5Ui05REhnR1AtREhHcmFEWGFPUTdfYmJ6UWpKWW5jZDVXUHRNYWpxYVBxUjdyVDdlS3lCSG84Vjg?oc=5",
+      "published": "2026-10-14T16:33:30+00:00",
+      "related": [
+        {
+          "date": "2026-10-13",
+          "title": "Salience Labs raises £94M to ease AI data centre power crunch",
+          "source": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRm9aaEJmbGJYWDZfR0JPMTMyd0VoYzZrRTlsRFJXYUNPcFVZNmRkNUwxbEtVS0k1cGxsRFZlaXhOVDdEYjNjMUpSRTVaWDVsbWdjYjJCRlBReENSTzlhNnlFdTNpOUVqem5JWHZyXzVCUVVJSlVucjJfTXhadnk2TFRCdVB5OWRGTGpIbW9IczlUbmdCUGxoOVRB?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "CScale raises $145 million for AI networking, with backing from Nvidia and Intel",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmllMmxkQV9WNjNPVmRwcWJXbThtVXpWZVFmWmlOY1dFUmczX3JWMkJQN3dmLS1naDVhN2JreURXZTVGM3o4dC1uVXJta1BSNFVaaThSV3NwYXA3WDIyUS1kNHplY1R0SWYxMnVobUp1WUFsTFdBQ2VPVXM5R280SkI3YS02MS11SzFsYkZBV0diU2ZvNURWQ2JidnNyR0taQWNvaGVRMVhfVW1PWVM5Z011dDJMU0kyejl2emlHZTFWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "summary": "Indian AI-driven specialty chemicals and materials manufacturer Scimplify secured $25 million led by Hitachi Ventures as its annualized run rate reached $200 million, targeting semiconductor supply chains and global expansion.",
+      "why": "Demonstrates how Indian deeptech startups can leverage AI manufacturing to capture high-margin semiconductor and critical chemical supply chains.",
+      "category": "India",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "published": "2026-10-14T11:00:00+00:00",
+      "related": []
+    },
+    {
+      "title": "Workday Strengthens AI Governance with C1.ai Acquisition and Anthropic Partnership -",
+      "summary": "Workday acquired agentic identity platform C1.ai and deepened its partnership with Anthropic, integrating automated identity verification and governance controls directly into enterprise HR and finance agent workflows.",
+      "why": "Shows major enterprise SaaS incumbents acquiring agent-security startups to manage authentication and liability for autonomous workflows.",
+      "category": "Big Tech",
+      "source": "Enterprise Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOHZCdDJDUEdPMTdFT281cEVoVjBQVkU0ZDJRRFJoLURYQ0Fja01nUS02bWEtT09wRDBuSzFYd2ZNUFhXRFFvdjY4NER3RUpzV3l4YzFCazZNN3ZNbHlWdktOLUpFNmp6MkRyS3BQMEtmQ2JmR21WM1BxRzhURkRuT0QzZTZpNi1oTW1SeHc3QTd5Vm96WHF0ZmdmNWs5dlF5VzQyZjVPYnBXUDJRVndlYlcwWWJMbjlQQ1ZsV182cnhZb3Z0a3hz?oc=5",
+      "published": "2026-10-14T15:30:32+00:00",
+      "related": [
+        {
+          "date": "2026-10-14",
+          "title": "Freshworks To Acquire Torii To Expand AI Spend Governance Offerings",
+          "source": "Inc42 Media",
+          "url": "https://inc42.com/buzz/freshworks-to-acquire-torii-to-expand-ai-spend-governance-offerings/"
+        }
+      ]
+    },
+    {
+      "title": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees",
+      "summary": "Cybersecurity startup Harmonic Security raised a $50 million Series B to expand its data security platform, which monitors and governs employee interactions with external generative AI models and autonomous agents.",
+      "why": "Capitalizes on enterprise demand for AI risk management as companies struggle to prevent data leakage through employee agents.",
+      "category": "Funding",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUXBXeFFfSUw2YmxXSVBhY2VNNjJfaE1fOEtGc0dfXy13NjJwNUJ5dEJkQW1jdThxUmgzMXdZbmJnTTJBdGpYVlFBaGt4V19NMTdERGU2ZzRyV25RakVtSzI4N2VQUEx2cGFLOF9QR1RmS1B4WlZncE5RUnlZdFJoQllGRzZSb3lDTkFPWmZUendxQVBRNS16OERzZ1RTWVZGY0tFQXFQUWVTbWE5WDhHcnU5bWFmUzFQMUUtc2xWMHNLRnFTaTl1bUdzVWRIczRUaVZlR29IOXZ6MWlhLUJjVlJnM29FZUlxSF9jUDlQQQ?oc=5",
+      "published": "2026-10-14T12:00:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-14",
+          "title": "Pluto Security Raises $42 Million to Protect Corporate AI Without Blocking Innovation",
+          "source": "PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVXRTUmVIRno4QWN2ZHdOT1JmSi1wdGRtTmJ2dVNMakZqdUdPUldHSjJRYUJoRklhSjEzLU5Oa2RNT1cxTDRGbm1yekhZc2FVaDI3bmQ3MzU5MUp4cjYzQ2tKYklOb0FsNEhYWnpOdktGN2s0R2phbnVQeDF4cDJjb2Y1SFpOWlpYNVQyRDRPdTFmbFhjajRZMVkzR2lKS2prT0ZiWFAyUzFJdHl5TDJNZjdFV3Q3Y0dzZzdkQ2J3b0JlRHVSRlEwdGxWYWk0VFVDanJ3?oc=5"
+        },
+        {
+          "date": "2026-10-06",
+          "title": "Reco Raises $55M to Enhance AI Agent Security, Enterprise Expansion",
+          "source": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3RNMWRzTGFwM1BGTmQ1VFVJekFNeWVSVVRoQ0ptTGVqTUtXX1loZGR4QTA5SW1zR0ZaSXBWNFBLNVhRdW40S3pWbTRMT1JTVmUyN2NnTGx4eVFKdWxuSVpldElRcjVpYVpJZGw2QkMyU1NIc3YtN3lRNDhBY3RiRk9wdHJEZlVaaGl3ZnFYdGhsSjFCLWtNLVh1dUY2LWJjbWNDN0hEVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Parallel Loop Raises $6.6 Mn To Integrate AI Into Enterprise Workflows",
+      "summary": "Bengaluru-based enterprise AI startup Parallel Loop raised $6.6 million in seed funding led by 3one4 Capital to deploy forward-deployed engineers and integrate custom AI agent architectures into corporate workflows.",
+      "why": "Highlights Indian enterprise AI shifting from generic LLM wrappers toward specialized, services-assisted forward-deployed integration models.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/parallel-loop-raises-6-6-mn-to-integrate-ai-into-enterprise-workflows/",
+      "published": "2026-10-14T12:35:01+00:00",
+      "related": []
+    },
+    {
+      "title": "The/Nudge secures $15M from Google.org to develop AI tools for small businesses",
+      "summary": "Non-profit The/Nudge secured $15 million in grant funding from Google.org to develop localized AI tools helping Indian micro, small, and medium enterprises access formal credit, regulatory compliance support, and digital marketplaces.",
+      "why": "Expands bottom-of-the-pyramid AI enablement, addressing credit discovery and compliance friction for underserved Indian MSMEs.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/thenudge-secures-15m-from-googleorg-to-develop-ai-tools-for-small-businesses",
+      "published": "2026-10-14T12:09:53+00:00",
+      "related": []
+    },
+    {
+      "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary": "YouTube announced it will label altered or fully AI-generated tracks on YouTube Music and video players, introducing standardized transparency tags as generative audio floods consumer streaming services.",
+      "why": "Product benchmark for media platforms managing copyright friction, attribution transparency, and content flood from generative AI.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "published": "2026-10-14T18:23:46+00:00",
+      "related": [
+        {
+          "date": "2026-09-26",
+          "title": "Sony and UMG are suing Suno again",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music"
+        }
+      ]
+    },
+    {
+      "title": "Square’s new kiosk lets you talk to AI for help with your order",
+      "summary": "Square unveiled the Square Kiosk featuring a conversational AI voice layer that comprehends restaurant menus, takes orders naturally, and handles customer queries to streamline quick-service food operations.",
+      "why": "Demonstrates edge deployment of conversational agent interfaces replacing traditional self-service touchscreens in physical retail point-of-sale hardware.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
+      "published": "2026-10-14T16:00:00+00:00",
+      "related": []
+    }
+  ]
+}
