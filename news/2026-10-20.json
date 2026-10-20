@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T08:18+05:30",
+  "articles_read": 300,
+  "sources_read": 12,
+  "stories": [
+    {
+      "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+      "summary": "OpenAI is accelerating talks to raise up to $30 billion at a $1.4 trillion valuation, aiming to solidify its capital lead before rival Anthropic makes its public debut.",
+      "why": "Mega-round valuations heighten pressure on product monetization and compute procurement ahead of public market scrutiny.",
+      "category": "Funding",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5",
+      "published": "2026-10-19T23:18:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "OpenAI Seeks $30 Billion as Rush to Raise AI Money Quickens",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjEwV054cG1rbl9UeHgyN1JSYzdvSmhZTWprdUlNMmZVNTNFSEViRDNqamUwdUtleXpHOS1BUUtITWlIeGp3b0FFQmhMakpCMUVubGp4UUlCOHZLWlcyYlpESTZhNGxxUjJLcDlhZDJ0NWgyRE44VDF3S0FYbVU4d1pCQmF0WWhSSV9IdGg5MTREUjE2Q2FlbnN2R0JRY29uU0ZpS2RQQjliRFlqeGNxUEVKSHU1QQ?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5"
+        },
+        {
+          "date": "2026-09-30",
+          "title": "OpenAI targets $30 billion in new funding at $1.4 trillion value",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value/articleshow/134572196.cms"
+        }
+      ]
+    },
+    {
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "summary": "AI chipmaker Tenstorrent raised $1.5 billion in Series E funding at a $6.2 billion valuation, staying independent to challenge Nvidia with open-weight architecture and cost-effective AI servers.",
+      "why": "Hardware diversification is critical for enterprises seeking alternatives to Nvidia's margin-heavy pricing and supply constraints.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "published": "2026-10-19T18:37:27+00:00",
+      "related": []
+    },
+    {
+      "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+      "summary": "Anthropic is in advanced talks with Nvidia-backed neocloud Nscale for a massive $45 billion compute deal to support its expanding model training and agentic systems.",
+      "why": "Frontier labs are locking in long-term compute capacity via specialized neoclouds to mitigate hyper-scaler capacity bottlenecks.",
+      "category": "Big Tech",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5",
+      "published": "2026-10-19T23:21:01+00:00",
+      "related": [
+        {
+          "date": "2026-10-02",
+          "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        }
+      ]
+    },
+    {
+      "title": "Meta’s new enterprise contract says if its AI makes a mistake, it will legally be the customer’s fault",
+      "summary": "Meta updated its enterprise contract terms to stipulate that enterprise customers are legally liable for any errors or damages caused by its AI models.",
+      "why": "Product managers deploying commercial AI must reassess risk transfer, contractual liability, and compliance safeguards in enterprise SLAs.",
+      "category": "Big Tech",
+      "source": "CIO",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanFIMjZaOWR6Q0RLNHdVSVhDSDJxWDBKRFJwMC16VVhXaWxweUlEd09DMXV6bUdrOHNWNERQdVBfaUNEVHJjYXlDTGdlRFYyZC1oOHpNXzNlUWVibTNkZDJiQlRqdnJiSjJkWE1GSzgxc1ZfUFV1eUxyUE54emxHeVVhOEJDa25LR1NWdXNpMU51UmVwc3NxU0lvMVBRVHB5SVBFVjhyQ0JwR3dEMWFmU1g3dldlMlBxM2llX05nN1hqVkh6bTduUVBjUnFwa1JGTktEMWZ6UQ?oc=5",
+      "published": "2026-10-20T02:39:10+00:00",
+      "related": [
+        {
+          "date": "2026-10-17",
+          "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+      "summary": "CoreWeave’s bond yields spiked into distressed territory, sparking wider investor anxiety over debt-fueled infrastructure buildouts across the AI cloud ecosystem.",
+      "why": "Rising debt costs for GPU neoclouds could increase compute rental prices and disrupt startup infrastructure roadmaps.",
+      "category": "Funding",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "published": "2026-10-19T21:28:20+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "Funding strains, construction delays test America’s $10T AI buildout: FT",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDl1cEJTQ2hmRnpxVThWb3B6SmsyZHU4Z2pEZG1fREpIRjFaRlhxd3J4WGJLX001Vktpb3kyRkFCcEZveEctU1Q4dzFzSkRjX2NacVdfUFpjejc5ZjkyOVN1MVFUUDZWdGZtc1hGWU5sMkRzb1ZyVUxETUIxZnRtS0xiLWQ2LUFwOFVkMEdidDdvOTVwWnFReEl2UU1Fd2xYYWJhWEtNRU5ONU5oa3FkWmtqaVM5NWpYMW9pOFZPdl9zNGMwd1V2RU1GTzk?oc=5"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "CoreWeave Bond Rout Raises New Questions About AI Infrastructure Spending",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXhWYVFJODRabkVhWjdHUkoxdzFncksxWG1DcDgxcmQ4Z3RHbWpHNHNldjJDSkxOc3NiUHYyb2FSczBvMzdpTWhWczRobHVsaEhSY3NEYTV4TWVVNHowTURUd0txenltcFFyMENlTDFJRXBZejRucXVOVmREdE1HbkdWdEVobEQ4M1kwakZPejRtandIOEc2MDZ0UFB3S19SdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Govt plans sovereign AI infrastructure with tighter control over data, GPUs",
+      "summary": "The Indian government is developing sovereign AI infrastructure to secure domestic data governance and establish centralized control over GPU compute allocation.",
+      "why": "Sovereign compute access shapes local AI roadmap viability and reduces dependency on foreign cloud infrastructure.",
+      "category": "India",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNREI3ZWZtZlp4Z0wxMkRCc2lESC1iY3JrZmM0SkdQd2ZZWnNkX2FlWFVnNlBpZXlodWhQa09La2VYWElBZDUwcnA0eU5fX0xxM044ejE2czZ5RWFQcC04Q0xxcEVsRU15T0w1bGpoNnFrSUQ1WHBIMTlodkppTWljYWowXy1XQWRRdlZyczF3ZnJvaDdJaEx6czB0Q3ZFZmdaSkUwTzhkWFpYc0R6bnZ5U0dIVkFwRHYyWVdHOElINmxOUzR1N09kY0hwNHJwbVRPTDhaZmFHSDlWXzBvbEpFT0FKM0RuVHRnR0lleS1n0gHzAUFVX3lxTE1YeGlPQmwtVTNHeXRxR3ZhRVRpejJMMjgwZk1QSHE1UERoVWxpRmlJbl9YVmhpWXN1ZEFWN1F6Z1BaVFpsMEFvMVdxSUdkaFRqZXdiVUF4OXNLVEZNZ0Z2eFVCQldjTEhCU1BvODBaMXJTY09oaFliRXZkRm1XejVJaC0zYVItMkI0R3JyYkJ6SFRPam40WUhBLVVxUFVjSkNiZVBJVU42NXV0ZzBMOFNhc3FTSWZFTTNmYjVUanQ1QzZUZFVRaHRGeWN2Tjdja0M4ZExWaTk3dFZnRmpuNk9TTW4zODFtTWx5RXZvX2JyOTl2QQ?oc=5",
+      "published": "2026-10-20T01:28:16+00:00",
+      "related": [
+        {
+          "date": "2026-09-26",
+          "title": "Govt Mulls ₹20,000 Cr Fund To Power Frontier AI, Compute Ecosystem: Report",
+          "source": "Inc42 Media",
+          "url": "https://inc42.com/buzz/govt-mulls-%e2%82%b920000-cr-fund-to-power-frontier-ai-compute-ecosystem-report/"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary": "Microsoft warned enterprise leaders that autonomous AI agents function like insider threats, cautioning that unvetted frontier models cannot be fully trusted with sensitive internal infrastructure.",
+      "why": "Zero-trust architectures and granular permissions must be redesigned before enterprise workflows can deploy autonomous agents safely.",
+      "category": "Big Tech",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "published": "2026-10-19T22:04:28+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "CERT-In Issues Critical Alert After AI Agents Access Live Systems of Indian Organisations Without Authorisation",
+          "source": "www.nationpathindia.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUk5bndtVjFMN2JDaGJnaVdDQ0dBQ0U2dDViZTU0dEpCVmxseXl3SFoyX0J6aWlodkhyaHpPZWNzblo0ZWNZdm9vZV9GZ3NjQU5lb0NkTWNlOFJvQVZVNWJYQW5qTEtLOHlzdmUyTW0zV0FNWXlhWGRLMEJwT3hOOEM1UFEycWRyaWY1c3pWdGx2RkExdVZURjJFd0VlUQ?oc=5"
+        },
+        {
+          "date": "2026-10-11",
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
+        }
+      ]
+    },
+    {
+      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+      "summary": "The US Department of Homeland Security banned Chinese AI lab DeepSeek from federal civilian IT systems, citing potential data exfiltration and cybersecurity vulnerabilities.",
+      "why": "Geopolitical bans force multinational enterprises to audit vendor supply chains and open-weight model origins.",
+      "category": "Policy",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/articleshow/135054998.cms",
+      "published": "2026-10-19T18:29:15+00:00",
+      "related": [
+        {
+          "date": "2026-10-18",
+          "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0JqQlRDd3JxZG9sWmUyLU03cFkwSDJLbkhOc0tpa2NUS24zby1jU0JQX242dEdFYWtRSXNNbUJOM2hwdDFJX3VKc1E4UFN1VVVsYi1ncl9qNkg4ZnhhcERDMkc1ZkhXUlRxUy1BdW9JTC1wYmV5YVlTZmYtUWlLRnNJQ2ZUWEw3UHNXMkdNMUdVLXJGR2M1YXRYcFFacFNmSWJCLVNxNkZ4bTZ4UXVpOXNR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon launched TorchNeuron, a developer toolkit designed to break Nvidia’s stronghold on PyTorch by simplifying the porting of AI workloads to AWS proprietary chips.",
+      "why": "Lowering framework lock-in helps cloud buyers switch architectures to reduce ongoing inference and training costs.",
+      "category": "Big Tech",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "published": "2026-10-19T20:09:24+00:00",
+      "related": []
+    },
+    {
+      "title": "Karnataka’s ElevenLabs Partnership Irks Indian Voice AI Startups",
+      "summary": "Indian voice AI startups expressed strong concerns over Karnataka’s official partnership with ElevenLabs, arguing that state backing for foreign players harms domestic startup credibility.",
+      "why": "Public procurement decisions impact local ecosystem moats against well-funded global generative AI providers.",
+      "category": "India",
+      "source": "AIM",
+      "url": "https://analyticsindiamag.com/ai-features/karnatakas-elevenlabs-partnership-irks-indian-voice-ai-startups",
+      "published": "2026-10-19T13:24:51+00:00",
+      "related": [
+        {
+          "date": "2026-10-07",
+          "title": "Karnataka govt signs MoU with ElevenLabs for Voice AI services",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/10/karnataka-govt-signs-mou-with-elevenlabs-for-voice-ai-services"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "ElevenLabs targets voice AI service in 22 Indian languages, says CEO",
+          "source": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQM3pKRFNJZnpoWElCX2NtODJfZnpIYWJtRUgzSUZhalpXUlNCdzFaTkJ1TzN2YWlsVzFhWHpCZ1RrS3FvdjZ0QjYwcmxFdEZneDZ0WTJ0YlpMS3NoSEFxT19RT2ZqYURxYzFzZmZsU09tbmZyY0g0ZGh6RGhHRGZ3ZXYzWWl2M2ZkNWhEdGpJTG1fZE9UZ2VxMS0taXR1S2EtaHJ4NmNLcUtibkZBbFh0Y05kcnI4NUoxS2dzcHUxNlVOc2RhVVFqMDJ5ZDVKeklrMXFtX29tWk1WRFJBeVlFRVZOV2JhYm9obUhpSklxTks3SEHSAfgBQVVfeXFMTXZoajM4Q19xM3FnUTQxNmxOYXc5Z21TdGhCNlR1TEFKUGM5UlVZN0FvNzVUZEFqWFdsWWJLZlRUVGttTG5tOE0zX3UtR2ZBVks2SEtqWTd5T0JIU3hPRXNid3ZwWjdySTR0bGU4Y2hXblVmOXVfSzRBQnFoeGJlbWQxNlVqWVJiTjdJMkh5ZEstSW5GS3pMUE5jczNDQ3dXVXVSYXhVNG9uVHRWQUZqS2VvOW1GOWxfenBBUGNfSXB4LUM5VUp4aE9QYmxZOFB3eGh4VUlkWFJzOE56Sm90bE04eXhFMEl5VHZSX3lYTmYzS1U2dkdWUWU?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Hunar Raises ₹40 Cr To Scale Agentic AI For Frontline Hiring",
+      "summary": "Hunar.AI raised ₹40 crore in Series A funding led by Blume Ventures to expand its agentic AI platform that automates high-volume frontline worker hiring.",
+      "why": "Agentic recruitment automates complex operational coordination in high-turnover industries like logistics, retail, and manufacturing.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/hunar-raises-%e2%82%b940-cr-to-scale-agentic-ai-for-frontline-hiring/",
+      "published": "2026-10-19T12:34:27+00:00",
+      "related": []
+    },
+    {
+      "title": "Cognizant puts 18,000 staff behind Google’s Gemini in AI agent push",
+      "summary": "IT services major Cognizant is deploying 18,000 employees specifically to build and implement enterprise AI agent workflows utilizing Google’s Gemini platform.",
+      "why": "Indian IT services firms are pivoting thousands of billable consultants into platform-specific agent implementation practices.",
+      "category": "Big Tech",
+      "source": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2QmhjTV9FcEpkaElRYy04eDBpX2R3ZFR0Zk1JYWxScEptMGc1NGFLajV1THpmSEJxWlhXN2RLdTJ5UXFlNHo1QnFlVzA4Y0d3LTZWd3pKUkdkRVd0Y1A4WHNoeFY2cEJ4TDF0amVFVWRwYnd4OWc?oc=5",
+      "published": "2026-10-19T22:41:54+00:00",
+      "related": [
+        {
+          "date": "2026-10-14",
+          "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses/articleshow/134923362.cms"
+        },
+        {
+          "date": "2026-10-09",
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+        }
+      ]
+    },
+    {
+      "title": "Meta Details Prometheus Supercluster Scaling Toward 1 Million GPUs",
+      "summary": "Meta shared architectural blueprints for its Prometheus AI supercluster, outlining how it plans to scale data center infrastructure toward one million interconnected GPUs.",
+      "why": "Scaling hardware clusters to gigawatt capacity requires fundamental changes in interconnect topology, cooling, and data center energy.",
+      "category": "Big Tech",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOakVPWExNR1dWTjNiUENyZ0pSZTlXT1BseFZ4ZlpYdGtXREFUOUdEb1RwdUU3akN0WldoNTRTcWRCX21vYms1LTdfbnBNdHJvOGgwUElBOUlHS0czX3VuYUg0emRGM0x0Q25fU2NIYWF4bndmT3FMSHpCSkhZTVFmXzhpQ21HZ0tpT2JraU5kUlVpUQ?oc=5",
+      "published": "2026-10-19T18:49:06+00:00",
+      "related": [
+        {
+          "date": "2026-10-16",
+          "title": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/articleshow/134980613.cms"
+        }
+      ]
+    },
+    {
+      "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+      "summary": "Workplace assistant startup Town reached a $1 billion unicorn valuation after closing a $108 million Series B, just four months following its initial product launch.",
+      "why": "Rapid unicorn creation in multi-agent orchestration reflects intense enterprise demand for unified collaborative AI teams.",
+      "category": "Funding",
+      "source": "TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUlpc05iQVVtbDJ6RXN1WE5peWs4dXE4M2dWMk9xRWRjT3RTZkdHMnAxNEszTi1ySnNOQ3JTSElFZEd4MHMyeW9ZbTBxQXgtX1NkSWJjOW8zN1dlcHJrRXFDTHJkc0E2SEhLcnZESTVTcGNxTkpqWm01UTRVcmVseGVENEliSFhocWozMmFHZGRIREg3TElXZENYOVRLYnlMeUtfQmpBNW91LWpx?oc=5",
+      "published": "2026-10-19T18:00:39+00:00",
+      "related": []
+    },
+    {
+      "title": "Dream Labs Raises $90M Seed to Bring Robot AI Across Different Machines",
+      "summary": "Dream Labs secured $90 million in seed financing to develop general-purpose foundation models capable of powering everyday robots across different hardware form factors.",
+      "why": "Decoupling robotics software from proprietary hardware creates an operating system layer for embodied AI applications.",
+      "category": "Funding",
+      "source": "Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcDFHUDVuZVo2SGJoemE0dW9DMElPTWxJMzBIWWpzM3VnbDlKdEdhbl91NHJvQlJ1djhfQm1yRkhpUjFocEpkeE9SelllY3A1eTJ4YmxlaHYzWERSczFQR2M5SUtRNlU4Q1dXeGN4Qy1kcDVibHBzQkJYTnFnTHd6bTk5b1NkeXNrMkJXRTV4dHFwanlKSHU4?oc=5",
+      "published": "2026-10-19T19:43:23+00:00",
+      "related": []
+    }
+  ]
+}
