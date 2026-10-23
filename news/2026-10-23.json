@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T08:20+05:30",
+  "articles_read": 300,
+  "sources_read": 12,
+  "stories": [
+    {
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "summary": "DeepSeek reportedly secured $15 billion in new funding backed by Chinese tech giants, doubling its initial target just days after the US ordered federal agencies to purge its models over security concerns.",
+      "why": "Demonstrates Beijing's determination to capitalize sovereign frontier labs and bypass escalating US hardware and software restrictions.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+      "published": "2026-10-22T13:11:13+00:00",
+      "related": [
+        {
+          "date": "2026-10-22",
+          "title": "US Orders DeepSeek Removal From Federal Civilian Systems Over National Security Concerns",
+          "source": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/us-orders-deepseek-removal-from-federal-civilian-systems-over-national-security-concerns"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "DeepSeek targets $12 billion funding round as it builds for potential 2027 IPO",
+          "source": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORERFSVNoNVhjYldXM2NNMWRSOHZVdWlBUkFzb29KcjQzUXZ3TGlFQi1POFEzUjEzMVlFR1kyMHJId3k0NU1VVmZaNEdaMXdoQVNBYWdRdlMyN3lpTHA3cEdGSkF4dmFIaEJkRTVEZnBnUjRqdHNGcHdxQ09OdDhJZUJhM1RSVUtfNHdFeDFjQkVqcnlOTE9leWlnRnBUVV9IOUxBejhoSm9LOXlORlpxc3I0ZC1wei1MM0VjbDZaMA?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "summary": "OpenAI is preparing a new $30 billion funding round targeting a $1.25 trillion valuation ahead of a potential IPO, setting up a record valuation for a private tech company.",
+      "why": "Reflects the staggering capital required to fund frontier AI scaling and sets expectations for public market debuts.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "published": "2026-10-22T22:08:24+00:00",
+      "related": [
+        {
+          "date": "2026-10-20",
+          "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "OpenAI Seeks $30 Billion as Rush to Raise AI Money Quickens",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjEwV054cG1rbl9UeHgyN1JSYzdvSmhZTWprdUlNMmZVNTNFSEViRDNqamUwdUtleXpHOS1BUUtITWlIeGp3b0FFQmhMakpCMUVubGp4UUlCOHZLWlcyYlpESTZhNGxxUjJLcDlhZDJ0NWgyRE44VDF3S0FYbVU4d1pCQmF0WWhSSV9IdGg5MTREUjE2Q2FlbnN2R0JRY29uU0ZpS2RQQjliRFlqeGNxUEVKSHU1QQ?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "OpenAI Eyes $30B Pre-IPO Round at $1.4T Valuation",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXBKZnRaMnlUUThCWEtMV0t2YWQtZERWX2YweWFjcHUtYU1mbExybnVMRjd1M05DZlh3TU9Qb19PY3lBd2xBNTR0SUVsVmdvckRTNF8wbmdZMExTM3hIY3N1WU5qdDd6QkQtV1ZRY0U4MV81SVduOTJHSG1TbU8tV1FqZVVaOTlWeXRGUXR3?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+      "summary": "Meta announced a new class of non-voting shares to fund its escalating AI infrastructure capex while preserving Mark Zuckerberg's control, triggering credit market concerns and a broader tech sell-off.",
+      "why": "Hyperscalers are exhausting debt tolerances, forcing unconventional equity structures to fund massive AI cluster investments.",
+      "category": "Big Tech",
+      "source": "Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1NvX2lPSGFjQlNCR1AwTW9tdVlIRHhORm5vRmdJTTU2RXJlZFIwVkRGV0N6Z2JaNXRhY2VqVDBrQ1ROSno2OVNQZllNMy1jRGprY2psb01tZFhLdkNSd3g4YWJWaHJ3c1d0eXdxdFpVWmdQaUdvQ3BCcHZjTVJuZ3VUbU1TQW41Q2c0?oc=5",
+      "published": "2026-10-22T19:06:02+00:00",
+      "related": [
+        {
+          "date": "2026-10-22",
+          "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeTRxaXFGR2NaM25XQW9ES2REUHViVVZHWm5RQzk4Mjk0TS13RjllNk5oZTQtU0NvbVZOTEJlM3FCV3RKRXU3aVRCMkItT0RYNTRzX09UNGkyUTFKNFA2QUUxNjI0cmFiZGJpUlZYQUlaazRuV0VTZEpnNlNsTVZfSHRUUUlzVWVnbWUyeDNXejEzTWo4Q0J6ZmFQc2Q2b056R3FLRC1ndVZPbmZwQy1qU25uZVUzOXJheWk5Y0lPVFY2QlJEbHJCNHJSeElwTjRJUjZjYUlJQ0pzTUFzcWVSaG1qTC1aMFFtZlJsQ05UMXBHVGd2YzM0ZjQ2RTFhNnl0OHNZTm9CZ01YVWdRSkZuQ3BqbljSAZoCQVVfeXFMTTBvdDdwcVJaNF8yMlRtcllhVTVjQ3ZVWGhTS0FaT25FdEk4NEhySWxnTWtrSkNnRzdnTmdxWGN1SXVOR0NNS09VRWxZellod3RGRGR0QWFzN2Q0R21uY3hVQkNKTUlkYnZPdjVScVU5bGdHTC1GNEFoeXJBaUJyRXp5ZFptdVNtTFhacERuc2hiT0xUTzVlZHM0V2ZVaDk0azNGdjdlZ0ZTMlFsd3Zkd3B3SUN1WDdOblF3bGZLVXNrSnVKZWRiRTdjRHl1ZklRZG9YQkVRbmZZNnBEcmpIZWpUcGlUUWxrdlFWOTFwRG1XemRHUWpwTHFUeHFGb2N3TVVGa3NOYjNmeVlfTXRRZVNscTFwRnlyZmZB?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Blackstone backs $18B debt deal for Anthropic's AI chips",
+      "summary": "Blackstone backed an $18 billion debt financing deal for Anthropic to lease specialized AI chips, mitigating heavy equity dilution for compute infrastructure.",
+      "why": "Private credit is rapidly replacing venture equity as the primary financing mechanism for large-scale GPU infrastructure.",
+      "category": "Funding",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhDcmZoVXJtSkd6Z3pQdk5VZTBKOXJaNVM3U1RWd1VDbDg2a1RzS3dLd0JHcUJnVlZQcncyQjE4TloyR0xPZ2tDSTJLMmlWQWVoNHMzRmVHR0RKNkVWLVk3emhNY0NiNkNTWUNGUjhmUTdnY3BMRFF3Q1R0REU5N1U3SnRJd3I0TUtRWEFPV1htV00?oc=5",
+      "published": "2026-10-22T17:51:32+00:00",
+      "related": [
+        {
+          "date": "2026-10-17",
+          "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnB1RXlFY1hwNUhQbnJrN1pzMUlaS1hncHo4ODNZd1R1NDFtVTFOWFd0dkdqNVlQaEhPbVlydjdDR3poUEd6ZTNkaUhOX01LbUJYVmZJU3VLczVEMmdyQldwbm5mNWd1ZVZnS1BjR3JBRFJnM0twVzcybXYyc3JwaDk0VjBlcFktOGR1Z3lhYmVrdTQ5Z3F0ZjNJM2N4N3NvSjBIamZJNA?oc=5"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic unveils Claude Duet AI agent app",
+      "summary": "Anthropic unveiled Claude Duet, an autonomous AI agent app designed for professionals and small businesses, directly challenging Meta's Muse and OpenAI's emerging agent tools.",
+      "why": "Shifts the competitive landscape from developer APIs to packaged, user-facing agent software that automates daily operational workflows.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
+      "published": "2026-10-22T14:11:55+00:00",
+      "related": [
+        {
+          "date": "2026-10-22",
+          "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+        }
+      ]
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "summary": "Canva launched Canva Craft, its first proprietary image generation model featuring a two-stage planning architecture, competing directly with OpenAI, Microsoft, and Google.",
+      "why": "Design platforms are training proprietary models rather than relying solely on third-party APIs to retain margin and differentiation.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "published": "2026-10-22T21:51:25+00:00",
+      "related": []
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary": "Uber expanded its deployment of ChatGPT Work to all 30,000 employees following a limited pilot, marking one of the largest corporate rollouts of OpenAI's enterprise agent suite.",
+      "why": "Signals mainstream enterprise validation for deploying autonomous conversational and task-oriented AI agents company-wide.",
+      "category": "Big Tech",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "published": "2026-10-22T16:00:00+00:00",
+      "related": []
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary": "A Microsoft diagnostic AI outperformed generalist doctors on complex medical cases in a Science study, as the company targets medical superintelligence through advanced foundation models.",
+      "why": "Validates high-stakes clinical diagnosis as a viable enterprise AI commercial vertical, though clinical liability hurdles remain.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "published": "2026-10-22T18:43:53+00:00",
+      "related": []
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "summary": "OpenAI made its decision model and Decisions API broadly available, providing developers with specialized scoring models for complex reasoning and agentic decision trees.",
+      "why": "Offers product teams low-latency, deterministic decision scoring to orchestrate and steer autonomous multi-step agent actions.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "published": "2026-10-22T19:00:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-11",
+          "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+          "source": "MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWTgtVm1CMzAyYlMtVWJVa3VqeEZYMHBzY1ZsaTVXNUJ0VDZoY0Z4cy1rRi1xd2RkaU1WVGtqUmpzNWlBMjZoeEREOGNhdUZiVHU0RGlhWVZpZTFDcVFreHdMZm5KNjExUmJUajJHWUR5OGF0ZTJXVDRHUUZ1eVkwS01yckxVa0FseG1RbWthYmVCQ0F0NEhYNE0weHJ6MzJ3YXpOT09rcVN2d2JOYml0UjBzblNPcWNDWk800gG7AUFVX3lxTE5ZOC1WbUIzMDJiUy1VYlVrdWp4RlgwcHNjVmxpNVc1QnRUNmhjRnhzLWtGLXF3ZGRpTVZUa2pSanM1aUEyNmh4REQ4Y2F1RmJUdTREaWFZVmllMUNxUWt4d0xmbko2MTFSYlRqMkdZRHk4YXRlMldUNEdRRnV5WTBLTXJyTFVrQWx4bVFta2FiZUJDQXQ0SFg0TTB4cnozMndhek5PT2txU3Z3Yk5iaXRSMHNuU09xY0NaTzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "US banks detect unauthorised AI agents in customer accounts, Axios reports",
+      "summary": "Major US banks discovered autonomous AI agents accessing customer bank accounts without authorization, exposing severe security and regulatory vulnerabilities in retail financial automation.",
+      "why": "Highlights acute authentication and compliance bottlenecks as consumer AI agents attempt automated financial operations.",
+      "category": "Policy",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNGs5U1phMVRKU2NMaWEzVkhpYlRMSTQ2ZTNKaHl4R2I4aG1yU25JY3BBbHpqYjRBZVdyU09oU0xEbjdZb1pYQmlXMjl0YnhiMENULXpPXzV6enBGX1c4XzFsVEZaTk8tdkl1aFJuOHVoOUJyTTZ1X0ZvX3Fvb1l0Vl9PSklMakNrOWFjYjJZQnJPWWNzdTl4bWNOeC1iYWoycTgzQVNoVUxrVVVJem81RUxDRVh3b2hLOHgyeFhWcWxoVUtKZFhVdWp3WHhkVHhGWWpycFZ1SzBUMU9pLUVPcFEyTm1tcHFWdjFpVHVIcHl0UdIB8gFBVV95cUxPNGs5U1phMVRKU2NMaWEzVkhpYlRMSTQ2ZTNKaHl4R2I4aG1yU25JY3BBbHpqYjRBZVdyU09oU0xEbjdZb1pYQmlXMjl0YnhiMENULXpPXzV6enBGX1c4XzFsVEZaTk8tdkl1aFJuOHVoOUJyTTZ1X0ZvX3Fvb1l0Vl9PSklMakNrOWFjYjJZQnJPWWNzdTl4bWNOeC1iYWoycTgzQVNoVUxrVVVJem81RUxDRVh3b2hLOHgyeFhWcWxoVUtKZFhVdWp3WHhkVHhGWWpycFZ1SzBUMU9pLUVPcFEyTm1tcHFWdjFpVHVIcHl0UQ?oc=5",
+      "published": "2026-10-22T10:40:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "CERT-In Issues Critical Alert After AI Agents Access Live Systems of Indian Organisations Without Authorisation",
+          "source": "www.nationpathindia.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUk5bndtVjFMN2JDaGJnaVdDQ0dBQ0U2dDViZTU0dEpCVmxseXl3SFoyX0J6aWlodkhyaHpPZWNzblo0ZWNZdm9vZV9GZ3NjQU5lb0NkTWNlOFJvQVZVNWJYQW5qTEtLOHlzdmUyTW0zV0FNWXlhWGRLMEJwT3hOOEM1UFEycWRyaWY1c3pWdGx2RkExdVZURjJFd0VlUQ?oc=5"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "After Muse Launch, U.S. Banks Are Saying Hell No to AI Agents Moving Money",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU0zV2oySGQyVkRnVWtVc1YxZlptcUg4NXowX1pzNUxhQVhUa2tUbGF2dWtEaHBYRVJ6YzZZT0VkVDhRc3p5RHVvam1wcWh2dlZ1bWtRUV81aUdPWVFMRGNKNl83b0t2ZTNZb1E4THBpZnJqaG4wek40ZlR5dWJsSjJmZ2pSelM1eGgwSzY2TzFLQkJrUFNOVTQ3YzMzeTk3Y1ZxcjVR?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "SK Group’s data center unit seeks funding for $350 bln AI buildout - Bloomberg",
+      "summary": "South Korea's SK Group data center affiliate is seeking funding for a planned $350 billion AI infrastructure and compute expansion across the region.",
+      "why": "Highlights the colossal infrastructure scale needed across Asia to support regional enterprise AI workloads and supply chains.",
+      "category": "Big Tech",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWm9EOHpSVkplUXcyMWVBaGROS1ZQaW9GelEyZE1COFJ1eHd4VUowYzQ4SEo1RjNaVDZyTU54bmhEZFNlS2lBYmZTOVNhVUJJcFJKdS14Y1Y1WHRydExZVnh0YmpvMGFsV1VQQmZ2U2dlSlVvR3c1SXJmTmp5Sks2MnJXb0FPY05mRmJSc3ZZUnREZ3NnZTZvOUVULWtLOF9TQkN1RjNDY1ZiNjQ0blYxcUVOWmxRTGRCQ294dzJkX29wdFBkS1RFbWN3?oc=5",
+      "published": "2026-10-23T02:15:36+00:00",
+      "related": []
+    },
+    {
+      "title": "Goa positions itself as India’s premier innovation testbed with landmark AI Policy 2026",
+      "summary": "Goa unveiled its AI Policy 2026 and launched a state hackathon, seeking to position itself as an innovation testbed and introducing AI curricula across rural schools.",
+      "why": "Regional governments in India are formulating local AI frameworks to build technical talent and attract deep-tech startups.",
+      "category": "India",
+      "source": "ET Government",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSnZoblVkSU9RdjVWSFZWZHlqOUhoZTlsYk5rMENKRTZqckxmZmdSdjdxZFlJSXY1RG5IQndSODlETndfTG5DYUthYnNwR2NsdXNacngwQjZPX1lFdVYyMGpxQXB0MWVaWGhfMFFGdEhRQk01cnN0QWRjX29jdGV2ckxEQ1hoSkdhVWduZXdZbTdoTnQ4YnNrQ0cxRDRqc2s0N1Roc3M4N01PVkRkUXU3YzRzd3BLSl9tckgxbzdKaU1fZzAxQnVibG1FSHRkRjhjRjF6TDVoS2ZGTkJQYXRWakt3MTBDS1NYYWFFUnJ0aFDSAfYBQVVfeXFMUFM5YzUtU1lFNWlVNnBremVMeGs4WkFUR2lsanpkYl82VXdpTkFhNXJhc0UxX0FrRk5nSC0xOWtid2NOYlN3SndtNm1Wcy11NVU4QTlJUHhVSGlLVlp4WjBiLVhZYk9pZWtFVHpBNmxSR0hGRjZYMzNaamQ5RW1hQ3ctcHNlOGs5bDg0NVBYUkJQZWs0ek4xTGR6QXpyamNnaXZ5N3dkZk5KS28weEJpdDh0bDVrclg1TWNEWkhBMnltT1B6Y09YVUJKNTczMDhzWEF4aUZGbzFqZzVWNThCVWltVFAxRy1KY2ZWanZ6SVBsTGIzYndn?oc=5",
+      "published": "2026-10-22T17:54:54+00:00",
+      "related": []
+    },
+    {
+      "title": "Karta AI Raises $3 Million in Seed Funding to Automate Complex Banking Calls",
+      "summary": "Bengaluru-based voice AI startup Karta AI raised $3 million in seed funding from PeerCapital and Cedar Hill to automate complex customer service calls for banks.",
+      "why": "Demonstrates strong venture support for vertical Indic voice agents tackling high-friction, compliant customer interactions in BFSI.",
+      "category": "India",
+      "source": "AIM",
+      "url": "https://analyticsindiamag.com/ai-news/karta-ai-raises-3-million-in-seed-funding-to-automate-complex-banking-calls",
+      "published": "2026-10-22T10:26:19+00:00",
+      "related": []
+    },
+    {
+      "title": "Rural healthcare startup CureBay raises ₹100 crore to expand clinics and AI services",
+      "summary": "Rural healthcare startup CureBay raised ₹100 crore in Pre-Series C funding led by IvyCap Ventures to expand its tech-enabled clinic network and deploy AI diagnostic services.",
+      "why": "Proves that applying AI diagnostics to underserved Bharat markets offers viable unit economics and investor interest.",
+      "category": "India",
+      "source": "CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSmNZRjFHdUJaMmlpbWRCaWIyQUs2OTlOb0V6eURkTWF3bXZGZ3JldUhxTDY5THF1MEU1bjhJUUFlTC1pZ2FwTjFIbXQ3TEtMbmMzdi1KZ19Va2FobWNmaW4tdEFialdoYTZERDR4dk42V2RNYnEtYnlpVlZEU0JkcUFYSkVsRjJBcFVyV3dWZzFxdXUtNmVwdXRsS1g3Z2UtN3lKbmZIQ3dXRjZMRGdNRHJwbFl6QmVJczVsbTg3VlhGeVhjNGI2Yi01QmVKRFZmcHBYemNhd9IB3AFBVV95cUxQZXFSaDhLaWY3TzZTbGRzQ1d6dEhESkN0UUpYeUpSMDhOYmxnM2FwWUZQdjl6TmJTQjI4Y1BHQ3pudjBDaDNWTkFFVGpnWk0zMzgzV0lQdFYzUXpWMngtSmhjODhONTB6QV9ZTTFrQjAzbWVYNkViWjJpQlBodXVIcVE1VnZuWjZoWHFqd1ZmRXNJZlZpR1hPVUJ0NUtsYmRia3RMUlJiLUgtSmZfZHJmSlJKbzJsa0hqTXJiNXgzVmY5eEgzQ2xDRDhSWEx1ZjVxNHhXZzEweWxvQS0w?oc=5",
+      "published": "2026-10-22T10:31:37+00:00",
+      "related": []
+    },
+    {
+      "title": "Cognizant acquires DyFlex Solutions to enhance AI and SAP transformation capabilities",
+      "summary": "Cognizant agreed to acquire Australia-based DyFlex Solutions to strengthen its SAP transformation and AI capabilities across enterprise clients in the Asia-Pacific region.",
+      "why": "IT service firms are using targeted acquisitions to integrate AI accelerators directly into core ERP consulting practices.",
+      "category": "India",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/information-tech/cognizant-acquires-dyflex-solutions-to-enhance-ai-and-sap-transformation-capabilities/articleshow/135120601.cms",
+      "published": "2026-10-22T13:40:44+00:00",
+      "related": [
+        {
+          "date": "2026-10-20",
+          "title": "Cognizant puts 18,000 staff behind Google’s Gemini in AI agent push",
+          "source": "The Next Web",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2QmhjTV9FcEpkaElRYy04eDBpX2R3ZFR0Zk1JYWxScEptMGc1NGFLajV1THpmSEJxWlhXN2RLdTJ5UXFlNHo1QnFlVzA4Y0d3LTZWd3pKUkdkRVd0Y1A4WHNoeFY2cEJ4TDF0amVFVWRwYnd4OWc?oc=5"
+        }
+      ]
+    }
+  ]
+}
