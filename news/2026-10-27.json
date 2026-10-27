@@ -1,0 +1,293 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:21+05:30",
+  "articles_read": 300,
+  "sources_read": 12,
+  "stories": [
+    {
+      "title": "Anthropic officially files for its public debut",
+      "summary": "Anthropic filed publicly for an IPO on Nasdaq under ticker ANT, disclosing soaring revenues, an $80 billion cumulative loss, massive compute commitments, and a governance model designed to preserve its AI safety mission.",
+      "why": "Establishes public market valuation benchmarks and highlights the unprecedented burn rate required for frontier model training.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "published": "2026-10-26T14:35:22+00:00",
+      "related": [
+        {
+          "date": "2026-10-22",
+          "title": "Anthropic to publicly file for IPO as early as Friday, sources say",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPREpSeVQzcmx3WVBKdmRna3pObmZqMEpoN3hvcGpid1JuZEJRODNnZUg5X19DQmJDT2E5YnRqQTNwbWJwMjVPVXQ2MDBLRmNXd1VMOGFScHl6cE9GWUp3LWc0UTAzcGJtRnJiR1ZqdjNWWkZwVV9OX0Y5WkVER2RMMHhmZVBjYVR5aVN2ME1nd3BNNWdQNTFGOTMtM245MGpEOGhRTFNqSlZ0bnBwQmRHZVlLeXJOVFhCZDd3TEpnNA?oc=5"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "Anthropic Lost $80 Billion in Six Months as AI Spending Soars, Draft IPO Filing Shows",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblhoaEJYNXh4UGxublJzZk9SbE9MWFNYcUlaaW1BU3JBWTFxZXR2U3pNa2trUHpsS2ZCTXhyeWE3V1pPblFyTkdjVkRxUnpkMUdlYzZZaVRISFhhVXM0N1VsYzVPMlNMT1Y0TFZiQjM0c0RKdlFzNTgxYmVGbjVxMk9zUkw0ek9VcWxET3RUWjhabVNTajVyc2s4d3F1bDBXdHRXZG5MMzgtMkUyaE55Zk5vN1VyU1lsU2lvekNNNHBPNlFVbHZhOFZ0SnlRTzh5eU9ldGZlU25jbTl2YnEtNw?oc=5"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Anthropic’s founders seek voting control ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "title": "Meta announces $95 billion stock offering to fund AI expansion",
+      "summary": "Meta announced plans to raise up to $95 billion through common stock and convertible preferred shares to fund its aggressive AI infrastructure expansion and custom data center buildouts.",
+      "why": "Demonstrates the immense balance-sheet pressure on hyperscalers to fund gigawatt-scale AI computing clusters.",
+      "category": "Big Tech",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DMHRxU0FJYU1FQ2Q5NFlWX0ZLa3dZQlhnWnlRcU9UZ2N1V0tmRklSTGFoN2h4cmRTNTVzN3BDR0MwS0tBNVg3M0k5eUpoMFp1X1FKd2xPdWE3MTM4YjBONFVXX3JpQTBmTXlV?oc=5",
+      "published": "2026-10-26T11:34:42+00:00",
+      "related": [
+        {
+          "date": "2026-10-26",
+          "title": "Meta’s Cash Flow Turns Negative as AI Spending Surges Despite Strong Earnings",
+          "source": "THE ELEC, Korea Electronics Industry Media",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSmV2UGxmRkt6WF92UThqeGJETHZCNDdIOWlLcmdhLUZSN3RWb19pVXhqdjVpSmplckpWdjl3MmExWjUtNnhBd2tfcHBDUzBkRUczTUNLN0lEUVJ4WVZxZFBsNkRpcHM?oc=5"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "Meta raises capex outlook to USD 135–145 billion amid AI expansion",
+          "source": "DQ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFI1UWFsV0h6M1h4X0did1JHVUFtRGtCa0NCXy0wR1VEel9vZlF0czAxd09vcXlsYWVsU19GZnRxOVlMOHNFT2pkeTlhQzdsVGxoNHhwckNOX3VLejZ4dTVxQ2hxQ2NDUEVlVzZGeDM5UkRWUUFxb1pna1g1RU03VUFJajB2UExsWk0xX3IwbXNYWGh0Qy14ZmtFSEdBQkd5YVFMN0tn0gGmAUFVX3lxTFBQUjVRYWxXSHozWHhfR2J3UkdVQW1Ea0JrQ0JfLTBHVUR6X29mUXRzMDF3T29xeWxhZWxTX0ZmdHE5WUw4c0VPamR5OWFDN2xUbGg0eHByQ05fdUt6Nnh1NXFDaHFDY0NQRWVXNkZ4MzlSRFZRQXFvWmdrWDVFTTdVQUlqMHZQTGxaTTFfcjBtc1hYaHRDLXhma0VIR0FCR3lhUUw3S2c?oc=5"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+          "source": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1NvX2lPSGFjQlNCR1AwTW9tdVlIRHhORm5vRmdJTTU2RXJlZFIwVkRGV0N6Z2JaNXRhY2VqVDBrQ1ROSno2OVNQZllNMy1jRGprY2psb01tZFhLdkNSd3g4YWJWaHJ3c1d0eXdxdFpVWmdQaUdvQ3BCcHZjTVJuZ3VUbU1TQW41Q2c0?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+      "summary": "Wall Street banks and Blackstone arranged a $63 billion debt package to finance Anthropic's leasing of custom Broadcom AI processors, bypassing traditional public cloud infrastructure.",
+      "why": "Signals a decisive shift toward private credit and custom ASICs to finance astronomical enterprise compute demands.",
+      "category": "Funding",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5",
+      "published": "2026-10-26T23:56:37+00:00",
+      "related": [
+        {
+          "date": "2026-10-23",
+          "title": "Blackstone backs $18B debt deal for Anthropic's AI chips",
+          "source": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhDcmZoVXJtSkd6Z3pQdk5VZTBKOXJaNVM3U1RWd1VDbDg2a1RzS3dLd0JHcUJnVlZQcncyQjE4TloyR0xPZ2tDSTJLMmlWQWVoNHMzRmVHR0RKNkVWLVk3emhNY0NiNkNTWUNGUjhmUTdnY3BMRFF3Q1R0REU5N1U3SnRJd3I0TUtRWEFPV1htV00?oc=5"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnB1RXlFY1hwNUhQbnJrN1pzMUlaS1hncHo4ODNZd1R1NDFtVTFOWFd0dkdqNVlQaEhPbVlydjdDR3poUEd6ZTNkaUhOX01LbUJYVmZJU3VLczVEMmdyQldwbm5mNWd1ZVZnS1BjR3JBRFJnM0twVzcybXYyc3JwaDk0VjBlcFktOGR1Z3lhYmVrdTQ5Z3F0ZjNJM2N4N3NvSjBIamZJNA?oc=5"
+        },
+        {
+          "date": "2026-10-02",
+          "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "summary": "OpenAI launched GPT-6.1 Terra, offering three times faster agentic performance at 50% lower API pricing to counter open-weight rivals and accelerate developer adoption.",
+      "why": "Crucial pricing and latency breakthrough for product managers building real-time autonomous enterprise agent workflows.",
+      "category": "Product launch",
+      "source": "BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTVsMGhXeWxBdE9qYThMVkdXUWNZd21ZcWZpQnc4UV8wVW5QN0pBMWtNdWpHdTQzaVZmOXdJVHJaZmlmcDZoYVYxUHFwOXhtVk40aDhyYXhaVWJZRHhVOUVZcFdXMExWNFdtTzdFS2J1aC1XNER6M1FXa1hQXzJ4cEc5bE5GZk0tY1d1eHlKSlVCN0xmeUQwclFFY1FtV0ZHNU4xSExTTVh4LVdfb3lCU05uU3d1a3lPeU5yYjREbkZ3TUZuRnlEbVRZTkdVNkFkdVhkVGVoQWzSAd4BQVVfeXFMUEZPQlY2Ti1HcG1GZ1pzYi1VSTV3REFnaGlSbkZoX1BLbERvNDk2dW5OQkx1ZExCblhwTEFfOFMxMERmeVVnY0RyMU5rUTNCeU5uTFVHQXlzMnQxWlUzMTJIUi1tUWdsTFZUc2NVSHExbndjZGVlQ2JlS1JYeVRJRGNjTzRCZERFakdRcEdFclVaYnhmTmpvVENSemZ6cGgzWEpzNTVfNnhyUmZuZTNXWXRudlVOSVF5VEgwSy13cXJoRU9KY2pJS01vVmNJZWdxSkZqdGdaVHJpWkwxbk9R?oc=5",
+      "published": "2026-10-26T20:46:49+00:00",
+      "related": [
+        {
+          "date": "2026-10-25",
+          "title": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet",
+          "source": "AI Insider",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1ZXUzdOZGRzNHJhZ19Yc21pSnZ2Z1dUbmk0Q3RhTEVwSUljSGZFQ2xrUE8zd1dLX3RlR2xnVURzNG5fXzB4UXE4SFdPbVd6N0w0aG51djB2QnJseVpfRGlIT2xReXJmWVYtRS1hTUNuRjN5dnBDM3BZbU15Wl9OSHRKZld6aGE2cWdVZW1aWk9KRnNCN0tIR1EwQjRpZFlDWXlWNWs2Nll0QVNyVVZiQzVCVlB4ajBKUE1sa3ZZUDVzaE9UWTZ0R0xTMTI1eThjYzNmTGF4dmR4X3BnNGdqQm91bmNCcnUy?oc=5"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "summary": "Microsoft offered voluntary buyouts to up to 60,000 employees across India, the US, UK, and Canada as it reallocates operating budgets toward accelerating AI infrastructure spending.",
+      "why": "Highlights organizational restructuring as tech giants trade human headcount expenses to fund surging AI capex.",
+      "category": "Big Tech",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "published": "2026-10-26T15:58:27+00:00",
+      "related": []
+    },
+    {
+      "title": "Tata Communications to invest Rs 4,350 crore to build India's AI Super Highway, connect major data centre hubs",
+      "summary": "Tata Communications will invest ₹4,350 crore ($450 million) to construct a 10,000 km dedicated 'AI Super Highway' fiber network connecting major data center hubs across India.",
+      "why": "Addresses the critical network latency and high-bandwidth interconnect bottlenecks linking India's regional AI data clusters.",
+      "category": "India",
+      "source": "Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMWRZUHpBSTNsbmNteUtESWwydmh6YXo5Y2ZsVDNOb08yWU5paDBDbWJCbVV4NjZKRDhTRnJROFJiZ21BdWxYeV9tdjRKTkdCX3J0c19ZLWdsNjBCaTNYR3JPZFBGY0xYbmQzQWJGaXpKS05UWi1pRERVVFI1V1VRWG8xT0x6NDJBamF4d1d2VHV4dmk5azE2cEVRYjFyeFh6N0o3SXFFZmZ5aEVkZWIzeUp3TGFqNUIxSUJnRE1KVDZVWUFkWWl4WVVES2h0cS1TRHluRlRVNThOWkR4TTJDUjVmcFllSjRzcTQ1RjhVNklZT2_SAfgBQVVfeXFMT1QteDRJZkc0NTVjeHdYQjRxb3lLNkZqdHR1ajBPWjFRN29wUnYzX3RQRGRZYmJvNnpHX25abVhaSHBxQ0gyb3E5eWpPWWVTVUVjWXRNZElSV2dLeHNYRXJPZGc5ZXc5QndUM25saTVwMk1iNk5tYU02WVNNTlpORXVuQnJIRUFRWFZzSkF2YktBUTZ0cjdNVEhmRlBVbWQwSFVBQzczYXdWZHVEdXROS3JzY0hRRUN4enR3b3dwX0lsZTBtdS1td1A5VEJ4bXdwVlFCaWxHRkV1OGRnTThRNjdzc3lYZ1RTbi1pUG8zMno5QmJBeVg0N1o?oc=5",
+      "published": "2026-10-26T10:35:03+00:00",
+      "related": [
+        {
+          "date": "2026-10-25",
+          "title": "Cortex DC plans 2 GW of AI-ready data centre capacity across India over seven years",
+          "source": "Prop News Time",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSHYxejZTRVQxdUFkNnAtRm8zZnU0ZmNiai1xZnBLeEJsWTFSTTBib3FWNEg1dnVlNXdmSU5jaExHNUZ2MDV1alNVLUVWSUZyVWo1cGh5RXA1ZVlhWVQzbGFQMDBIV2xId3RIWldqZUk0VEp5SHhKUE12WVAyY2RBWERkWUhZdTdtOGl0blBnSjR1eEFSOHBqOG5jVVBCZDJLNGVvOUgxTEFyRnpDdUNBTXVHRkdYYW5NTHN2TURaS0tkVWVQTFJLLV9fakllenFr?oc=5"
+        },
+        {
+          "date": "2026-10-16",
+          "title": "India's data centre capacity may surge to 24-26 GW, impact on overall power demand to remain limited: CEA Chairman",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/indias-data-centre-capacity-may-surge-to-24-26-gw-impact-on-overall-power-demand-to-remain-limited-cea-chairman/articleshow/134969175.cms"
+        }
+      ]
+    },
+    {
+      "title": "Scoop: The FTC is demanding Anthropic execs testify in expanding AI safety probe",
+      "summary": "The US Federal Trade Commission demanded Anthropic executives testify under oath as it expands an investigation into autonomous AI agent safety vulnerabilities and corporate oversight.",
+      "why": "Heightens regulatory risk for enterprise AI platforms deploying autonomous agents into live production workflows.",
+      "category": "Policy",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TSU12YjBVSEl2R0ZuM2lEWEUzWXZfdzRtaWRkT2NEM21hcUFPSzJqLXY5VTlxWGE4N3VVYWVQemt4SVdJMHVQY3BfNjgteURQYkFNcFdUaU9wd255MXhucjg1Q0dOdnhWTmhPRkZDM05tcnNGX2ZKRQ?oc=5",
+      "published": "2026-10-26T18:29:47+00:00",
+      "related": [
+        {
+          "date": "2026-10-16",
+          "title": "FTC Subpoenas OpenAI and Anthropic as AI Safety Incidents Trigger Consumer Protection Investigation",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQclJJeWhjZUtvMjhOTE5UZ0duRVdxR21nVlVxdERqYTZRMWFUX2FhYnlieVN1TDJ5XzJjZ1Y2ampWZktHN1J4SGZWaTNWd0xvbEE3Q2lOUk52eXhjT0NNczAzcm1OVndJVFVSTnBhRlhiOGNGcXBJekVUVUhHUEszanZZUXM1dUV0QXUtMGFTMjJQbG4yckRYcg?oc=5"
+        },
+        {
+          "date": "2026-10-03",
+          "title": "FTC opens safety and antitrust probe into AI giants OpenAI and Anthropic",
+          "source": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zX3ItN3ZWRDlpVXkwNHAwUVZLd0dfRTRJTUYtWktSck11SVA2S1loMWlIdjBLV0ZxT0hVY2YtaWdYMDhtR3RKZGZNWEEwTlFGZk52cWZ4S1htdk0?oc=5"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "FTC opens probe into AI giants including Anthropic and OpenAI, source says",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai-source-says/articleshow/134599896.cms"
+        }
+      ]
+    },
+    {
+      "title": "Bedrock Robotics Raises $600 Million As Demand for Autonomous Heavy Equipment Surges",
+      "summary": "Bedrock Robotics raised $600 million in fresh funding as industrial demand accelerates for physical AI systems automating heavy construction and earthmoving equipment.",
+      "why": "Proves surging investor appetite for physical AI delivering direct labor productivity in capital-intensive industries.",
+      "category": "Funding",
+      "source": "Ventureburn",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZUhWV2t2azVWX3lQV3pneWN0ejRRQzJYXzhiQ3Y3NTNyZnNiVlpZQUxkUnh5YkVRQXY2MUVFX2JDMnFZNlhZMVl6OS1qYkRBeC1mLV9wNzNlaFplcTJXVmNNZVB5REMwd1lxU0VhdXQzTTliLTlCN3Bab3VxeXEwY05EMlVGSmJ1YXhfNXFrUdIBjwFBVV95cUxPZUhWV2t2azVWX3lQV3pneWN0ejRRQzJYXzhiQ3Y3NTNyZnNiVlpZQUxkUnh5YkVRQXY2MUVFX2JDMnFZNlhZMVl6OS1qYkRBeC1mLV9wNzNlaFplcTJXVmNNZVB5REMwd1lxU0VhdXQzTTliLTlCN3Bab3VxeXEwY05EMlVGSmJ1YXhfNXFrUQ?oc=5",
+      "published": "2026-10-27T00:12:49+00:00",
+      "related": []
+    },
+    {
+      "title": "MakeMyTrip rebounds in Q2 FY27 with $1.8M profit",
+      "summary": "MakeMyTrip returned to profitability in Q2 FY27, revealing that its conversational AI agent Myra handled over 90,000 daily queries across multiple Indian regional languages, primarily from Tier-2/3 cities.",
+      "why": "Provides a proven blueprint for deploying vernacular agentic AI to drive real transactional conversions in India.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/makemytrip-swings-back-into-profit-in-second-quarter-of-fy27",
+      "published": "2026-10-26T13:23:55+00:00",
+      "related": []
+    },
+    {
+      "title": "Protectt.ai takes majority stake in Bosch-incubated AIShield to build security platform",
+      "summary": "Cybersecurity firm Protectt.ai acquired a majority stake in Bosch-incubated AIShield to build an enterprise platform defending against AI agent vulnerabilities and runtime threats.",
+      "why": "Capitalizes on surging corporate demand for specialized governance and security guardrails protecting enterprise AI systems.",
+      "category": "India",
+      "source": "The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZGlZeXZILUJkakxnY0ZXU0JnOHdaTWtVTmtsM0pvMzVTWFk0TS1WNWtVSjNuaG4yc0VzVXZSV21LbnoySVhrenp6QmxROEpBM0RHaWJpaWhpMndOMnBSWXNvWTEtdDhubG5ma3BpV28xZnVmS0hJdmJiUHZyWWFKMzBTU05TMWlRbHBQVE5rSnlCX2p1TGRRU3BJWWRtd0tsMlk0N0Jkak9YSTNncUhxVV9uemJVTWx5UmFlaGdSYXotZmMxTWdzRjJQRENkNlY2Y3B1eEd5N0s2eDBaVWsybHQ0OGZCMEZQOFdn0gHwAUFVX3lxTFBZTVc3ZVBEM1B6TEtlU240UkhMcWxPclFrZjNSMTkyV3A0VS1sWFhWMjJhemVKdVhGc0ZPWVg1SkNpVW93Ml9naUpMOHc1amxJX2Uwc0FpSk9ZYjVneXNRcEdNMWU2aExXZFp0SWtUcS1jdi1jdTU1UDk5UmtMQUs2a2dwTE5XeTQ1bmJNb0lHNXpocTRhWXB4aTktLUVuQjYyR1pYOU9vNjhSU1ZDcWN0ckc2XzZSWkVxNm9DOHZ5Y0pDcmU5T0RiSkltVGpCMGo5LTRxOUdxZnZucllBZEFxOFNGeVNxWWV5a2JfLXNXSQ?oc=5",
+      "published": "2026-10-27T00:30:00+00:00",
+      "related": []
+    },
+    {
+      "title": "Healthtech startup BioStack raises $9.5M in seed funding round led by Peak XV, others",
+      "summary": "Bengaluru-based healthtech startup BioStack raised $9.5 million in seed funding led by Peak XV Partners to expand its cross-border clinical data platform for training medical AI models.",
+      "why": "Addresses a critical product bottleneck by aggregating compliant, multi-geography clinical datasets needed for healthcare AI.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/healthtech-startup-biostack-raises-seed-funding-led-by-peak-xv",
+      "published": "2026-10-26T11:31:37+00:00",
+      "related": [
+        {
+          "date": "2026-10-18",
+          "title": "Mettle Capital teams up with Peak XV for maiden deal, to invest in AI startup Empirical Machines",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNa0hpMktKZGZHR191X2RHLUppeXFkSTJRbktJeS1YR0ZITVp3UGhhNWp2RWo2eF9xTVNoMlRVQjlodjJTNnIyS1lINU16N3dSRllfcFM0bTdqdE0tU04tNVBRTS1Pa1hvUzljT080Q0NjNXRjcGQ1Vm01emk5NTVvakwwUEc0VnppSnZ4ak5zZWhSM1J4UHFRYTQzc0JmT1p4RmVBVUFELTZ2WHEtQ0xVdUhZNndWeUdaQlhyam11UVJ2dklsYlJyZndQSGtNT3g1LXFob0VLTU1QT0RLRjFRLXVSNHF6TldpeUlPS21hVnNUQdIB9wFBVV95cUxQRjBhZnN0UDFwQ29QV3NmUVhQTHEwanJ6WjZyeUQ5SmliRHAxZjVWamFvWldzalFjYjBaWU5qckpkTXRzcms5bExHR1RCSGNGOVBiMUI4VkJYWk1jeUhOV3ZvdWl4UzUxVndJSks2SUIyZWRuUnh2bmlsN2FCbFdWa1JRZ1dKaXJMVEpsb1ZrQ2NtOHBRaUVCY29iNU9xbUg1ZTNENUlSZFhIU1dDbHFHcndOSVdaN2ZISmNrbEhRbWtNX0xSRndxcGZiWjJXNUx3RE13ak1kclV1QkdZYklySEhUQ2t5MEFlZUozRklGQ3VxcWU0dzhz?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Meta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands",
+      "summary": "Meta unveiled Meta Business Agent at TechSparks, turning WhatsApp into an autonomous, 24/7 conversational storefront for Indian D2C brands to handle customer acquisition and sales.",
+      "why": "Opens conversational commerce distribution on WhatsApp, offering PMs automated full-funnel customer engagement.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/meta-business-agent-whatsapp-d2c-growth",
+      "published": "2026-10-26T11:57:52+00:00",
+      "related": [
+        {
+          "date": "2026-10-18",
+          "title": "From shareholders to partners: How Google and Meta’s Jio investments evolved into an AI alliance",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms"
+        }
+      ]
+    },
+    {
+      "title": "Nevis Raises $70M Series B Led by EQT Ventures to Expand AI Platform for Wealth Management",
+      "summary": "Nevis raised a $70 million Series B round led by EQT Ventures to scale its AI operating system that automates advisory and compliance workflows for wealth managers.",
+      "why": "Demonstrates verticalized AI platform traction in high-compliance, high-margin financial services.",
+      "category": "Funding",
+      "source": "citybiz",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZQYTlQaHMwWFg5NTdtX2Z5dzAtYm96UHhNU0FnWW5jODV5dk9NanY2cXdIaGRVM21nNXllVUZ1SDRyRFV5bUpKQ2lBRnRPandZSnA1MVhIMm96bFA3elVfaDU3dk45MUhLX1lydGp6VzJ6LWkwNERtbl9DeUhvcERVZy1xWncwRFVUT1g0NVhvUkZHeGlTZjAtZUVHRURDNGFjVFQ4LUh0cXF2dl9nbXVpdE5fSlhzanZ2TE1BbVQzc3NldDR3?oc=5",
+      "published": "2026-10-26T14:22:55+00:00",
+      "related": []
+    },
+    {
+      "title": "Elon Musk warns hundreds of AI cloud start-ups face collapse",
+      "summary": "Elon Musk warned that hundreds of specialized AI cloud startups face insolvency as hyperscalers corner chip supply and venture debt conditions tighten across the industry.",
+      "why": "Alerts product managers to vendor lock-in and solvency risks when selecting independent GPU cloud providers.",
+      "category": "Big Tech",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXlaM3F6VG5TQkhLQ2huVS1vakkxV3phZjRrRkRadTVmSGVCR1ZUNVIzWmIyR3lxajFiRU5rV2VxdVRqX09HVEp2MjdYU0pxa3RyTFJBT25SRm1tMHZmeWQ2SEFMTHNIWExrOG1nampWbTA1OEh3MDB0djhKWkU1UzJJandwemVZTEtNN09TNmFQOXVVZHhHbTFvQXdicHZtTllFLUhyM1VvYTF3cUdvLThR?oc=5",
+      "published": "2026-10-26T11:10:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-26",
+          "title": "SpaceX Secures $40 Billion for AI Semiconductors Amid Funding Crunch",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZjdxWDFfTllDVmh4Nk10bl9XVU15SjNLb185NVdwdzZDUXlBNTF4SUlBQ2cxTHpYNDZWMjhEbnc5RjFRaF9zRlk0VFhOTEQ3U0VzNjdnRTk5aU5HMHY4UFdzSTN4X0dOUlJ4NjNFWklMdHN5QTUwSjgtR0lFdFBDTW5UaVhtZTUt?oc=5"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "CoreWeave Bond Rout Raises New Questions About AI Infrastructure Spending",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXhWYVFJODRabkVhWjdHUkoxdzFncksxWG1DcDgxcmQ4Z3RHbWpHNHNldjJDSkxOc3NiUHYyb2FSczBvMzdpTWhWczRobHVsaEhSY3NEYTV4TWVVNHowTURUd0txenltcFFyMENlTDFJRXBZejRucXVOVmREdE1HbkdWdEVobEQ4M1kwakZPejRtandIOEc2MDZ0UFB3S19SdUE?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Verizon raises 2026 forecast and signs $2bn AI deal with AWS",
+      "summary": "Verizon raised its fiscal outlook and inked a $2 billion AI infrastructure agreement with AWS to embed cloud AI capabilities across its telecom network and operations.",
+      "why": "Highlights how telecom incumbents are leveraging cloud partnerships to monetize generative AI across legacy networks.",
+      "category": "Big Tech",
+      "source": "The Next Web",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yeldNanZscUlfNGt4VVdCazNlRWR4amlfeS1RWWN0M3IzTVRQZWZYLU1vZVZ3TTlZeEllYl9WTEpsNjNzVkE4SDMxRjFDMkxmMXNmTUVFN2RaRG02ckVjd2xXTnEzTkVnTjNodTV3?oc=5",
+      "published": "2026-10-26T12:52:23+00:00",
+      "related": []
+    }
+  ]
+}
