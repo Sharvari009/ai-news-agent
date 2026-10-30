@@ -1,0 +1,341 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:11+05:30",
+  "articles_read": 300,
+  "sources_read": 12,
+  "stories": [
+    {
+      "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project",
+      "summary": "Nvidia is negotiating credit guarantees to back billions in debt financing for neocloud provider Nscale to construct a $45 billion data center dedicated to Anthropic.",
+      "why": "Highlights how hardware vendors use complex balance-sheet financing to sustain massive compute buildouts for frontier AI labs.",
+      "category": "Funding",
+      "source": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
+      "published": "2026-10-29T22:40:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-27",
+          "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom AI chips for Anthropic",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZU9zQUUycTh6SXBkQ25GQUJKTWJabmR3Q1gtYXlZWDJSUWk2cmxGWWRsUlZlSTdVNEtsdDY5d0hVakZ1ZkVDMDFiV2NrdjFaQnNVZUxRMjNESzluZFVBc0s3YU9pZjNZMVR1WEdIOVFrc2phbnRZYWpuYnRXY29Rd0FiVnItWTR1akVvNXhfWDAyNHJId040M2R0Q29HZTAwVzYxUl9OVy0wNWFrV2M3ME1Td25NUGI5cnhOY2JyQUVFS3ZOUGdEZVh1X2pQZWp4NGc?oc=5"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic Makes $2.08 in Revenue for Every $1 Spent on Compute — Here’s the Full IPO Story",
+      "summary": "Anthropic filed its S-1 prospectus to go public on Nasdaq under ticker ANT, disclosing explosive revenue growth alongside steep compute and infrastructure costs.",
+      "why": "A critical milestone for public market valuation and capital efficiency benchmarks in frontier foundation model labs.",
+      "category": "Big Tech",
+      "source": "AIM",
+      "url": "https://analyticsindiamag.com/global-tech/anthropic-makes-208-in-revenue-for-every-1-spent-on-compute-heres-the-full-ipo-story",
+      "published": "2026-10-29T11:36:54+00:00",
+      "related": [
+        {
+          "date": "2026-10-28",
+          "title": "Anthropic's IPO filing lists 93 pages of risks. What could possibly go wrong?",
+          "source": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Yb0oxZW82VTM4UDliRHJ4eHpZQ0RqQmhRWXdjTnBvNVhLXzlFZmxkN2ZFdUJZYk4zT3dOUnJxQVVvcG9MZkZfX2YxUjlpZ2E4NzdFcG11dmU5dlpldWtnTGc0QTZDX2FxZGww?oc=5"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "Anthropic officially files for its public debut",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "Anthropic Lost $80 Billion in Six Months as AI Spending Soars, Draft IPO Filing Shows",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblhoaEJYNXh4UGxublJzZk9SbE9MWFNYcUlaaW1BU3JBWTFxZXR2U3pNa2trUHpsS2ZCTXhyeWE3V1pPblFyTkdjVkRxUnpkMUdlYzZZaVRISFhhVXM0N1VsYzVPMlNMT1Y0TFZiQjM0c0RKdlFzNTgxYmVGbjVxMk9zUkw0ek9VcWxET3RUWjhabVNTajVyc2s4d3F1bDBXdHRXZG5MMzgtMkUyaE55Zk5vN1VyU1lsU2lvekNNNHBPNlFVbHZhOFZ0SnlRTzh5eU9ldGZlU25jbTl2YnEtNw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "summary": "Amazon CEO Andy Jassy projected AWS will become a $1 trillion revenue business, while signaling that high capital expenditures will continue to satisfy AI cloud capacity demand.",
+      "why": "Underlines hyperscaler commitment to unprecedented infrastructure spending despite investor anxiety over near-term ROI.",
+      "category": "Big Tech",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "published": "2026-10-29T23:42:22+00:00",
+      "related": [
+        {
+          "date": "2026-10-25",
+          "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says/articleshow/135161200.cms"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "Meta raises capex outlook to USD 135–145 billion amid AI expansion",
+          "source": "DQ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFI1UWFsV0h6M1h4X0did1JHVUFtRGtCa0NCXy0wR1VEel9vZlF0czAxd09vcXlsYWVsU19GZnRxOVlMOHNFT2pkeTlhQzdsVGxoNHhwckNOX3VLejZ4dTVxQ2hxQ2NDUEVlVzZGeDM5UkRWUUFxb1pna1g1RU03VUFJajB2UExsWk0xX3IwbXNYWGh0Qy14ZmtFSEdBQkd5YVFMN0tn0gGmAUFVX3lxTFBQUjVRYWxXSHozWHhfR2J3UkdVQW1Ea0JrQ0JfLTBHVUR6X29mUXRzMDF3T29xeWxhZWxTX0ZmdHE5WUw4c0VPamR5OWFDN2xUbGg0eHByQ05fdUt6Nnh1NXFDaHFDY0NQRWVXNkZ4MzlSRFZRQXFvWmdrWDVFTTdVQUlqMHZQTGxaTTFfcjBtc1hYaHRDLXhma0VIR0FCR3lhUUw3S2c?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Cohere Raises $5 Billion for Alternative AI Vision",
+      "summary": "Cohere is raising up to $5 billion in fresh capital, with Canada's federal government planning a major investment at a $36 billion valuation.",
+      "why": "Sovereign and enterprise-focused backing gives Cohere dry powder to compete against OpenAI and Anthropic.",
+      "category": "Funding",
+      "source": "PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3pUV1Zkbk91bnAxV05jTEQwTENodkl3WE5CZmRvTzZLTzBIU1RxM0dpQUdvZFY0VmQtYmphV2FvakpET2NTNXlBZDFLLUEycXJOQjB6enNJMHJ3amtObzVBRXVaRVozOGJjSC1FR3FJY0R5Q1Y3OHB2V3N6ZFEybnRYR3hJTENWc2JfSmh1aURBQzRlOTBOQ2l1V2FyUmpqWnRFS08ycVpBU2xRMjZXbQ?oc=5",
+      "published": "2026-10-29T20:54:24+00:00",
+      "related": [
+        {
+          "date": "2026-10-16",
+          "title": "Cohere moves to buy AI cybersecurity startup AISLE",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeW94b2lQdzktYjZ3UXhadzhkZUZ4T1dZMnZ6OGwwc0FfNFlDWHU2MU1vQXh0ZE1CY2Z0M1lmM1Q4eHdnaFRsaDlnSGJBbko1YzRWV0wwTmpIMFRtdnAxRHA4ZWoyQVBsQ3VCM3BVRGkxWHlTeHBjLWpCRWxaUzBibzJXLVZUUEE0NHIyTHBXaEl5cXlBUXgyNDBaSFBMVDVlRU9pc2dLSk5nWE9CN191WjlOdEo0U0VueGdkRklGLXVkTHZCMmM2T0dHOVhveE5kZThz0gHTAUFVX3lxTE15b3hvaVB3OS1iNndReFp3OGRlRnhPV1kydno4bDBzQV80WUNYdTYxTW9BeHRkTUJjZnQzWWYzVDh4d2doVGxoOWdIYkFuSjVjNFZXTDBOakgwVG12cDFEcDhlajJBUGxDdUIzcFVEaTFYeVN4cGMtakJFbFpTMGJvMlctVlRQQTQ0cjJMcFdoSXlxeUFReDI0MFpIUExUNWVFT2lzZ0tKTmdYT0I3X3VaOU50SjRTRW54Z2RGSUYtdWRMdkIyYzZPR0c5WG94TmRlOHM?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "summary": "Meta rolled out Style Sketch, an AI fashion app that connects with Instagram and user photos to build interactive digital wardrobes and recommend outfits.",
+      "why": "Showcases Meta leveraging consumer social graphs to pilot domain-specific, agentic consumer AI apps.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+      "published": "2026-10-29T19:14:36+00:00",
+      "related": [
+        {
+          "date": "2026-10-27",
+          "title": "Meta Business Agent aims to turn WhatsApp into a 24/7 storefront for D2C brands",
+          "source": "YourStory RSS Feed",
+          "url": "https://yourstory.com/2026/10/meta-business-agent-whatsapp-d2c-growth"
+        },
+        {
+          "date": "2026-10-01",
+          "title": "Meta's Muse AI Assistant Hits 5 Million Downloads—Outpacing Growth Of ChatGPT, Grok And Claude",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVGdfN3pzbXZSN0luTlNycHl2eHA2Y3BRVFkxZ01kaEhSdDRIUm1yLThzMVRBTjdvV2lhZU9IdzM3N3pVZXVPbHVrcTJNLTFETE5QWnpKcWJTaHhxc0cxVm51NlFweFlpMG1PLW5IRzRfTU9MS0RXLWN6WlBsUlg5OWYzejVlUjFyR1liQ1FXYXROMVhnR3FBNjN6eDhhVllMWVRVa1lMcW5hemVuNGdub0JtbUpQa0FBZ2poOHBZRERWT1dFNWsyS0N5MXpYRWFUaVl6OVJQbFRxS3lMblFz?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Indic AI startup funding surges 17-fold to $399 million in 2026, driven by Sarvam: Report",
+      "summary": "Indic language AI funding surged 17-fold to $399 million in 2026 according to Tracxn, with Sarvam AI capturing 87% of the total capital deployed.",
+      "why": "Reveals extreme concentration of venture capital into localized Indic foundation models and sovereign AI champions.",
+      "category": "India",
+      "source": "ET Enterprise AI",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWFFaWGl2dGVteFN5SVNrdmZmYV9ycjBuVjlONEZmNGhQVkw2UzRjdEhobFNvNkVMQ3ctcDZCc2ozYUI2VW9zMzBvS0FRSE0xTEpuRFNtRjdNOW4yWl9MVURKTjk2dXB0d1ZzcWQyejNDeHkyaHVUdEg3dkhLLVpFT0pGc2hSSzRlaTQya01MM2tuckYyd0U2cVh5V2RHdWJEU19rT1ZXZjVGY3U2VnpYVGI4QV9zVG5hSDBLcWRSM1Y2Z0tHZHJLV1pKajNsNUo3bG03bnhRYjhRV3BaR29qckNaYS11bmRLa19TdzNGbzJIQdIB9wFBVV95cUxOZnFySEFVdkR0Tk9tdDAyNG1kSzNVdXJYRVI4dVRGVjlrWkFjNl93Mnhpc2RiaENSekxZa0V4TUVVX2ItbFNTWkh3MlU1cE1hQm45MndFcjF1NUwyRzR0SmZYVHpmTGNvcV81QkNfN0VxRFdZU2xmSjNaREJJcWhzZFA3a0FNSWE3RHAwdUZRNEhWQk9MQzNlZ1lvVWpNTzhEZXprNnp5THI0eVB5U3lhYVEycVQ0amYyTTI1S2wwZWJtSnNPZ1RhWF9DR29iLWJNaDJ0cjRfN3dtNUpKX3dnS1JSOGdOUFZpT2dUT1RrUm16dFF6UTVF?oc=5",
+      "published": "2026-10-29T11:35:17+00:00",
+      "related": [
+        {
+          "date": "2026-10-29",
+          "title": "Sarvam, Krutrim Account for 68% of Indic AI Funding as Sector Raises $687 Million: Tracxn",
+          "source": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/sarvam-krutrim-account-for-68-of-indic-ai-funding-as-sector-raises-687-million-tracxn"
+        },
+        {
+          "date": "2026-10-28",
+          "title": "Cognizant in talks to invest in Sarvam AI at $3.5-4 billion valuation: Report",
+          "source": "ET Enterprise AI",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNkpJXzkxV1UtM0dBZHBuYW96Zk1mLWNHbTE2a2VrQ2ZwXzZYZHVUVlA1X3UyVFQwTEZ1czRSWnpkUkxnOTYzSFEteXo5bVVlWTh2TE5vc1loTHAxaDYwTER6YkJuMnFzbHIwRjh6Y2NOdXZYT2c3TXJ5Ql9hTGtlY01neDhWNE1LTUJoS05UWDlFTGUyMUZNYVpNbFRmSHJmUFFQbm9TV3Z1aGhhQWRDcHhqcEVuOU5faUxfWnNjVkhGSjRJOVpkZF85UFhwNHNTeTVRbDktaGlCR2plUEtIdVZqUdIB6AFBVV95cUxNSmhhbWswWWhKdm8xdmZUaGVzclJWWENNRmdxZ1p1YUphd01scU9VbHE0anhOTGNaekFNM3BqYkEtS2hHS0lEWFZuUGFWbjFaOTJ2OVBuMnduWVVzakxuNGdZOUNHN0ZESHJUcW9fT2trTkNhb1Q2NkhTd1lpQWN2NmpPWEdUWXN4Q1dhb2NsR2tnczNzeEl4d2xmaVFHaWM1cVBpOWVHMUJ1U1hOdnhCQUMzVmRmNnVhQW1kWWl3eWhjN3lGSDFneEtMVTBfLVdKXzlOV2dsOTVrSkkxQnQwWDYxS2gydGdX?oc=5"
+        },
+        {
+          "date": "2026-10-14",
+          "title": "Sarvam AI in Talks to Raise $300 Mn at $3 Bn Valuation",
+          "source": "TechStory",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yb05BejhJRTRHRFB2eUxIV21KbzJ2eXgxSEl3RktDSGZGT3VlVS1OUDMxUDlCX29xalVWUWNoZ0czR2wwdTc2dDN5SHVJcEtVRU5sZGR0X3VWcWVMcGV5cG0tNTVCWlNrbUVYMGNmMHAwbkFWRk9yeE5POHAtTW8?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "summary": "Mistral AI released the weights for its trillion-parameter model, specifically targeted at enterprise cyber defense and threat neutralization.",
+      "why": "Expands open-weights competition into critical enterprise security, providing organizations an alternative to closed frontier architectures.",
+      "category": "Product launch",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "published": "2026-10-29T17:00:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-11",
+          "title": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
+          "source": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBwa3pVRlJrazdxNmg1aHdRVU16ckRpcHF3S1FweHpVaG93cUxrTm93SHhnTDQ1LWpqa3V2VG9EdFo2WmdLcFNVMExvVmN4U0dRQjAxWlI5cUFOdzNnZ3hDQlZGdFZVZXJCdmtQZmJaWHlmMVZqaWtlSlhGampWVnI4UjNIZEpkbkdnTjRWUDk3Slo4YmE2aktzZ1NlWkxfT2dKNHgyaTRKeE5TbFJr?oc=5"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+        }
+      ]
+    },
+    {
+      "title": "India’s new-age manufacturers to benefit from $3 trillion global AI investment cycle: Avendus Capital",
+      "summary": "An Avendus Capital report projects Indian advanced manufacturing and hardware firms will capitalize heavily on the global $3 trillion AI infrastructure and semiconductor investment cycle.",
+      "why": "Maps strategic tailwinds for Indian electronics, robotics, and supply-chain players scaling beyond software services.",
+      "category": "India",
+      "source": "YourStory RSS Feed",
+      "url": "https://yourstory.com/2026/10/new-age-manufacturers-to-benefit-from-3-trillion-global-ai-investment-cycle-avendus-capital",
+      "published": "2026-10-29T12:36:55+00:00",
+      "related": [
+        {
+          "date": "2026-10-26",
+          "title": "AI, chips, defence to drive Rs 16 lakh cr in India’s next capex cycle: Union Bank report",
+          "source": "The Financial Express",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2xLV3B3TDU5Z1hxZUFYQ2MzdFBvaldERmExN2ZYWGVMY3hmeVZhM2g3aXphVGR5bklWeVJqdnFGNmkzZllscEo5Q3JGZm9GWV9OYzZSSUZNNFdnM0JQMl9KQ19nMnBWYzJDcjNBSHZVSEhxNlhMNEJzSFZUdnBjWGFBSVRQX3hnU1d0RlVwX1NObVp6MG1BN2ZvdnM0Ynh5MTlPZXY0UkVoVUJSVThRcW9PU2locXFiR3pERXNUWEVXVl96OXA4eC11TXA0UVFtSWVSOUhwYmwzMC0xR05r0gHmAUFVX3lxTE5GWDNOQmdzWnBrc2t5cFBzdjBLbHRIQjFYb0xUbG5lRjdGS1FtazBtdzF4d2p2SzZVOGd2LXZ0dDlvZWxzSkJwclp4NHZqenZrdWV3eE9qZkd5ajRzNG9KZjVfNXFkRGxzNEZUQml5YlFJRXNwQ0RJZy1BTXlma0hpcFhpeFZKOGlTNWhfX3V6YThHTnJuSEF4VGU1dHlOWkllUmR0TGZydk5DeW4wVDFzZzVzY2VNcDhpSVlzQlFwNzlHMDRGTDQtaF9XOE1Pb3l1UEJzVHZvS1gwZ1BHVHZONFNUeFZn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Sebastian Thrun Raises $130 Million for AI Engineering Startup Dulo",
+      "summary": "Autonomous systems pioneer Sebastian Thrun raised a $130 million seed round to launch Dulo, an AI engineering startup developing hardware-focused AI systems.",
+      "why": "Massive seed round signaling immense investor appetite for physical AI and embodied systems.",
+      "category": "Funding",
+      "source": "The Information",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHd5MzhZVkxISlNta2p1emtVTGtuN3FhS3pVOS1PYmdpOVVhUU10LTRvbVNfbmtKOHUxTE41WTh2U1hfQ0l3aUlRdWR5dDVjTll1MkotQTdnZVBRdVNJWHJOUWJuUWlrVFI1cWNLd1Y3Zmo0V3I5c3RSZW9feUlwaGYxdkpQSDRvRFpEejlyTk9vY2tSQ3NqVkpMVTRsaTZ4b3Ztbg?oc=5",
+      "published": "2026-10-29T16:00:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-06",
+          "title": "SiMa.ai raises $150 million in Series C to scale Physical AI",
+          "source": "Evertiq",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZUxmUzRZWHB6ZzAwQzJ0d2lSVmNDT1JEcFFxNVVaNlJ2WEx2UFNISEhqNW5yRUlNUGNBM3JodDdlMTctaHFPdVVBeXJPMGY1aEVFQkd5T1hkanpybTFYRF9Pb1B2NkdONnpLZVN1Z2QwSlZzVC01b1YyREVDakItbkxUUDUzeS1CQVRvNUIzZERLWnZKTll3eWF3?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Serval Raises $150M Series C at $3B Valuation as It Takes on ServiceNow With AI Automation",
+      "summary": "Enterprise automation startup Serval closed a $150 million Series C round at a $3 billion valuation to compete against ServiceNow using agentic workflows.",
+      "why": "Demonstrates vertical AI agents disrupting incumbent enterprise SaaS and IT service management platforms.",
+      "category": "Funding",
+      "source": "Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uM2NsLU9yTUZuemxfU1I4U1hEdkNYZ2FwU0tnLUFsZjdaNElkZnBrTjZORkxtZmltckE3bjFjcXNJU092Z0ZTMGhidXBWQ2xSdWFN?oc=5",
+      "published": "2026-10-29T19:24:34+00:00",
+      "related": [
+        {
+          "date": "2026-10-27",
+          "title": "Nevis Raises $70M Series B Led by EQT Ventures to Expand AI Platform for Wealth Management",
+          "source": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmZQYTlQaHMwWFg5NTdtX2Z5dzAtYm96UHhNU0FnWW5jODV5dk9NanY2cXdIaGRVM21nNXllVUZ1SDRyRFV5bUpKQ2lBRnRPandZSnA1MVhIMm96bFA3elVfaDU3dk45MUhLX1lydGp6VzJ6LWkwNERtbl9DeUhvcERVZy1xWncwRFVUT1g0NVhvUkZHeGlTZjAtZUVHRURDNGFjVFQ4LUh0cXF2dl9nbXVpdE5fSlhzanZ2TE1BbVQzc3NldDR3?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Business News | India Ranks Second Globally in AI-powered Shopping, 76% Consumers Use AI Tools: McKinsey",
+      "summary": "McKinsey reported that India ranks second globally in AI-driven shopping adoption, with 76% of surveyed consumers regularly using conversational and agentic shopping tools.",
+      "why": "High consumer receptivity positions India as a fertile testbed for conversational and autonomous commerce PMs.",
+      "category": "India",
+      "source": "LatestLY",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUHB4RUxrdTV1ZklydUJWSWxEbm5CaWRyUU5CYzlzTHVTblVPUkMwVF9GNnRuZjlnS1ZQQ3Jvd2lNbG5JNXRDM05ZcWo2M0IxZF9HNFZjS0Z6aTVyQlJTM1ZVWVpnblp5YUpud190ZVlVRjhQMGkxczByeXJqcXJiT19YNmlsQzZjMk51TEZyb2ktaHA2emZhdkdPRkFUejNObXBEUWw5RFI5UGpWbzN1eTNuQnNBaGxLeDN6WkR6NWRjc2FxbWxrSFktRElJN2hJUkpOTWN3dk1KbzVEOW1MRkFCd9IB6AFBVV95cUxOU3ZJM1VVWHlWZDBMWS1LOHhxd0RqQ0hxQlJhc2NzT2k0eEhwam9TajFQbDdpb241QjJNbWJ3RVl2U2JUUTVRWDhsNThQUlltSnczcmtETENGNjFqSlg1Ynhzc09WLU81SW9CZFlwOXpoQTJWel9laUhNZzV1QnBzZUFibTRVcHlBMXdNSHRmMnZYZkRocV9xazV1eU00WWRsU1dkczFnUEFmS2xXWC10OVhTb3VJXzhrSVFRb0xQUTFwa0YwQWVJVnppSHVodU1rNXlTUjN6MEFINm1valF2YW1kNmpzel93?oc=5",
+      "published": "2026-10-30T07:38:23+00:00",
+      "related": [
+        {
+          "date": "2026-10-27",
+          "title": "Anthropic officially files for its public debut",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "date": "2026-09-28",
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/"
+        }
+      ]
+    },
+    {
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "summary": "Personal AI assistant startup Wabi secured $55 million at a $1.25 billion valuation to expand its multi-agent platform designed to coordinate groups and build mini-apps.",
+      "why": "Highlights consumer AI monetization shifting toward collaborative multi-agent execution environments.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "published": "2026-10-29T14:35:26+00:00",
+      "related": [
+        {
+          "date": "2026-10-20",
+          "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUlpc05iQVVtbDJ6RXN1WE5peWs4dXE4M2dWMk9xRWRjT3RTZkdHMnAxNEszTi1ySnNOQ3JTSElFZEd4MHMyeW9ZbTBxQXgtX1NkSWJjOW8zN1dlcHJrRXFDTHJkc0E2SEhLcnZESTVTcGNxTkpqWm01UTRVcmVseGVENEliSFhocWozMmFHZGRIREg3TElXZENYOVRLYnlMeUtfQmpBNW91LWpx?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Google integrated interactive document and code editing directly into Gemini chats, enabling real-time previews and modifications of Docs, Sheets, and Markdown files.",
+      "why": "Deepens native workspace integration to counter dedicated AI code editors and standalone agent platforms.",
+      "category": "Product launch",
+      "source": "AI | The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "published": "2026-10-29T18:45:31+00:00",
+      "related": [
+        {
+          "date": "2026-10-28",
+          "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+        },
+        {
+          "date": "2026-10-08",
+          "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+        }
+      ]
+    },
+    {
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "summary": "Reddit is restricting open-web access and requiring user sign-ins as third-party AI scrapers surge and search engine referral traffic drops due to AI answer engines.",
+      "why": "Illustrates how content platforms are enclosing the open web to defend content value against unmonetized AI crawling.",
+      "category": "Big Tech",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "published": "2026-10-29T20:08:31+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Websites are closing their doors to AI agents",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic Urges California to Give Courts Power to Block High-Risk AI Models",
+      "summary": "Anthropic submitted policy proposals to California officials arguing that state courts should possess legal power to issue injunctions blocking high-risk AI models.",
+      "why": "Highlights diverging regulatory strategies among frontier labs attempting to proactively shape state and federal oversight.",
+      "category": "Policy",
+      "source": "PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcjVlV3FEZk1HX0NsTklWWEhYeGt5TUNmUFZ3VFZwMTdRd28wUEROUTdnMTd3NUhvZWhybmVvcFExUGtOMlFkUllyTEJmSmMwZlJ2MlkyTkphNjdMSHhIMnp1VG4xMEF3bVJJR2h2LXFGZjZpTHZ1Y2toMWhSaUdENjRKZ1phblg5YXdYZnVhMmVmdm5iay1WZUNJQndJMEdqc1p6bEFZbTZUMW9DMUVN?oc=5",
+      "published": "2026-10-29T18:51:28+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcUEwWXdwNFhLY05zYUhwYU1wUjg5R2hCN0Mzeko4SzlyZHNvaTRBdjF0WUlhcW13b0JFbzdFWTE3WDZGZmRheklydkdEVkRPNmQtNDZZcnQ0cndUcEJVUkIzQzVNQUt0SFpyOFFvQTR5V2NGZVAtaks5N28zM3dBa0dfZXZ5WXVoUklhbDAwYkhub1M3TkE?oc=5"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Sam Altman Breaks With Anthropic on AI Regulation, Says World Must Accept ‘Some Bad Things’ as AI Benefits Outweigh Harms",
+          "source": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVzRGb3pDZ3c3RDJMdE1VTmNiUUd5V200MVoxazRhaXlhZVpaMDItZ2EzeVBrS2NpRmNId242bEVSOHlPak9CY1Qybk9ENEowSVRDUTJDMTRrUkdDQVk3TURhLVRmalFNcXNZeW5FREtmSVBvZDFPYTctQUVSRXFqa3F1T3FWdmJ0b19seGZEYk9iUEs3?oc=5"
+        }
+      ]
+    }
+  ]
+}
