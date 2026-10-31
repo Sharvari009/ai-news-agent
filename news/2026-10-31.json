@@ -1,0 +1,370 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T14:01+05:30",
+  "articles_read": 300,
+  "sources_read": 12,
+  "stories": [
+    {
+      "title": "OpenAI cuts funding target by $10 billion: FT",
+      "summary": "OpenAI has slashed its latest funding target by $10 billion to $20 billion at a $1.25 trillion valuation as mounting investor tech anxieties and spending scrutiny dampen fundraising momentum.",
+      "why": "Signals recalibrated valuations and tempered private-market risk appetite for frontier AI labs heading toward IPOs.",
+      "category": "Funding",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-funding-target-by-10-billion-ft/articleshow/135384941.cms",
+      "published": "2026-10-31T02:35:12+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "EXCLUSIVE: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZHQyOU05TVZ4RVNpTGdJX18zeHlMZ1pGOGdNeGFmRnFMNERObThVUTl2Ny1CVGU1Vm5IMF9aSS1qaWpOTWlFdDBLeHZIa1lkYnltX1pnU1BLbGdGM3duM1FJZDhocndUWGlUZ0pSaEV6U2RUdzgwX1FaY2s2YllieUo3cTBSWVUtRzJEczR3YXliUzB0d0dRQkRsWjlaQ0FCeXBKM1A2MjlaYzdZa0E?oc=5"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "OpenAI Seeks $30 Billion as Rush to Raise AI Money Quickens",
+          "source": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRjEwV054cG1rbl9UeHgyN1JSYzdvSmhZTWprdUlNMmZVNTNFSEViRDNqamUwdUtleXpHOS1BUUtITWlIeGp3b0FFQmhMakpCMUVubGp4UUlCOHZLWlcyYlpESTZhNGxxUjJLcDlhZDJ0NWgyRE44VDF3S0FYbVU4d1pCQmF0WWhSSV9IdGg5MTREUjE2Q2FlbnN2R0JRY29uU0ZpS2RQQjliRFlqeGNxUEVKSHU1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
+      "summary": "S&P Global revised its credit outlook on Meta to negative, citing massive capex commitments for AI infrastructure that threaten to crimp the tech giant's free operating cash flow.",
+      "why": "Heavy AI infrastructure bets are beginning to trigger debt rating pressures and capital allocation scrutiny across Big Tech.",
+      "category": "Big Tech",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/technology/sp-global-revises-outlook-on-meta-to-negative-on-cashflow-concerns/articleshow/135385073.cms",
+      "published": "2026-10-31T02:39:45+00:00",
+      "related": [
+        {
+          "date": "2026-10-28",
+          "title": "Meta raises AI fundraising plan to $97.5 billion as Nvidia, AMD pledge investments",
+          "source": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3V5c0tJdzRNZFREY0NCYXNkdEVuMDBTNzRwLXlnRUUtN3RzdUwxSWFoT29OTmVuZjNJMXVMRnJvOU5HcTd2dTVhbF8yVnQyTzRFelZ0NEVIUTV4UmNDUGNFSXdndEtVQWU4WjVIdXV1MUh3TnFjcHcxbTMyeWN0R3o2ZkVGVjRMWGJ3Y2E3OGo2ZHE2U0Z3THUxZmNaMGhKSEE?oc=5"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "Meta’s Cash Flow Turns Negative as AI Spending Surges Despite Strong Earnings",
+          "source": "THE ELEC, Korea Electronics Industry Media",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wSmV2UGxmRkt6WF92UThqeGJETHZCNDdIOWlLcmdhLUZSN3RWb19pVXhqdjVpSmplckpWdjl3MmExWjUtNnhBd2tfcHBDUzBkRUczTUNLN0lEUVJ4WVZxZFBsNkRpcHM?oc=5"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "Meta raises capex outlook to USD 135–145 billion amid AI expansion",
+          "source": "DQ",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFI1UWFsV0h6M1h4X0did1JHVUFtRGtCa0NCXy0wR1VEel9vZlF0czAxd09vcXlsYWVsU19GZnRxOVlMOHNFT2pkeTlhQzdsVGxoNHhwckNOX3VLejZ4dTVxQ2hxQ2NDUEVlVzZGeDM5UkRWUUFxb1pna1g1RU03VUFJajB2UExsWk0xX3IwbXNYWGh0Qy14ZmtFSEdBQkd5YVFMN0tn0gGmAUFVX3lxTFBQUjVRYWxXSHozWHhfR2J3UkdVQW1Ea0JrQ0JfLTBHVUR6X29mUXRzMDF3T29xeWxhZWxTX0ZmdHE5WUw4c0VPamR5OWFDN2xUbGg0eHByQ05fdUt6Nnh1NXFDaHFDY0NQRWVXNkZ4MzlSRFZRQXFvWmdrWDVFTTdVQUlqMHZQTGxaTTFfcjBtc1hYaHRDLXhma0VIR0FCR3lhUUw3S2c?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "MeitY Floats New Privacy-Led Framework To Unlock Data For Training AI Models",
+      "summary": "India's Ministry of Electronics and Information Technology proposed a consent-based privacy framework designed to unlock and govern domestic training data access for building AI models.",
+      "why": "Establishes regulatory compliance parameters and foundational data governance rules for product teams training models in India.",
+      "category": "India",
+      "source": "Inc42 Media",
+      "url": "https://inc42.com/buzz/meity-floats-new-privacy-led-framework-to-unlock-data-for-training-ai-models/",
+      "published": "2026-10-30T19:22:05+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "Govt to issue consultation paper on AI law in coming weeks: Ashwini Vaishnaw",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3gwWXd4QWRzY18tY0lfc0JpR1hIekJBY3FEek5iMG1mWFk5TTctT1JCX2lYb3dMYk1FNm8xeDVGZGNud0Rzb2RLN0h5MEdWY2g4SHVtLS1sSUs5VVhabFV4NnNmd0hYU2hScHdmUExoNUdBc2N0UXljOTRPeTctaWtFVjVlWDhGYWR0WWFHRjUyWGpHUHFBaHdSQTN5dGJDODZIVVBiYWxxT3U1VUhWMjJrc0RfQS13Tld2SlBVV0haMkxmMUtkMUthb3TSAdIBQVVfeXFMUDJtYjBwcm5IOHVCN0RWd0tYTVNLOVp6bnFjcGJ3cHVyXzBBRFBfZ2FNQm9RQThyZU9OYXJWRFplMGNKcmRlTDdpbXM5UGVjQU9JT1pQbUpPRUl0ZmtRaF9XdVBSdVh6UWhHOEllWk1peFdCd3p1V2Jndi1tNHZWSWNzT3Y4SlZLSHBPWTdwWFVRNWQ2YmpsclhLb0ZKbEJDaFhtcHo0WVlOQUFWakZ0RVYzbkpnNHNrRU4zOEdPbW1xRFl3aTFOaFNOMEZDYWhDYUdn?oc=5"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Govt plans sovereign AI infrastructure with tighter control over data, GPUs",
+          "source": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNREI3ZWZtZlp4Z0wxMkRCc2lESC1iY3JrZmM0SkdQd2ZZWnNkX2FlWFVnNlBpZXlodWhQa09La2VYWElBZDUwcnA0eU5fX0xxM044ejE2czZ5RWFQcC04Q0xxcEVsRU15T0w1bGpoNnFrSUQ1WHBIMTlodkppTWljYWowXy1XQWRRdlZyczF3ZnJvaDdJaEx6czB0Q3ZFZmdaSkUwTzhkWFpYc0R6bnZ5U0dIVkFwRHYyWVdHOElINmxOUzR1N09kY0hwNHJwbVRPTDhaZmFHSDlWXzBvbEpFT0FKM0RuVHRnR0lleS1n0gHzAUFVX3lxTE1YeGlPQmwtVTNHeXRxR3ZhRVRpejJMMjgwZk1QSHE1UERoVWxpRmlJbl9YVmhpWXN1ZEFWN1F6Z1BaVFpsMEFvMVdxSUdkaFRqZXdiVUF4OXNLVEZNZ0Z2eFVCQldjTEhCU1BvODBaMXJTY09oaFliRXZkRm1XejVJaC0zYVItMkI0R3JyYkJ6SFRPam40WUhBLVVxUFVjSkNiZVBJVU42NXV0ZzBMOFNhc3FTSWZFTTNmYjVUanQ1QzZUZFVRaHRGeWN2Tjdja0M4ZExWaTk3dFZnRmpuNk9TTW4zODFtTWx5RXZvX2JyOTl2QQ?oc=5"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "India to release AI regulation consultation paper within 30 days, says Vaishnaw",
+          "source": "Rediff",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6d9IB2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6dw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Trai proposes draft framework for responsible use of AI in tele networks",
+      "summary": "The Telecom Regulatory Authority of India released a draft framework proposing risk-based safety checks, incident reporting, and responsible deployment standards for AI integrated into telecom networks.",
+      "why": "Creates strict compliance mandates and operational risk obligations for enterprise telecom software and AI infrastructure.",
+      "category": "India",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYXQ0S1JlUVpMTUR4MGNaUUpJWHhGeFZXVmo5NWw5Y0JwM3RvNzl5YUtieldfWlVpQ1BhZkxqWFVlOTVuUWR6d21hVVJEMzU1ek1WYTNtYVhJN1puc2h5b2k4ZVBRYW1JTm1qN1UwSURBdlZlbGJ6S09XUUZySlVtdlpGOHpEcXMtQm01ZzU2R2JiODAtYktxZ0wxaWZRS1JDQ2xWSmNRcnRPTHV3ZFlFamk0RmZjX3VMUmk1YlRRZ3pGcEJOT2R5OFFwZEhadUI5Nlo2N2w0NjZRT1l5bEV1ZmNpSkY4c2JBeDVWMkY3MNIB9AFBVV95cUxQaE5BNHJ2SFFTSllZS194VlVfaE1tLW51OGV1a0h6Uk9WWEVONXljd1RaMEllX0k4dzBLZ2xZd0F4cl9jelpPOUktWFJ4YndpcURROVVQWXo1dlA3VkZXdF81V2lqUXlISmNYb3ZoUFRndzhTSE9DOWx4VVdRSUZIRVRFWGdrdXRKZzZjWmRVY09VTVRZN25lcENLRE52UExRazBEeTZONUZ1ZE5tWkR3RHNqc1lJbnpsX1Y3MU5MbkpRbzRiS0dSa1AxY3hMcE9SMERadkx3Q0ZKdnBJR2VPZmMxSHh2YThpWHB4LXV3X3RTX0Rk?oc=5",
+      "published": "2026-10-30T22:17:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "Govt to issue consultation paper on AI law in coming weeks: Ashwini Vaishnaw",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3gwWXd4QWRzY18tY0lfc0JpR1hIekJBY3FEek5iMG1mWFk5TTctT1JCX2lYb3dMYk1FNm8xeDVGZGNud0Rzb2RLN0h5MEdWY2g4SHVtLS1sSUs5VVhabFV4NnNmd0hYU2hScHdmUExoNUdBc2N0UXljOTRPeTctaWtFVjVlWDhGYWR0WWFHRjUyWGpHUHFBaHdSQTN5dGJDODZIVVBiYWxxT3U1VUhWMjJrc0RfQS13Tld2SlBVV0haMkxmMUtkMUthb3TSAdIBQVVfeXFMUDJtYjBwcm5IOHVCN0RWd0tYTVNLOVp6bnFjcGJ3cHVyXzBBRFBfZ2FNQm9RQThyZU9OYXJWRFplMGNKcmRlTDdpbXM5UGVjQU9JT1pQbUpPRUl0ZmtRaF9XdVBSdVh6UWhHOEllWk1peFdCd3p1V2Jndi1tNHZWSWNzT3Y4SlZLSHBPWTdwWFVRNWQ2YmpsclhLb0ZKbEJDaFhtcHo0WVlOQUFWakZ0RVYzbkpnNHNrRU4zOEdPbW1xRFl3aTFOaFNOMEZDYWhDYUdn?oc=5"
+        },
+        {
+          "date": "2026-10-10",
+          "title": "India to release AI regulation consultation paper within 30 days, says Vaishnaw",
+          "source": "Rediff",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6d9IB2gFBVV95cUxQbC1jVkdfWVVDRmc5andrcU5wQjJPMDNVV1FRMDNQSHFQLUYwOFcwVklLMkhMekd2c1RrVTZWVUFDbHFrUzRxRWFSREs4SjdRMUtmNkIwbFBrdXRrc091M2NPLVgyMnQ2OURxUkYySVpKTjlaNXpueDl1Z3NILTZlM1J1UDdfQkRWbjFYeWVTYnN5dVVPc2wxWVl2VnpKU241QXpjYTEyQUtfNEdyV2lma0d5b0NSOEYxeGtRMjhtSkRUeXpzQzJBNTZxZHhqQTNUYzJFNk1LNVZ6dw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+      "summary": "Google, Microsoft, OpenAI, and Anthropic have backed a unified opt-out standard enabling publishers and websites to block AI model scraping and training data ingestion in one central step.",
+      "why": "Streamlines publisher data licensing and alters the economics of web data acquisition for foundational AI models.",
+      "category": "Big Tech",
+      "source": "PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN2ZKQ1Iyd1N3OGZ6eElDOUIzS2RzZUptb2Vjb290OFh3QlIyalluVi0yTE95UE81aHlBVzhURTRxRGRZUUx3WkxMY1BzQU9fTVZ5R0pMZFlLb3NTQkpucmFrOUJEd053S213ekxoa3lncXdLTkJJdE56MldYaEtyaHlSOUx2d0V0dXhSYw?oc=5",
+      "published": "2026-10-31T08:03:02+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "date": "2026-09-27",
+          "title": "Google, OpenAI and Anthropic are building their own AI regulator, with no government in it",
+          "source": "WION",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZV9zaXVKeERkZXJrX3BzVUVEdU4tSWJGMUNnMmczM19RdzYzSUVvVlBfWG5XYUZpblFSa0JxN1YyZ1U2dldPRldaYk00Rldqak5sbGY2VGtfMmhWY1dCSklyVzE1NG9Fa0RBLTlacGhzdHNfckM5cTF2S0xSSzNJdlpLWmtMSmtiaWJ6Unl0T1Vqc29uQlJ6cGRVUUZldDdnRk1oMjYxX0p6VXp3NE1sdDNQQnAxdWNzcVJ4QXpYQ25WWUV1S3ZUUm1QWTLSAdIBQVVfeXFMT3BtUzBEVmJJMk45WWdfOHVpOUVVWlpQeXNVa0RadWxNaUNCRXhFVGlRQXRqZG8zcldSakREaDJDWV90SF92Y3JOUEp5RjdhUzdwY1FrWTFOcmdfNVVFUmNTVjFjUS1uRXkwWlJ1QWVCVjR6MHhNMVdVRTNlUEF3LWhoU1lyVU5LYTFjb2Z0bGxZU2Mwb21iRVZFLXRpOHcwekJKbDBycFNuMlVMYU5mZU50MS16Z0REenNQWUpCY1ZRTzd6VGlNZExNTUM3SHlXRXV3?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Kuaishou's Kling AI unit completes a near $3 billion funding round",
+      "summary": "Kuaishou's video generation division Kling AI has completed a nearly $3 billion funding round at an $18 billion valuation to scale its multimodal video models.",
+      "why": "Demonstrates escalating capital concentration in generative video platforms competing directly against OpenAI Sora.",
+      "category": "Funding",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVzVjLU5wMTJPamU3eWY1Ymo3TEtQMFB1d2JFb3hYT1ZjOVNSQkhNUGczWmYxTVZhQXBaWHBhMDBNVGNRdC1sdHBNX0paNHRqbER3aVo3cFFQZ1Z6ZHl4czZXbGh4WFpxOUtFSWw0SF9oc1B2N0tlU21tZDYyTG9XSXVadDJlMVBJclJYZ2JoVlVyNW5XclhQY2txVnk0Yy03V1R6U2J4SkFLSFlGUTRrcl9ENnNRSVFjemJJWnAwSW0?oc=5",
+      "published": "2026-10-30T14:11:43+00:00",
+      "related": []
+    },
+    {
+      "title": "UK's CMA opens investigation into Meta's terms for publishers and advertisers",
+      "summary": "The UK's Competition and Markets Authority opened an antitrust probe into Meta over proposed business terms that allegedly obligate publishers and advertisers to provide data for AI training.",
+      "why": "Heightens legal friction around platform terms that force enterprise partners to surrender content for AI training.",
+      "category": "Policy",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQmdZSUNubThrN1F0Z25oYTlqNWdPVzdQUlN4YWRIOW16UWhQbXdTTDA3RXJHWFlVZUF1ZElXQ0FPYUxSVXdGcDFqdDQtdUQxSnJvbk4xaU9sSzFqUTdGWlQyZjJOUUdaRDJOOUZIVllPQ3VqelNyMXVRTzVQVG1oVXBmRUJIMHpHYV9kbzUxYTN4d1dvUnJEUEVGbElwVG9HdUZ3TDNQQ1hOcW91SGpZYm01TlVsRHM?oc=5",
+      "published": "2026-10-30T16:53:37+00:00",
+      "related": [
+        {
+          "date": "2026-10-24",
+          "title": "Meta delays new business terms after publisher pushback on AI scraping",
+          "source": "AI | The Verge",
+          "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+        },
+        {
+          "date": "2026-10-18",
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+        },
+        {
+          "date": "2026-10-17",
+          "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+          "source": "Ars Technica",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHBTZXBWN0tzYWdwd2tydGp4TExpVjRaaGlob3E5WVh6cDVuelJ5ajlWRVNLREJiU2VtUndvWHk3UmNZZkhuVXBNUWRCXzhDZXZ1MS16eVNGemJZdGVaaFZIRUZ3Q0duWnhCX3hEZWxfNkp4Y0o0WGNweU1zZ1ZEQUQxRmNILVRIM3lpOG9nS3lSU0VpUnFvZlVKdGJKWURKT013Z0pLZnNmZ0EzTm9jTlVlQ09ZbEhDaHJ0SkVFNWs1UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic",
+      "summary": "Nvidia is in talks to provide credit guarantees and debt backing to AI cloud neocloud Nscale to finance dedicated Anthropic data center infrastructure.",
+      "why": "Highlights circular financing tactics where chipmakers backstop cloud providers to secure hardware deployment pipelines.",
+      "category": "Big Tech",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidia-in-talks-to-give-credit-support-for-nscales-deal-with-anthropic/articleshow/135341285.cms",
+      "published": "2026-10-30T03:18:58+00:00",
+      "related": [
+        {
+          "date": "2026-10-30",
+          "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project",
+          "source": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5"
+        },
+        {
+          "date": "2026-10-20",
+          "title": "Nvidia-backed Nscale, Anthropic in talks for new $45 billion AI cloud deal, source says",
+          "source": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGMyclR5X0JrXzBKem90Uk1sZnBQNkcyRnlyc3ZnWTM4Q0ZoUWtKUzRrd1Y3aHlqaDRjT1pfaFdmV0pHYUFROFI3TFhTWVhtczJsM01PSF8tSEtXejB4emlhVjZGMmQzeWh0RXJoaS0tNDQ1SDhlZDRJZU5hZG5ibE85N3dxU21DS2ZKYm1NV2pVUUF4ZjF3XzQ1ZncwaHVMdXlWZ2FsWjRtQ1d0eFN2YUVQc2x4cTd6YjNwSTVuVUFQZw?oc=5"
+        },
+        {
+          "date": "2026-09-26",
+          "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+      "summary": "OpenAI CEO Sam Altman met senior Samsung Electronics executives in South Korea to discuss AI hardware collaboration and chip supply strategies amid an industry-wide memory and processor crunch.",
+      "why": "Securing dedicated high-bandwidth memory and fabrication capacity is essential for scaling frontier model infrastructure.",
+      "category": "Big Tech",
+      "source": "Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1Fva1BkZVk3T3ZZVWZiSUNOQVhaMElmVERReF8zekRzTWt0YnNZZUVpTGUtaUd0MFVKcmp2TXF2d2hxNldzTUYyNVhTRjFxUU8xeHAtYllENzhtMDRlbF93dXUtb3RXNWkwbk9icU5KdlN4anY3RzJnSXl2dHZ0a3JTT2QzMlRsY1hhLWxyUVdSYzFFV1E3MzRBeXJmOU5EcnVIUzI0S2hhYTk2dUE?oc=5",
+      "published": "2026-10-31T06:40:00+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips: Report",
+          "source": "Tech-Economic Times",
+          "url": "https://economictimes.indiatimes.com/tech/technology/samsung-to-use-tsmc-technology-for-nvidias-next-generation-memory-chips-report/articleshow/135029867.cms"
+        }
+      ]
+    },
+    {
+      "title": "Ramp Valuation 2026: $60B After $1.85B Round",
+      "summary": "Corporate spend and finance automation startup Ramp reached a $60 billion valuation after closing a fresh $1.85 billion funding round to expand its agentic financial workflows.",
+      "why": "Shows rapid enterprise revenue growth for AI-native workflow agents disrupting traditional corporate ERP systems.",
+      "category": "Funding",
+      "source": "AI Funding Tracker",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15Wk9GcEM4aElweVFrU2g3ZThPcTRMS1VMeXo5b2lWN0ctSzI1SEhuR3lRWUlZaHF0Ulg4aFFQam1ZQ05kS3p6bVJsM3QwYldIZjFLME1YRQ?oc=5",
+      "published": "2026-10-30T17:17:23+00:00",
+      "related": [
+        {
+          "date": "2026-10-28",
+          "title": "Hyphenate raises $45M from Nexus and B Capital to take AI agents into the office of the CFO",
+          "source": "Tech Funding News",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPajdVMnVmRl9oWHBNZ1VaVWsyUTFFelVmSmFTLWpfbVRiU19zbmsyVHFCWTJsUzRaTi1uX2VSNjE2SlRUdFNfT0xpWWo4aEhqOTVZQmFVNkFzaGoyRHk0RS1EZTlDZFBMNThKLUNreTh4eEp0cWZTOF8zb05TRHdwZkxXM2R3NUsyRnJQU0Fn?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Data Security Council unveils India-specific agentic AI liability guide",
+      "summary": "The Data Security Council of India unveiled an India-specific liability guide detailing governance, accountability, and security frameworks for enterprises deploying autonomous agentic AI systems.",
+      "why": "Crucial risk-management blueprint for Indian product managers integrating autonomous agents into enterprise operations.",
+      "category": "India",
+      "source": "Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRmhuZmJGeEtMMlFzTVBqYWlBNzB0b1VfUFJjbmNxelhjMmJzVXZBOUV3VEdPVF9RSC10RVRGNU5kdlJ1NTVEVjNqdnRTM1FIbXJBYmx0eXFhNGZSU2NIOF9OZDFwLUlseTZTTHdzVGZ6eF9YaWZaYnhScUo4U3RiQ3Aya292U2k0c1Jncm9LRmxFb0s1WkF3YWNyTnJNZWg2c2s2cTFwaWxRa3dkUEtKcXREa095cE1NMzFEaFB0M0RqR0dTZnBKNWJSb2VDRV9nYnBHTWpwd9IB3AFBVV95cUxNaGZOQVNza191eXpkWFI1SVlSOTJudDl1RmN4MkJzcVRqMURjWGd1YnRzSzUwenNPUlVBcmZEai1ZcDhtbFdxOERqYk0wb2J1cUpGUEFZM0pDMTQ4RDlmVmYwdDJSZEJLd3VtR0pMdFBwMHlPY1lkdXN3VW9VcnZEbWU2RGdzcGRuUlR3YkVaNU1WUmtZWmMxWGpBVVF4VmFmX0gtajM0RHFRcVBvaGprS1BxUVRDQzU2cmdYeldJUXRydXNCLWRCSjZONXh2TUhpSEJUbUFNMjZUSF9o?oc=5",
+      "published": "2026-10-30T14:33:25+00:00",
+      "related": [
+        {
+          "date": "2026-10-19",
+          "title": "CERT-In Issues Critical Alert After AI Agents Access Live Systems of Indian Organisations Without Authorisation",
+          "source": "www.nationpathindia.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUUk5bndtVjFMN2JDaGJnaVdDQ0dBQ0U2dDViZTU0dEpCVmxseXl3SFoyX0J6aWlodkhyaHpPZWNzblo0ZWNZdm9vZV9GZ3NjQU5lb0NkTWNlOFJvQVZVNWJYQW5qTEtLOHlzdmUyTW0zV0FNWXlhWGRLMEJwT3hOOEM1UFEycWRyaWY1c3pWdGx2RkExdVZURjJFd0VlUQ?oc=5"
+        },
+        {
+          "date": "2026-10-16",
+          "title": "AI agents accessed Indian firms’ live systems during testing, read confidential data: CERT-In",
+          "source": "Moneycontrol.com",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQ0pRbFF5N2xsNWxkNDBGc3hVY1o5elQ2OWRtRnlJbTNqb1J6OGNFMEdTS3NTU1h4X3pRMWowV1Vod3QtMU01SF9MbUd5WXphdjUxYk5NODg1YXN3ZVN0R1VRSWk1NTdSSjE5QlVBUnFVUmQxWVNEUHNTUzFJMzNsTGo0SUFvdThwNXQ0MjB3YzkwYk90cnR3MzluQkF3bGQwdUxjUVdmR2NuYWNlUE5WY0lUM3ozR3laWUkxS2doeHRwN2NNUFlwbU1jbnpCbEs2dmQtZE95dGxFc1ZOVlVzZUdReVpKaVpWYXZjWXhiWFNMaUVNWVVTbdIB_gFBVV95cUxPaHFoSUtNMC1ZMjVKMkdNUVhhUzhjN1hBMV9DdXgzNjRmdm5Kb3ZKc0dCVldNb05UR1ZvYzVRTHE4WXpxVjdraHpqOG8ybDNjazM4MGlkVkxORFU2T2lPR0FsVW50RUR5WTB2Vjc4ZFhaQTVYUk85NVdHRnhQWEpOdUpLcERBUXN1RFRYYjhudE52WDc1OEhlZF9NaHdlT21oVWZseE4wVDVEdXVSMUJhMVAweE9sb1JmUWpSVkRqQXF0c1dwTzVRcGxjQ1hFWDZZcTcyR3QyUkt6dnljRjV1cldHc2R1Zl9DQk1feUw3d0l5bG5VTWM0UTBGUDR3UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Sam Altman Questions AI Token-Based Pricing, Calls Tokens ‘Fake’ Business Units",
+      "summary": "OpenAI CEO Sam Altman questioned standard token-based pricing, characterizing tokens as 'fake' business metrics and hinting at shifts toward outcome-based or compute-based pricing models.",
+      "why": "Points to potential industry-wide shifts in AI SaaS monetization and software unit economics.",
+      "category": "Big Tech",
+      "source": "The Hans India",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNnlzOXZIQlJ4MEkwbEsxN0RvZHVsbC04bW9QODFXN0d1V2dOd0haQVZ6WnZLOHh3TnJiMEJ4VTZDNVprMWN3ZlhzajM3Y0NsLVVwM05kNGFFcHR4RXdjUHctU3piNHdLbF9lSHo5RHVWb29RenhGZmlCM2s2dXNHLTl6MTRES3VMS1l3VFNIRWk5MnNnZmd1bmNGbWhoWXRac01WX1hGV1ZCRmNTVTYxd1MxT1pTbkYzalJESkdR?oc=5",
+      "published": "2026-10-31T08:00:04+00:00",
+      "related": [
+        {
+          "date": "2026-10-27",
+          "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+          "source": "BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLTVsMGhXeWxBdE9qYThMVkdXUWNZd21ZcWZpQnc4UV8wVW5QN0pBMWtNdWpHdTQzaVZmOXdJVHJaZmlmcDZoYVYxUHFwOXhtVk40aDhyYXhaVWJZRHhVOUVZcFdXMExWNFdtTzdFS2J1aC1XNER6M1FXa1hQXzJ4cEc5bE5GZk0tY1d1eHlKSlVCN0xmeUQwclFFY1FtV0ZHNU4xSExTTVh4LVdfb3lCU05uU3d1a3lPeU5yYjREbkZ3TUZuRnlEbVRZTkdVNkFkdVhkVGVoQWzSAd4BQVVfeXFMUEZPQlY2Ti1HcG1GZ1pzYi1VSTV3REFnaGlSbkZoX1BLbERvNDk2dW5OQkx1ZExCblhwTEFfOFMxMERmeVVnY0RyMU5rUTNCeU5uTFVHQXlzMnQxWlUzMTJIUi1tUWdsTFZUc2NVSHExbndjZGVlQ2JlS1JYeVRJRGNjTzRCZERFakdRcEdFclVaYnhmTmpvVENSemZ6cGgzWEpzNTVfNnhyUmZuZTNXWXRudlVOSVF5VEgwSy13cXJoRU9KY2pJS01vVmNJZWdxSkZqdGdaVHJpWkwxbk9R?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+      "summary": "Mistral AI publicly released its Large 4 model following enterprise testing, specifically optimizing the model weights for automated threat detection and enterprise cybersecurity workloads.",
+      "why": "Targeting high-margin enterprise cyber defense models offers open-weight developers a distinct monetization avenue.",
+      "category": "Product launch",
+      "source": "Tech-Economic Times",
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+      "published": "2026-10-31T06:13:40+00:00",
+      "related": [
+        {
+          "date": "2026-10-30",
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        },
+        {
+          "date": "2026-10-07",
+          "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary": "Blackstone warned that credit rating agencies may assign Anthropic a junk bond rating following its IPO due to massive cloud infrastructure commitments and severe ongoing cash burn.",
+      "why": "High debt financing costs could strain capital runways for foundational model builders navigating high compute requirements.",
+      "category": "Funding",
+      "source": "AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "published": "2026-10-30T21:52:03+00:00",
+      "related": [
+        {
+          "date": "2026-10-30",
+          "title": "Anthropic Makes $2.08 in Revenue for Every $1 Spent on Compute — Here’s the Full IPO Story",
+          "source": "AIM",
+          "url": "https://analyticsindiamag.com/global-tech/anthropic-makes-208-in-revenue-for-every-1-spent-on-compute-heres-the-full-ipo-story"
+        },
+        {
+          "date": "2026-10-27",
+          "title": "Anthropic officially files for its public debut",
+          "source": "AI News & Artificial Intelligence | TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "date": "2026-10-21",
+          "title": "Anthropic Lost $80 Billion in Six Months as AI Spending Soars, Draft IPO Filing Shows",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblhoaEJYNXh4UGxublJzZk9SbE9MWFNYcUlaaW1BU3JBWTFxZXR2U3pNa2trUHpsS2ZCTXhyeWE3V1pPblFyTkdjVkRxUnpkMUdlYzZZaVRISFhhVXM0N1VsYzVPMlNMT1Y0TFZiQjM0c0RKdlFzNTgxYmVGbjVxMk9zUkw0ek9VcWxET3RUWjhabVNTajVyc2s4d3F1bDBXdHRXZG5MMzgtMkUyaE55Zk5vN1VyU1lsU2lvekNNNHBPNlFVbHZhOFZ0SnlRTzh5eU9ldGZlU25jbTl2YnEtNw?oc=5"
+        }
+      ]
+    },
+    {
+      "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants By Reuters",
+      "summary": "Capgemini lifted its full-year guidance as accelerating enterprise demand for generative AI deployments and agent integrations drove robust consulting revenue and client bookings.",
+      "why": "Signals that enterprise AI adoption is translating into strong billings for global IT services and consulting providers.",
+      "category": "Big Tech",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOanlQS19iWEI2RUV2cnJ5WEhhR05Idi11VjlJMUozN0FkbVRwQUhacFd1YUZ0OVZPUzZPUWlzV2J1UWQ0Y09rZVlmbDdFX3Q4ekstM254cTFmR2dQSlVTMXhSOEt6VEVWSmR2c3daWWpqX2huSzhmdjZ5RjRqNnRYUmk5M0pXaGRPYkN0MEhMMGNCZXBUWnF6cWJzWmdqcWpHenEzdXh5N1dtNFJfNkNFM0FQQU9nWjlmVy15UlQ5N3VabVRhOEVn?oc=5",
+      "published": "2026-10-30T07:19:48+00:00",
+      "related": [
+        {
+          "date": "2026-10-29",
+          "title": "Indian IT Firms Generate USD 1.7 Billion From AI as TCS, Infosys Lead Revenue Race",
+          "source": "Dynamite News",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZUEtd2V0RHdjUHVUdnNqeXZIRHRKcE9NWk5ORVczWThRNUZBclVxejdwamZFTmExVTY5djFoeDJKQWc2dXljUmZJTDhIZEF2TktVTDN0VDhlRWludTNEV1E0a0hJNV9EUmhKMlZKaDFCcGxfQjhESndXTXdHR2MxVG9pdmU1b0Nsa3huT2pFd09WRW12MGpmLXBpdlhCdWtDZjU4ZjFHa3QwbjdDaXEzdmZ1ZWZESG1uWEswbdIBwgFBVV95cUxPZm9nbmtPZTJ0VmJ5SzZyZjU5RXF3cUU4cWlLa19jV3BqNWxzVkNKVlRqMFhqY0dBQzduZC1kMFVNNGlkc1E0bDByUUNSZG1IejktNC1PZFJoTVJETWV1bUM4RXBIRVJqUDNPc1l3ZGl4N2NRNFlLZ01IYzNXeVlWRmxLYldReXFuWVNfN3ViTEF0bFBxWTZtQzZ0d2lCWDQzOXdZX0RhWW51MURsNmdDM3M0cGR3cGxPN2F4TklfUV9jdw?oc=5"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "AI Responsible For 10.5% Of Infosys' Overall Revenues In Q2 FY27",
+          "source": "Trak.in",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVEw2ZU1HXzdNdUc4QTJ6V2o4azRQS1c3SUlZeW5WSmFfWGR0R0dCMlltajBtZW1ieHpORmJFOHphYmtILTh2OUJiNE9qVjJVb0RyT1Y2YWl4ZGdfVkRvRHhpSDN0b1Y0UVRoU1FiSTNNNHlKUTJTaV8ybDJYNEFlVFdGcDlwOWZIZW1keFlEaW8?oc=5"
+        },
+        {
+          "date": "2026-10-25",
+          "title": "Coforge Revenue Rises 54% as AI Engineering and Deal Bookings Gain Momentum",
+          "source": "AIM",
+          "url": "https://analyticsindiamag.com/ai-news/coforge-revenue-rises-54-as-ai-engineering-and-deal-bookings-gain-momentum"
+        }
+      ]
+    }
+  ]
+}
